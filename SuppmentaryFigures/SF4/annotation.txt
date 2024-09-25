@@ -1,0 +1,150 @@
+>Feature NC_045512.2
+266	21555	gene
+			gene	ORF1ab
+266	13468	CDS
+13468	21555
+			product	ORF1ab polyprotein
+			exception	ribosomal slippage
+			protein_id	NC_045512.2_1
+266	13483	CDS
+			product	ORF1a polyprotein
+			protein_id	NC_045512.2_2
+266	805	mat_peptide
+			product	leader protein
+			protein_id	NC_045512.2_1
+266	805	mat_peptide
+			product	leader protein
+			protein_id	NC_045512.2_2
+806	2719	mat_peptide
+			product	nsp2
+			protein_id	NC_045512.2_1
+806	2719	mat_peptide
+			product	nsp2
+			protein_id	NC_045512.2_2
+2720	8554	mat_peptide
+			product	nsp3
+			protein_id	NC_045512.2_1
+2720	8554	mat_peptide
+			product	nsp3
+			protein_id	NC_045512.2_2
+8555	10054	mat_peptide
+			product	nsp4
+			protein_id	NC_045512.2_1
+8555	10054	mat_peptide
+			product	nsp4
+			protein_id	NC_045512.2_2
+10055	10972	mat_peptide
+			product	3C-like proteinase
+			protein_id	NC_045512.2_1
+10055	10972	mat_peptide
+			product	3C-like proteinase
+			protein_id	NC_045512.2_2
+10973	11842	mat_peptide
+			product	nsp6
+			protein_id	NC_045512.2_1
+10973	11842	mat_peptide
+			product	nsp6
+			protein_id	NC_045512.2_2
+11843	12091	mat_peptide
+			product	nsp7
+			protein_id	NC_045512.2_1
+11843	12091	mat_peptide
+			product	nsp7
+			protein_id	NC_045512.2_2
+12092	12685	mat_peptide
+			product	nsp8
+			protein_id	NC_045512.2_1
+12092	12685	mat_peptide
+			product	nsp8
+			protein_id	NC_045512.2_2
+12686	13024	mat_peptide
+			product	nsp9
+			protein_id	NC_045512.2_1
+12686	13024	mat_peptide
+			product	nsp9
+			protein_id	NC_045512.2_2
+13025	13441	mat_peptide
+			product	nsp10
+			protein_id	NC_045512.2_1
+13025	13441	mat_peptide
+			product	nsp10
+			protein_id	NC_045512.2_2
+13442	13468	mat_peptide
+13468	16236
+			product	RNA-dependent RNA polymerase
+			protein_id	NC_045512.2_1
+13442	13480	mat_peptide
+			product	nsp11
+			protein_id	NC_045512.2_2
+13476	13503	stem_loop
+			note	Coronavirus frameshifting stimulation element stem-loop 1
+13488	13542	stem_loop
+			note	Coronavirus frameshifting stimulation element stem-loop 2
+16237	18039	mat_peptide
+			product	helicase
+			protein_id	NC_045512.2_1
+18040	19620	mat_peptide
+			product	3'-to-5' exonuclease
+			protein_id	NC_045512.2_1
+19621	20658	mat_peptide
+			product	endoRNAse
+			protein_id	NC_045512.2_1
+20659	21552	mat_peptide
+			product	2'-O-ribose methyltransferase
+			protein_id	NC_045512.2_1
+21563	25384	gene
+			gene	S
+21563	25384	CDS
+			product	surface glycoprotein
+			protein_id	NC_045512.2_3
+25393	26220	gene
+			gene	ORF3a
+25393	26220	CDS
+			product	ORF3a protein
+			protein_id	NC_045512.2_4
+26245	26472	gene
+			gene	E
+26245	26472	CDS
+			product	envelope protein
+			protein_id	NC_045512.2_5
+26523	27191	gene
+			gene	M
+26523	27191	CDS
+			product	membrane glycoprotein
+			protein_id	NC_045512.2_6
+27202	27387	gene
+			gene	ORF6
+27202	27387	CDS
+			product	ORF6 protein
+			protein_id	NC_045512.2_7
+27394	27759	gene
+			gene	ORF7a
+27394	27759	CDS
+			product	ORF7a protein
+			protein_id	NC_045512.2_8
+27756	27887	gene
+			gene	ORF7b
+27756	27887	CDS
+			product	ORF7b
+			protein_id	NC_045512.2_9
+27894	28259	gene
+			gene	ORF8
+27894	28259	CDS
+			product	ORF8 protein
+			protein_id	NC_045512.2_10
+28274	29533	gene
+			gene	N
+28274	29533	CDS
+			product	nucleocapsid phosphoprotein
+			protein_id	NC_045512.2_11
+29558	29674	gene
+			gene	ORF10
+29558	29674	CDS
+			product	ORF10 protein
+			protein_id	NC_045512.2_12
+29609	29644	stem_loop
+			note	Coronavirus 3' UTR pseudoknot stem-loop 1
+29629	29657	stem_loop
+			note	Coronavirus 3' UTR pseudoknot stem-loop 2
+29728	29768	stem_loop
+			note	Coronavirus 3' stem-loop II-like motif (s2m)

@@ -1,0 +1,6 @@
+library(ggplot2)
+library(ggsci)
+library(reshape2)
+pool_tem_diagnosis = read.table("./validationDiag.txt",head=T)
+pool_tem_diagnosis_L = melt(pool_tem_diagnosis,id=c("cohort","pool_diagnosis"))
+ggplot(pool_tem_diagnosis_L,aes(x=cohort,y=log(value)),color=pool_diagnosis) + geom_boxplot(outlier.shape=NA) + facet_wrap(facets="variable") + labs(x="",y="log(Contig coverage)")+geom_jitter(size=0.5) +   geom_hline(yintercept =log(0.007), linetype = "dashed", color = "grey50")

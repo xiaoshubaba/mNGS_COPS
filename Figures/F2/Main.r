@@ -1,6 +1,9 @@
 library(ggplot2)
 library(dplyr)
 library(ggsci)
+library(tidyr)
+
+# panelA
 colorsQ = c(pal_nejm("default")(2),"grey50")
 # Read the data
 df <- read.table("single.sample.asm.txt", header = TRUE)
@@ -47,3 +50,134 @@ p <- ggplot(df, aes(x = gatk_Reads)) +
         axis.text.x = element_text(angle = 45, hjust = 1),
         legend.position = "right",
         legend.box = "horizontal")
+
+#panelB
+getLong <- function(data){
+names(data) <- trimws(names(data))
+data$cov <- as.numeric(as.character(data$cov))
+data$signal_ratio <- as.numeric(as.character(data$signal_ratio))
+data$sampleNum <- as.factor(data$sampleNum)
+data$completeNess <- as.numeric(data$completeNess)
+long_data <- data %>%
+  pivot_longer(cols = c(cov, signal_ratio), names_to = "variable", values_to = "value", values_transform = list(value = as.numeric))
+# means
+summary_data <- long_data %>%
+  group_by(sampleNum, variable) %>%
+  summarise(
+    mean = mean(value, na.rm = TRUE),
+    lower = quantile(value, 0.25, na.rm = TRUE),
+    upper = quantile(value, 0.75, na.rm = TRUE),
+    .groups = 'drop'
+  )
+summary_data$sampleNum = factor(summary_data$sampleNum,levels=1:20) # last number
+return(summary_data)
+}
+
+# Function to read data and assign a sample number
+getF <- function(fileName, number) {
+  R <- read.table(fileName, header = TRUE)
+
+  if (dim(R)[1] < 200){
+  fill_R = c()
+  len = 200 - dim(R)[1]
+        for (i in 1:len){
+        fill_tem = data.frame(sample=paste0("R.",number,".","blank"),fragment_num=0,mapped_fragment_num=0,mapped_ref_bases=0,BreakPoint=0,cov=0,snp=0,indel=0,signal_ratio=NA)
+        fill_R = rbind(fill_R,fill_tem)
+        }
+  R = rbind(R,fill_R)
+  }
+  R$sampleNum <- number
+  R$completeNess <- R$cov>95 & R$mapped_fragment_num==1
+  return(R)
+}
+
+bootstrap_stat <- function(data, indices) {
+  d <- data[indices]
+  mean(d, na.rm = TRUE)
+}
+
+
+# Reading the data from two files and binding them
+R1 <- getF("R1.assess.txt", "1")
+R2 <- getF("R2.assess.txt", "2")
+R3 <- getF("R3.assess.txt", "3")
+R4 <- getF("R4.assess.txt", "4")
+R5 <- getF("R5.assess.txt", "5")
+R6 <- getF("R6.assess.txt", "6")
+R7 <- getF("R7.assess.txt", "7")
+R8 <- getF("R8.assess.txt", "8")
+R9 <- getF("R9.assess.txt", "9")
+R10 <- getF("R10.assess.txt", "10")
+R11 <- getF("R11.assess.txt", "11")
+R12 <- getF("R12.assess.txt", "12")
+R13 <- getF("R13.assess.txt", "13")
+R14 <- getF("R14.assess.txt", "14")
+R15 <- getF("R15.assess.txt", "15")
+R20 <- getF("R20.assess.txt", "20")
+#
+RL1 <- getF("RL1.assess.txt", "1")
+RL2 <- getF("RL2.assess.txt", "2")
+RL3 <- getF("RL3.assess.txt", "3")
+RL4 <- getF("RL4.assess.txt", "4")
+RL5 <- getF("RL5.assess.txt", "5")
+RL6 <- getF("RL6.assess.txt", "6")
+RL7 <- getF("RL7.assess.txt", "7")
+RL8 <- getF("RL8.assess.txt", "8")
+RL9 <- getF("RL9.assess.txt", "9")
+RL10 <- getF("RL10.assess.txt", "10")
+RL11 <- getF("RL11.assess.txt", "11")
+RL12 <- getF("RL12.assess.txt", "12")
+RL13 <- getF("RL13.assess.txt", "13")
+RL14 <- getF("RL14.assess.txt", "14")
+RL15 <- getF("RL15.assess.txt", "15")
+RL20 <- getF("RL20.assess.txt", "20")
+data <- rbind(R1,R2,R3,R4,R5,R6,R7,R8,R9,R10,R11,R12,R13,R14,R15,R20)
+dataL <- rbind(RL1,RL2,RL3,RL4,RL5,RL6,RL7,RL8,RL9,RL10,RL11,RL12,RL13,RL14,RL15,RL20)
+data$project = "All samples"
+dataL$project = "low COVID samples"
+data <- rbind(data,dataL)
+data$sampleNum = factor(data$sampleNum,levels=c(1:15,20))
+RL1 <- getF("RL1.assess.txt", "1")
+RL2 <- getF("RL2.assess.txt", "2")
+RL3 <- getF("RL3.assess.txt", "3")
+RL4 <- getF("RL4.assess.txt", "4")
+RL5 <- getF("RL5.assess.txt", "5")
+RL6 <- getF("RL6.assess.txt", "6")
+RL7 <- getF("RL7.assess.txt", "7")
+RL8 <- getF("RL8.assess.txt", "8")
+RL9 <- getF("RL9.assess.txt", "9")
+RL10 <- getF("RL10.assess.txt", "10")
+RL11 <- getF("RL11.assess.txt", "11")
+RL12 <- getF("RL12.assess.txt", "12")
+RL13 <- getF("RL13.assess.txt", "13")
+RL14 <- getF("RL14.assess.txt", "14")
+RL15 <- getF("RL15.assess.txt", "15")
+RL20 <- getF("RL20.assess.txt", "20")
+data <- rbind(R1,R2,R3,R4,R5,R6,R7,R8,R9,R10,R11,R12,R13,R14,R15,R20)
+dataL <- rbind(RL1,RL2,RL3,RL4,RL5,RL6,RL7,RL8,RL9,RL10,RL11,RL12,RL13,RL14,RL1
+5,RL20)
+data$project = "All samples"
+dataL$project = "low COVID samples"
+data <- rbind(data,dataL)
+data$sampleNum = factor(data$sampleNum,levels=c(1:15,20))
+
+data_long <-data %>%  pivot_longer(cols = c(cov, signal_ratio), names_to = "Metric", values_to = "Value")
+p <- ggplot(data_long, aes(x = as.factor(sampleNum), y = Value, color = Metric)) +
+  geom_boxplot(outlier.shape = NA, position = position_dodge(width = 0.75)) +
+  geom_jitter(position = position_dodge(width = 0.75), alpha = 0.4, size = 1) +
+  facet_grid(rows = vars(project), cols = vars(Metric), scales = "free_x", switch = "y",
+             labeller = labeller(Metric = c("cov" = "De novo assembled genomic coverage",
+                                            "signal_ratio" = "Signal ratio"))) +
+  scale_color_manual(values = c("cov" = "#BC3C29FF", "signal" = "grey50")) +
+  labs(x = "Number of pooled samples", y = "Value", color = "Metric") +
+  theme(axis.title = element_text(size = 10), strip.placement = "outside") +
+  stat_summary(
+    aes(group = Metric),
+    fun = mean,
+    geom = "line",
+    position = position_dodge(width = 0.75),
+    size = 1,
+    linetype = "solid"
+  ) +
+  guides(color = FALSE)  # 1) Hide the legend
+#panelC

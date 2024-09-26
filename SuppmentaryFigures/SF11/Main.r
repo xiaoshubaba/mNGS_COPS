@@ -1,0 +1,17 @@
+library(ggsci)
+library(ggplot2)
+colorsQ = c(pal_nejm("default")(5),"grey50","grey30")
+
+data <- read.table("table.txt",head=T)
+data$round <- factor(data$round, levels = c("First", "Second","Third"),	labels = c("De novo Assemble", "First Filter","Second Filter"))
+data$specy <- factor(data$specy, levels = c("COVID","IVA"), labels = c("SARS-2-Cov","IVA"))
+cR = rev(pal_nejm("default")(3))
+MainAB <- read.table("table.A_B.txt",head=T)
+MainAB$IVA_reads_L = log(MainAB$IVA_reads)
+p4 = ggboxplot(MainAB, x = "cohort", y = "IVA_reads_L", color = "cohort",add = "jitter", palette = cR,facet.by="IVA_dominant_Strain") + theme(legend.position = "none",axis.text.x = element_text(size = 8)) + labs(x ="", y = "Number of IVA reads") +  ggtitle("A")
+p5 = ggboxplot(MainAB, x = "cohort", y = "asmCov", color = "cohort",add = "jitter", palette = cR,facet.by="IVA_dominant_Strain") + theme(legend.position = "none",axis.text.x = element_text(size = 8)) + labs(x ="", y = "Denovo Asm coverage") +  ggtitle("B")
+p6 = ggscatter(MainAB,"IVA_reads_L","asmCov",facet.by="cohort",palette=cR,color="cohort",legend="none", add = "loess", conf.int = TRUE,ylim=c(0,100)) + ggtitle("C") + theme(legend.position = "none",axis.text.x = element_text(size = 8)) +  labs(x ="Detected IVA reads(Ln2)", y = "De novo Assemble Coverage")
+
+p1 = ggboxplot(data[which(data$specy=="SARS-2-Cov"),], x = "round", y = "totalNumberContigs", color = "specy",add = "jitter", palette = "grey50") +	theme(legend.position = "none",axis.text.x = element_text(size = 8)) + labs(x = "", y = "Number of Contigs") +	ggtitle("D")
+p2 = ggboxplot(data, x = "round", y = "coverage", color = "specy",add = "jitter", palette = "nejm") + facet_wrap(~ specy) + 	theme(legend.position = "none",axis.text.x = element_text(size = 8)) + 	labs(x = "", y = "Genomic Coverage") +	ggtitle("E")
+p3 = ggboxplot(data, x = "round", y = "signalRatio", color = "specy",add = "jitter", palette = "nejm") + facet_wrap(~ specy) +	theme(legend.position = "none",axis.text.x = element_text(size = 8)) +labs(x = "", y = "Signal Ratio") +ggtitle("F")

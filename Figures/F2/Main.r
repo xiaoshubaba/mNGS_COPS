@@ -201,3 +201,14 @@ p <- ggplot(Main, aes(x = gatkReads)) +
         legend.text = element_text(size = 8),legend.position="none") + geom_smooth(data = Main, aes(y = asmCov, color = "Denovo assemble coverage"), method = "gam", se = TRUE, linetype = "solid") +
   geom_smooth(data = Main, aes(y = gatkCov, color = "Mapped coverage"), method = "gam", se = TRUE, linetype = "solid") +
   geom_smooth(data = Main, aes(y = Signal, color = "Signal Ratio"), method = "gam", se = TRUE, linetype = "solid") +   ylim(0, 100)
+#panel D
+ Main_Mix <- read.table("Table.5.mix.F3.txt",head=T,sep="\t")
+     Main_Mix$project <- factor(Main_Mix$project,levels=c("SARS-Cov-2 study 1","SARS-Cov-2 study 2","HIV","Zika","Ebola","LASV","CHIKV"))
+     Main_Mix_long <- Main_Mix %>%  pivot_longer(cols = c(cov, signal), names_to = "Metric", values_to = "Value")
+     p <- ggplot(Main_Mix_long, aes(x = as.factor(Mixnumber), y = Value, color = Metric)) +
+       geom_boxplot(outlier.shape = NA, position = position_dodge(width = 0.75)) +
+       geom_jitter(position = position_dodge(width = 0.75), alpha = 0.7) +
+       facet_grid(rows = vars(project), cols = vars(Metric), scales = "free_x", switch = "y",labeller = labeller(Metric = c("cov" = "Denovo assembled genomic coverage","signal" = "Signal ratio"))) +  # Facet wrap by project and Metric, switch axes
+       scale_color_manual(values = c("cov" = "#BC3C29FF", "signal" = "grey50")) +
+       labs(x = "Mixnumber",y = "cov/signal value", color = "Metric") +
+       theme(axis.title = element_text(size = 10),legend.title = element_text(size = 10),legend.text = element_text(size = 8),strip.placement = "outside") +  scale_y_log10(labels = scales::trans_format("log10", scales::math_format(10^.x))) +  guides(color = FALSE)  # 1) Hide the legend

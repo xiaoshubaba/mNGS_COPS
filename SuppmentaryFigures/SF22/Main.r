@@ -7,7 +7,7 @@ data <- read.table("mNGS.rna.lib.com.V1.txt", header = TRUE)
 data_percentage <- data
 df_percentage <-data %>%
   rowwise() %>%
-  mutate(across(3:8, ~ . / sum(c_across(3:8)) * 100))
+  mutate(across(2:7, ~ . / sum(c_across(3:8)) * 100))
 
 # 将数据转换为长格式
 data_long <- df_percentage %>%

@@ -181,3 +181,23 @@ p <- ggplot(data_long, aes(x = as.factor(sampleNum), y = Value, color = Metric))
   ) +
   guides(color = FALSE)  # 1) Hide the legend
 #panelC
+Main = read.table("Table.5.single.F3.V2.txt",head=T,sep="\t")
+Main$project = factor(Main$project,levels=c("SARS-Cov-2 study 1","SARS-Cov-2 study 2","HIV","Zika","Ebola","LASV","Dengue","CHIKV"))
+colorsQ = c(pal_nejm("default")(2),"grey50")
+Main$gatkCov = Main$gatkCov * 100
+p <- ggplot(Main, aes(x = gatkReads)) +
+  geom_point(aes(y = asmCov, color = "Denovo assemble coverage"), alpha = 0.6,size=1) +
+  geom_point(aes(y = gatkCov, color = "Mapped coverage"), alpha = 0.6) +
+  geom_point(aes(y = Signal, color = "Signal Ratio"), alpha = 0.6) +
+  scale_x_log10(labels = scales::trans_format("log10", scales::math_format(10^.x))) + scale_color_manual(values = c("Denovo assemble coverage" = colorsQ[1], "Mapped coverage" = colorsQ[2], "Signal Ratio" = colorsQ[3])) +
+  facet_wrap(~ project, ncol = 1,nrow=8,scales = "free_x",strip.position="left") +  # Split into 3 plots based on 'project' variable
+  labs(
+    y = "Coverage/Signal",
+    x = "Number of detected pathogen reads (log10 scale)",
+    color = "Metrics"
+  ) +
+  theme(axis.title = element_text(size = 10), # Adjust axis label sizes
+        legend.title = element_text(size = 10),
+        legend.text = element_text(size = 8),legend.position="none") + geom_smooth(data = Main, aes(y = asmCov, color = "Denovo assemble coverage"), method = "gam", se = TRUE, linetype = "solid") +
+  geom_smooth(data = Main, aes(y = gatkCov, color = "Mapped coverage"), method = "gam", se = TRUE, linetype = "solid") +
+  geom_smooth(data = Main, aes(y = Signal, color = "Signal Ratio"), method = "gam", se = TRUE, linetype = "solid") +   ylim(0, 100)

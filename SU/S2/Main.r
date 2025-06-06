@@ -24,7 +24,7 @@ sf2A <- ggplot(Main, aes(x = gatkReads)) +
 library(scales)
 
 # Load data
-df <- read_tsv("Table.5.mix.F3.txt") %>%
+df <- read_tsv("Mix.status.txt") %>%
   mutate(Mixnumber = as.integer(Mixnumber))
 
 # ---------------------------------------

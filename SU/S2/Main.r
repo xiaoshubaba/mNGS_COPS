@@ -2,6 +2,7 @@ library(ggplot2)
 library(dplyr)
 library(tidyr)
 library(ggsci)
+library(patchwork)
 #SF2-A
 Main = read.table("Single.gatk.reads.txt",head=T,sep="\t")
 colorsQ = pal_nejm("default")(2)
@@ -103,4 +104,55 @@ write_csv(score_df, "Mixnumber_Optimization_Summary.csv")
     legend.title = element_text(size = 10),
     legend.text = element_text(size = 9),
     axis.title = element_text(size = 11)
+  )
+#SF2-CD
+data <- read.table("pops.parameter.tuning.cutoff.txt", header = TRUE, sep = "\t")
+
+# Summarize by parameter
+param_summary <- data %>%
+  group_by(case.cutoff, control.cutoff) %>%
+  summarise(
+    mean_asmCov = mean(asmCov, na.rm = TRUE),
+    mean_Signal = mean(Signal, na.rm = TRUE),
+    success_rate = mean(asmCov > 0, na.rm = TRUE),
+    .groups = "drop"
+  ) %>%
+  mutate(
+    asmCov_norm = (mean_asmCov - min(mean_asmCov)) / (max(mean_asmCov) - min(mean_asmCov)),
+    Signal_norm = (mean_Signal - min(mean_Signal)) / (max(mean_Signal) - min(mean_Signal)),
+    success_norm = (success_rate - min(success_rate)) / (max(success_rate) - min(success_rate)),
+    tradeoff_score = (asmCov_norm * Signal_norm * success_norm + 1e-10)^(1/3)
+  )
+
+# Determine shared color scale limits
+combined_min <- min(c(param_summary$mean_asmCov, param_summary$mean_Signal), na.rm = TRUE)
+combined_max <- max(c(param_summary$mean_asmCov, param_summary$mean_Signal), na.rm = TRUE)
+
+# Define interpolated NEJM gradient
+nejm_gradient <- colorRampPalette(pal_nejm("default")(2))(100)
+
+# Heatmap for asmCov
+pC <- ggplot(param_summary, aes(x = factor(case.cutoff), y = factor(control.cutoff), fill = mean_asmCov)) +
+  geom_tile(color = "white") +
+  geom_text(aes(label = round(mean_asmCov, 1)), color = "black", size = 3) +
+  scale_fill_gradientn(colors = nejm_gradient, limits = c(combined_min, combined_max), name = "Mean Value") +
+  labs(x = "Case Cutoff", y = "Control Cutoff", title = "Assembly Coverage (asmCov)") +
+  theme_minimal(base_size = 11) +
+  theme(
+    plot.title = element_text(face = "bold", size = 13, hjust = 0.5),
+    axis.text = element_text(size = 9),
+    legend.title = element_text(size = 10)
+  )
+
+# Heatmap for Signal
+pD <- ggplot(param_summary, aes(x = factor(case.cutoff), y = factor(control.cutoff), fill = mean_Signal)) +
+  geom_tile(color = "white") +
+  geom_text(aes(label = round(mean_Signal, 1)), color = "black", size = 3) +
+  scale_fill_gradientn(colors = nejm_gradient, limits = c(combined_min, combined_max), name = "Mean Value") +
+  labs(x = "Case Cutoff", y = "Control Cutoff", title = "Signal Ratio") +
+  theme_minimal(base_size = 11) +
+  theme(
+    plot.title = element_text(face = "bold", size = 13, hjust = 0.5),
+    axis.text = element_text(size = 9),
+    legend.title = element_text(size = 10)
   )

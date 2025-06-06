@@ -23,7 +23,7 @@ Generates a complete set of shell scripts to perform per-sample variant calling 
 ###  Usage
 
 ```bash
-perl gatk_pipeline_generator.pl -cl <cleaned_data.txt> -R <reference_list.txt> -cfg <config.txt> -ot_dir <output_dir> -sh <shell_prefix>
+perl POP_controlSbinning.pl -cl <cleaned_data.txt> -R <reference_list.txt> -cfg <config.txt> -ot_dir <output_dir> -sh <shell_prefix>
 ```
 
 ---

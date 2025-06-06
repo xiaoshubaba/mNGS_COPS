@@ -7,9 +7,9 @@ This directory contains scripts to automate genome profiling workflows using the
 
 ---
 
-### 🧬 Main Script: `POP_controlSbinning.pl`
+### Main Script: `POP_controlSbinning.pl`
 
-#### 📌 Purpose
+#### Purpose
 
 Generates a complete set of shell scripts to perform per-sample variant calling using:
 
@@ -28,7 +28,7 @@ perl gatk_pipeline_generator.pl -cl <cleaned_data.txt> -R <reference_list.txt> -
 
 ---
 
-### 🔣 Required Arguments
+### Required Arguments
 
 | Argument | Description                                                           |
 | -------- | --------------------------------------------------------------------- |
@@ -47,7 +47,7 @@ perl gatk_pipeline_generator.pl -cl <cleaned_data.txt> -R <reference_list.txt> -
 
 ---
 
-### 📂 Output Structure
+### Output Structure
 
 ```
 <output_dir>/
@@ -59,7 +59,7 @@ perl gatk_pipeline_generator.pl -cl <cleaned_data.txt> -R <reference_list.txt> -
 
 ---
 
-### ⚙ Example Configuration File (`config.txt`)
+### Example Configuration File (`config.txt`)
 
 ```
 bowtie2thread    8

@@ -7,7 +7,7 @@ This directory contains scripts to automate genome profiling workflows using the
 
 ---
 
-### 🧬 Main Script: `gatk_pipeline_generator.pl`
+### 🧬 Main Script: `POP_controlSbinning.pl`
 
 #### 📌 Purpose
 

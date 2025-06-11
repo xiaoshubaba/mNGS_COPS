@@ -17,7 +17,6 @@ Tab-delimited text file (TSV) with the following columns:
 | **fq2_dna**             | File path to DNA-Seq Read 2 FASTQ (empty for single-end DNA)                                               | `/data/dna/sampleA_R2.fastq.gz`   |
 | **cohort**              | Primary study cohort/group                                                                                 | `case/control`                    |
 | **subcohort**           | Sub-group within the cohort (if applicable)                                                                | `        `                        |
-| **collect_date**        | Sample collection date (YYYY-MM-DD)                                                                        | `2023-05-15`                      |
 | **SequencingPlatform**  | Technology used for sequencing (e.g., Illumina, PacBio)                                                    | `Illumina_NovaSeq_6000`           |
 
 ---
@@ -37,7 +36,7 @@ Tab-delimited text file (TSV) with the following columns:
 
 ## Example Valid Line
 ```tsv
-S67890  Project_Li  blood  se  dual  /rna/S67890_R1.fq.gz  /rna/S67890_R2.fq.gz  /dna/S67890_R1.fq.gz  /dna/S67890_R2.fq.gz  controls  IVA_infection  2022-11-30  Illumina_HiSeq
+S67890  Project_Li  blood  se  dual  /rna/S67890_R1.fq.gz  /rna/S67890_R2.fq.gz  /dna/S67890_R1.fq.gz  /dna/S67890_R2.fq.gz  controls  IVA_infection  Illumina_HiSeq
 ```
 
 ---

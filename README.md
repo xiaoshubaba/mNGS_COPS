@@ -33,6 +33,7 @@ Optional: clinical metadata for advanced filtering
 
 
 License & Attribution
+
 POPS is free, open-source, and licensed under the MIT License.
 
 You are welcome to use, modify, and redistribute the code for any academic, clinical, or public health purpose.

@@ -4,9 +4,9 @@ POPS: Predicted Outbreak Pathogen Sequences
 Reference-Free Metagenomic Pathogen Detection for Outbreaks
 
 
-1. POPS is an open-source bioinformatics pipeline designed for early detection of unknown or emerging pathogens directly from metagenomic sequencing data. It enables reference-free reconstruction of pathogen genome fragments during outbreaks, even when the causative agent has no known close relatives in existing databases.
+1. POPS is an open-source bioinformatics framework designed for early detection of unknown or emerging pathogens directly from metagenomic sequencing data. It enables reference-free reconstruction of pathogen genome fragments during outbreaks, even when the causative agent has no known close relatives in existing databases.
 
-2. This tool is built for clinicians, microbiologists, epidemiologists, and public health responders, aiming to bridge the diagnostic blind spot at the start of an outbreak — the window before any diagnostic tool or reference genome is available.
+2. This approach is built for clinicians, microbiologists, epidemiologists, and public health responders, aiming to bridge the diagnostic blind spot at the start of an outbreak — the window before any diagnostic tool or reference genome is available.
 
 
 Key Features

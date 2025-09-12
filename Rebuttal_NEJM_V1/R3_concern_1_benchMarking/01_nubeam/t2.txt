@@ -1,0 +1,11 @@
+Dataset	Cohort	Raw_Sample_Number	Filtered_Sample_Number	Correct_Predictions	Accuracy
+CHIKV	Control	95	42	41	0.9762
+CHIKV	Case	20	4	0	0
+Ebola	Case	22	7	5	0.7143
+Ebola	Control	48	13	7	0.5385
+LASV	Control	119	98	21	0.2143
+LASV	Case	310	253	208	0.8221
+SARS01	Control	838	827	735	0.8888
+SARS01	Case	219	210	38	0.181
+SARS02	Control	31	27	13	0.4815
+SARS02	Case	45	39	25	0.641

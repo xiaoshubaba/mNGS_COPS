@@ -1,0 +1,153 @@
+nc	name	host
+NC_001410.1	Avocado sunblotch viroid, complete genome	plant
+NC_002563.1	Trichoplusia ni cytoplasmic polyhedrosis virus 15 segment 8,complete sequence	bug
+NC_002566.1	Trichoplusia ni cytoplasmic polyhedrosis virus 15 segment 11,complete sequence	bug
+NC_002602.2	Cucumber mosaic virus satellite RNA, complete genome	plant
+NC_003012.1	Cypovirus 14 RNA 7, complete sequence	bug
+NC_003015.1	Cypovirus 14 RNA 10, complete sequence	bug
+NC_003016.1	Lymantria dispar cypovirus 1 segment 1, complete sequence	bug
+NC_003019.1	Lymantria dispar cypovirus 1 segment 4, complete sequence	bug
+NC_003022.1	Lymantria dispar cypovirus 1 segment 7, complete sequence	bug
+NC_003024.1	Lymantria dispar cypovirus 1 segment 9, complete sequence	bug
+NC_003497.1	Bamboo mosaic virus satellite RNA, complete genome	plant
+NC_003540.1	Chrysanthemum chlorotic mottle viroid, complete genome	plant
+NC_003555.1	Giardia lamblia virus, complete genome	parasite
+NC_003636.1	Peach latent mosaic viroid, complete genome	plant
+NC_003740.1	Raspberry bushy dwarf virus RNA 2, complete sequence	plant
+NC_003757.1	Rice ragged stunt virus segment 9, complete sequence	plant
+NC_003765.1	Rice dwarf virus segment 9, complete sequence	plant
+NC_003766.1	Rice dwarf virus segment 10, complete sequence	plant
+NC_003770.1	Rice ragged stunt virus non-structural protein Pns7 gene,complete cds	plant
+NC_003823.1	Ustilago maydis virus H1, complete genome	fungi
+NC_003855.1	Peanut stunt virus satellite RNA, complete genome	plant
+NC_005175.1	Golden shiner reovirus segment 10, complete sequence	others
+NC_005999.1	St Croix River virus chromosome segment 3, complete genome	tick
+NC_006004.1	St Croix River virus chromosome segment 8, complete genome	tick
+NC_006006.1	St Croix River virus chromosome segment 10, complete genome	tick
+NC_006315.1	Citrus psorosis virus RNA2, complete genome	plant-like
+NC_006460.1	Beet black scorch virus satellite RNA, complete genome	plant(need extensive)
+NC_007567.1	Operophtera brumata reovirus segment 9, complete genome	bug
+NC_007568.1	Operophtera brumata reovirus segment 10, complete genome bug
+NC_007741.1	Liao ning virus segment 6, complete genome	tick
+NC_007743.1	Liao ning virus segment 8, complete genome	tick
+NC_007746.1	Liao ning virus segment 11, complete genome	tick
+NC_008178.1	Micromonas pusilla reovirus segment 8, complete sequence	others
+NC_009245.1	Rice gall dwarf virus segment S11, complete sequence	plant
+NC_010344.1	Raphanus sativus cryptic virus 2 segment 2, complete sequence	plant
+NC_010593.1	American grass carp reovirus segment 10, complete sequence	plant
+NC_010749.1	Mycoreovirus 1 segment 7, complete sequence	others
+NC_011069.1	Ourmia melon virus	plant
+NC_011070.1	Ourmia melon virus	plant
+NC_012544.1	Homalodisca vitripennis reovirus segment S10, complete genome	others
+NC_013112.1	Cassava virus C	Plant
+NC_014525.1	Great Island virus segment 4, complete genome	Tick
+NC_016876.1	Spissistilus festinus reovirus segment 6, complete genome	Bug
+NC_016877.1	Spissistilus festinus reovirus segment 8, complete genome	Bug
+NC_016878.1	Spissistilus festinus reovirus segment 10, complete genome	Bug
+NC_016879.1	Spissistilus festinus reovirus segment 1, complete genome	Bug
+NC_016881.1	Spissistilus festinus reovirus segment 5, complete genome	Bug
+NC_022962.1	Olive viral satellite RNA isolate Caltabellotta1 from Italy, complete genome	Plant
+NC_023683.1	Anopheline-associated C virus isolate acc_1.2s segment 2 hypothetical protein genes, complete cds	Tick
+NC_024031.1	Atlantic salmon calicivirus isolate Nordland/2011, complete genome	Fish
+NC_024077.1	Soybean cyst nematode virus 5 strain ScV5 polyprotein gene, complete cds	Plant
+NC_024807.1	Ethiopian tobacco bushy top virus satellite RNA isolate 18-2, complete sequence	Plant
+NC_024911.1	Cimodo virus strain C74-CI-2004 segment 8, complete sequence	Tick	
+NC_024912.1	Cimodo virus strain C74-CI-2004 segment 9, complete sequence	Tick
+NC_025839.1	Dendrolimus punctatus cypovirus 22 isolate Macheng segment 11, complete sequence	Bug(extend)
+NC_025841.1	Dendrolimus punctatus cypovirus 22 isolate Macheng segment 13, complete sequence	Bug
+NC_025842.1	Dendrolimus punctatus cypovirus 22 isolate Macheng segment 14, complete sequence	Bug
+NC_025850.1	Dendrolimus punctatus cypovirus 22 isolate Macheng segment 6, complete sequence	Bug
+NC_025853.1	Dendrolimus punctatus cypovirus 22 isolate Macheng segment 9, complete sequence	Bug
+NC_027529.1	Rhizoctonia solani RNA virus HN008, complete genome	Fungi
+NC_027538.1	Chenuda virus isolate EGY1954/01 segment 5 tubule protein (NS1) gene, complete cds	Tick
+NC_027541.1	Wad Medani virus isolate SUD1952/01 segment 4 outer capsid protein (VP4) gene, complete cds	Tick
+NC_027544.1	Wad Medani virus isolate SUD1952/01 segment 7 viral inclusion body protein (NS2) gene, complete cds	Tick
+NC_027561.1	Chobar Gorge virus isolate NEP1970/01 segment 9 helicase (VP6) and NS4 protein (NS4) genes, complete cds	Tick
+NC_027704.1	Trichomonas vaginalis virus dsRNA satellite S1', complete sequence	Parasite
+NC_028132.1	Apple hammerhead viroid-like circular RNA, complete genome	Plant
+NC_029600.1	Lake Sarah-associated circular virus-40 isolate LSaCV-40-LSCO-103520-13, complete sequence	Water
+NC_029634.1	Lake Sarah-associated circular molecule 10 isolate LSaCM-10-LSLA-2013, complete sequence	Water
+NC_029916.1	Mahlapitsi virus isolate 2511 segment S3, complete sequence	Bat
+NC_029921.1	Tilapia lake virus isolate Til-4-2011 segment 2, complete sequence	Fish
+NC_029922.1	Tilapia lake virus isolate Til-4-2011 segment 4, complete sequence	Fish
+NC_029925.1	Tilapia lake virus isolate Til-4-2011 segment 9, complete sequence	Fish
+NC_029929.1	Tilapia lake virus isolate Til-4-2011 segment 8, complete sequence
+NC_030865.1	Fusarium poae narnavirus 1 genomic RNA, complete genome	Fungi
+NC_030866.1	Fusarium poae narnavirus 2 genomic RNA, complete genome	Fungi
+NC_032217.1	Hubei sobemo-like virus 3 strain WHBL72900 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds	invertebrate(Intresting)
+NC_032269.1	Hubei tetragnatha maxillosa virus 6 strain SSZZ3520 segment 2 hypothetical protein 1 gene, complete cds	invertebrate(Intresting)
+NC_032281.1	Hubei diptera virus 5 strain SCM245062 putative nucleoprotein gene, complete cds	invertebrate(Intresting)
+NC_032427.1	Beihai barnacle virus 9 strain BHTH10927 putative glycoprotein, hypothetical protein, and RNA-dependent RNA polymerase genes, complete cds	invertebrate(Intresting)	
+NC_032431.1	Hubei tombus-like virus 37 strain WHBL72297 hypothetical protein gene, complete cds	invertebrate(Intresting)
+NC_032522.1	Beihai horseshoe crab virus 1 strain HOU157708 capsid protein gene, complete cds	invertebrate(Intresting)
+NC_032648.1	Beihai shrimp virus 6 strain BHBJDX18793 hypothetical protein 1 and hypothetical protein 2 genes, complete cds	invertebrate(Intresting)
+NC_032741.1	Hubei tombus-like virus 39 strain WGML9144 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds	invertebrate(Intresting)	
+NC_032787.1	Beihai tombus-like virus 16 strain BHWZXX15284 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds	invertebrate(Intresting)
+NC_032802.1	Wenling crustacean virus 15 strain WLJQ91782 RNA-dependent RNA polymrease, putative glycoprotein, and hypothetical protein genes, complete cds	invertebrate(Intresting)
+NC_032885.1	Beihai tombus-like virus 17 strain BHZC33014 hypothetical protein 1 and hypothetical protein 2 genes, complete cds	invertebrate(Intresting)
+NC_032895.1	Beihai sobemo-like virus 25 strain BHZC34084 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds	invertebrate(Intresting)
+NC_032899.1	Hubei picorna-like virus 53 strain GCM3912 hypothetical protein gene, complete cds	invertebrate(Intresting)
+NC_032925.1	Hubei leech virus 1 strain SZmix32467 putative protease, RNA-dependent RNA polymerase, and putative capsid protein genes, complete cds	invertebrate(Intresting)	invertebrate(Intresting)
+NC_033029.1	Changjiang sobemo-like virus 2 strain CJLX29674 replicase, hypothetical protein 2, and putative capsid protein genes, complete cds	invertebrate(Intresting)
+NC_033049.1	Wenling narna-like virus 7 strain WLJQ103612 RNA-dependent RNA polymerase and hypothetical protein genes, complete cds	invertebrate(Intresting)
+NC_033065.1	Wenling crustacean virus 1 strain WLJQ101409 RdRp, hypothetical protein, and putative structural protein genes, complete cds	invertebrate(Intresting)
+NC_033078.1	Beihai sphaeromadae virus 4 strain BHTSS17969 RdRp and putative capsid protein genes, complete cds	invertebrate(Intresting)
+NC_033166.1	Wenzhou bivalvia virus 3 strain beimix38484 hypothetical protein 1 and hypothetical protein 2 genes, complete cds	invertebrate(Intresting)
+NC_033193.1	Hubei zhaovirus-like virus 2 strain WHBL71389 RNA-dependent RNA polymerase and hypothetical protein genes, complete cds	invertebrate(Intresting)
+NC_033234.1	Hubei narna-like virus 17 strain mosHB204971 RNA-dependent RNA polymerase gene, complete cds	invertebrate(Intresting)
+NC_033239.1	Wenzhou sobemo-like virus 1 strain WZFSL61418 hypothetical protein gene, complete cds	invertebrate(Intresting)
+NC_033263.1	Hubei tombus-like virus 43 strain WGML146568 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds	invertebrate(Intresting)
+NC_033285.1	Sanxia Qinvirus-like virus 1 strain SXXX11646 hypothetical protein gene, complete cds	invertebrate(Intresting)
+NC_033288.1	Shahe qinvirus-like virus 1 strain SHWC0209c11359 hypothetical protein gene, complete cds	invertebrate(Intresting)
+NC_033295.1	Wenzhou shrimp virus 9 strain shrimp6189 segment 2 putative capsid protein gene, complete cds	invertebrate(Intresting)
+NC_033330.1	Hubei diptera virus 12 strain SCM245722 segment 2 hypothetical protein gene, complete cds	invertebrate(Intresting)
+NC_033440.1	Wenzhou tombus-like virus 10 strain WZFSL57346 hypothetical protein 1 and hypothetical protein 2 genes, complete cds	invertebrate(Intresting)
+NC_033451.1	Wenzhou tapeworm virus 1 strain SGJSC14943 hypothetical protein 1, hypothetical protein 2, hypothetical protein 3, and putative glycoprotein genes, complete cds	invertebrate(Intresting)
+NC_033453.1	Wuhan arthropod virus 4 strain WHCC117028 segment 2 hypothetical protein gene, complete cds	invertebrate(Intresting)
+NC_033483.1	Wuhan house centipede virus 6 strain WHWG55397 capsid protein and hypothetical protein genes, complete cds	invertebrate(Intresting)
+NC_033484.1	Wuhan insect virus 15 strain WHCCII13252 hypothetical protein gene, complete cds	invertebrate(Intresting)
+NC_033487.1	Wuhan heteroptera virus 2 strain arthropodmix10101 segment 1 hypothetical protein genes, complete cds	invertebrate(Intresting)
+NC_033488.1	Wuhan house centipede virus 4 strain WHYY19909 segment 2 hypothetical protein gene, complete cds	invertebrate(Intresting)
+NC_033696.1	Jingmen tombus-like virus 2 strain JMYJCC11049 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds	invertebrate(Intresting)
+NC_033763.1	Hubei myriapoda virus 9 strain arthropodmix12082 segment 2 hypothetical protein gene, complete cds	invertebrate(Intresting)
+NC_033827.1	Beihai picorna-like virus 57 strain BHHQ57630 hypothetical protein gene, complete cds	invertebrate(Intresting)
+NC_034441.1	Salmovirus WFRC1, complete genome	Fish
+NC_035937.1	Grapevine Cabernet Sauvignon reovirus isolate CS-BR putative outer capsid protein P6 gene, partial cds	Plant
+NC_036471.1	Piscine reovirus isolate CGA280-05 non-structural protein mRNA, complete cds	Fish
+NC_036473.1	Piscine reovirus isolate CGA280-05 core clamp protein mRNA, complete cds	Fish
+NC_036476.1	Piscine reovirus isolate CGA280-05 core shell protein mRNA, complete cds	Fish
+NC_038566.1	Corriparta virus strain AUS1960/01 NS1 protein gene, complete cds	Animal
+NC_038583.1	Equine encephalosis virus isolate HS103/06 NS2 gene, complete cds	Animal
+NC_038605.1	Orungo virus isolate UGMP 359 segment 2, complete sequence	Tick
+NC_038646.1	Choristoneura occidentalis cypovirus 16 segment 8, complete sequence	Bug
+NC_038708.1	Jonchet virus strain B81-CI-2004 segment M, complete sequence	others	
+NC_038847.1	Beet cryptic virus 2 segment dsRNA2b, complete sequence	Plant
+NC_038952.1	Wound tumor virus genomic RNA for structural protein P9	Other
+NC_040444.1	Daphnis nerii cypovirus isolate Nanchang segment 4 hypothetical protein gene, complete cds	Bug
+NC_040466.1	Wenling frogfish arenavirus 2 strain XYHYG24857 segment M, complete sequence	invertebrate
+NC_040648.1	Bovine serum-associated circular virus strain 349 hypothetical protein gene, complete cds	Animal
+NC_040661.1	Diatom colony associated ssRNA virus 2 genomic RNA, complete genome	Others(Intresting)
+NC_040767.1	Osedax japonicus RNA virus 1 OjRV1 genomic RNA, segment RNA2, complete sequence	Animal(Intresting)
+NC_040816.1	Gigaspora margarita mitovirus 2 isolate GmMV2-BEG34, complete genome	Fungi
+NC_043030.1	Aeropyrum pernix bacilliform virus 1 DNA, segment 1, complete sequence	Archaea
+NC_043367.1	Diadromus pulchellus reovirus 1.318kb RNA segment	Bug(Intresting)
+NC_043479.1	Mothra bunyavirus strain JG1 glycoprotein precursor, gene, partial cds	Bug
+NC_045425.1	Thermus phage phiOH3 genomic DNA, complete genome	Phage
+NC_055227.1	Shuangao chryso-like virus 1 strain mosWSB68555 segment 2, complete sequence	Tick(CheckAgain)
+NC_055260.1	Tarumizu tick virus VP7 gene for VP7, complete cds, strain: 13T269	Tick(intresting)
+NC_055276.1	Fusarium redolens polymycovirus 1 isolate FRPV.A63-1 segment RNA 6, complete sequence	Fungi
+NC_055436.1	Entoleuca phenui-like virus 1 isolate EnPV1-115-5 segment RNA2, complete sequence	Plant
+NC_055638.1	Bern perch virus strain BEPV CH17 segment M, complete sequence	Fish	
+NC_076264.1	Gyrovirus 11, complete genome	Others
+NC_076410.1	Termite HDV-like virus, complete genome	Termite
+NC_076645.1	Sclerotinia sclerotiorum hypovirus 6 strain BLH-1-1 polyprotein (QKQ18_gp1) gene, complete cds	Termite
+NC_078006.1	Tai Forest reovirus putative microtubule-associated protein VP10 (QK577_s10gp1) gene, partial cds	Bat(Intresting)
+NC_078031.1	Colletotrichum camelliae filamentous virus 1 segment RNA 3, complete sequence	Fungi
+NC_078317.1	Narangue virus strain Mati1754-2 segment M genomic sequence	Tick(intresting)
+NC_078368.1	Perilla mosaic virus Kochi_Nankoku_2011 RNA, segment RNA2, complete sequence	Plant
+NC_078521.1	Rainbow trout orthomyxovirus-1 strain Rainbow/Idaho/347/1997 putative nucleoprotein (NP) gene, complete cds	Fish
+NC_078568.1	Hadaka virus 1 7n genomic RNA, segment 11, complete sequence	Fungi
+NC_078606.1	Pilchard orthomyxovirus isolate POMV14-01514 segment 7, complete sequence	Fish
+NC_078612.1	Pilchard orthomyxovirus isolate POMV14-01514 segment 6, complete sequence	Fish
+NC_079067.1	Turtle fraservirus 1 strain 2020 segment S, complete sequence	Turtle
+NC_079068.1	Turtle fraservirus 1 strain 2020 segment L, complete sequence	Turtle

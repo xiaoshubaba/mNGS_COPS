@@ -1,0 +1,2394 @@
+fragment	annotation	frquency	length	status
+k141_1504 flag=1 multi=129.0000 len=312	NA	NA	312	Unannotated
+k141_77 flag=1 multi=54.0000 len=305	Rhodococcus qingshengii	25	305	Annotated
+k141_81 flag=1 multi=555.0000 len=617	Rhodococcus qingshengii	25	617	Annotated
+k141_49 flag=1 multi=155.0000 len=391	Rhodococcus qingshengii	25	391	Annotated
+k141_90 flag=1 multi=338.0000 len=384	Rhodococcus qingshengii	25	384	Annotated
+k141_96 flag=1 multi=281.0000 len=448	Rhodococcus qingshengii	25	448	Annotated
+k141_1504 flag=1 multi=129.0000 len=312	NA	NA	312	Unannotated
+k141_77 flag=1 multi=54.0000 len=305	Rhodococcus qingshengii	25	305	Annotated
+k141_81 flag=1 multi=555.0000 len=617	Rhodococcus qingshengii	25	617	Annotated
+k141_49 flag=1 multi=155.0000 len=391	Rhodococcus qingshengii	25	391	Annotated
+k141_90 flag=1 multi=338.0000 len=384	Rhodococcus qingshengii	25	384	Annotated
+k141_96 flag=1 multi=281.0000 len=448	Rhodococcus qingshengii	25	448	Annotated
+k141_895 flag=1 multi=245.0000 len=310	Pseudomonas aeruginosa	68	310	Target
+k141_423 flag=1 multi=440.0000 len=326	NA	NA	326	Unannotated
+k141_2300 flag=1 multi=362.0000 len=20758	Rhodococcus qingshengii	22	20758	Annotated
+k141_1510 flag=1 multi=574.0000 len=3405	Rhodococcus qingshengii	25	3405	Annotated
+k141_1603 flag=1 multi=278.0000 len=324	Rhodococcus qingshengii	25	324	Annotated
+k141_1514 flag=1 multi=597.0000 len=2895	Rhodococcus qingshengii	34	2895	Annotated
+k141_1545 flag=1 multi=633.0000 len=4645	Rhodococcus qingshengii	25	4645	Annotated
+k141_1079 flag=1 multi=123.0000 len=437	Pseudomonas oryziphila	2	437	Target
+k141_1008 flag=1 multi=528.0000 len=987	Rhodococcus qingshengii	25	987	Annotated
+k141_523 flag=1 multi=683.0000 len=9078	Rhodococcus qingshengii	25	9078	Annotated
+k141_935 flag=1 multi=632.0000 len=1211	Rhodococcus qingshengii	25	1211	Annotated
+k141_1114 flag=1 multi=250.0000 len=569	Rhodococcus qingshengii	25	569	Annotated
+k141_347 flag=1 multi=621.0000 len=311	Penicillium manginii	1	311	Target
+k141_1817 flag=1 multi=110.0000 len=350	Rhodococcus qingshengii	25	350	Annotated
+k141_1819 flag=1 multi=302.0000 len=319	Rhodococcus qingshengii	25	319	Annotated
+k141_785 flag=1 multi=69.0000 len=314	Escherichia coli	98	314	Target
+k141_183 flag=1 multi=632.0000 len=3604	Rhodococcus qingshengii	25	3604	Annotated
+k141_2123 flag=1 multi=320.0000 len=589	Rhodococcus qingshengii	15	589	Annotated
+k141_100 flag=1 multi=615.0000 len=2213	Rhodococcus qingshengii	25	2213	Annotated
+k141_109 flag=1 multi=184.0000 len=329	Rhodococcus qingshengii	25	329	Annotated
+k141_1342 flag=1 multi=78.0000 len=321	Stutzerimonas stutzeri	23	321	Target
+k141_2125 flag=1 multi=239.0000 len=419	Rhodococcus qingshengii	25	419	Annotated
+k141_1211 flag=1 multi=1806.0000 len=6450	Rhodococcus qingshengii	16	6450	Annotated
+k141_1265 flag=1 multi=695.0000 len=1959	Rhodococcus qingshengii	24	1959	Annotated
+k141_984 flag=1 multi=569.0000 len=2983	Rhodococcus qingshengii	25	2983	Annotated
+k141_2152 flag=1 multi=512.0000 len=317	Rhodococcus qingshengii	30	317	Annotated
+k141_181 flag=1 multi=747.0000 len=1180	Rhodococcus qingshengii	11	1180	Annotated
+k141_124 flag=1 multi=1001.0000 len=355	NA	NA	355	Unannotated
+k141_1859 flag=1 multi=609.0000 len=1626	Rhodococcus qingshengii	25	1626	Annotated
+k141_1934 flag=1 multi=602.0000 len=977	Rhodococcus qingshengii	25	977	Annotated
+k141_1864 flag=1 multi=294.0000 len=634	Rhodococcus ruber	10	634	Annotated
+k141_227 flag=1 multi=484.0000 len=11526	Rhodococcus qingshengii	10	11526	Annotated
+k141_228 flag=1 multi=408.0000 len=8808	Rhodococcus qingshengii	17	8808	Annotated
+k141_1520 flag=1 multi=163.0000 len=395	Rhodococcus qingshengii	25	395	Annotated
+k141_1214 flag=1 multi=398.0000 len=13081	Rhodococcus qingshengii	25	13081	Annotated
+k141_1721 flag=1 multi=250.0000 len=355	Rhodococcus erythropolis	2	355	Annotated
+k141_1723 flag=1 multi=602.0000 len=2832	Rhodococcus qingshengii	25	2832	Annotated
+k141_746 flag=1 multi=711.0000 len=16257	Rhodococcus qingshengii	25	16257	Annotated
+k141_1084 flag=1 multi=734.0000 len=1033	Rhodococcus qingshengii	16	1033	Annotated
+k141_572 flag=1 multi=318.0000 len=5519	Rhodococcus qingshengii	38	5519	Annotated
+k141_1564 flag=1 multi=96.0000 len=509	Limnobacter thiooxidans	1	509	Target
+k141_306 flag=1 multi=127.0000 len=517	Rhodococcus qingshengii	25	517	Annotated
+k141_1156 flag=1 multi=617.0000 len=3993	Rhodococcus qingshengii	24	3993	Annotated
+k141_1453 flag=1 multi=216.0000 len=324	Rhodococcus qingshengii	25	324	Annotated
+k141_311 flag=1 multi=486.0000 len=4336	Actinoplanes sp. SE50/110	2	4336	Target
+k141_606 flag=1 multi=706.0000 len=5373	Rhodococcus qingshengii	27	5373	Annotated
+k141_609 flag=1 multi=920.0000 len=918	Rhodococcus qingshengii	25	918	Annotated
+k141_614 flag=1 multi=255.0000 len=401	Rhodococcus erythropolis	10	401	Annotated
+k141_1892 flag=1 multi=708.0000 len=12098	Rhodococcus qingshengii	23	12098	Annotated
+k141_274 flag=1 multi=231.0000 len=434	NA	NA	434	Unannotated
+k141_280 flag=1 multi=240.0000 len=417	Variovorax sp. 278MFTsu5.1	1	417	Target
+k141_287 flag=1 multi=96.3023 len=356	Cepola macrophthalma	7	356	Target
+k141_1805 flag=1 multi=677.0000 len=4474	Rhodococcus qingshengii	25	4474	Annotated
+k141_942 flag=1 multi=699.0000 len=13425	Rhodococcus qingshengii	25	13425	Annotated
+k141_113 flag=1 multi=476.0000 len=420	Rhodococcus qingshengii	12	420	Annotated
+k141_1127 flag=1 multi=334.0000 len=356	Rhodococcus qingshengii	24	356	Annotated
+k141_2341 flag=1 multi=688.0000 len=7267	Rhodococcus qingshengii	25	7267	Annotated
+k141_147 flag=1 multi=330.0000 len=334	Triticum dicoccoides	12	334	Annotated
+k141_561 flag=1 multi=221.0000 len=327	Zea mays	6	327	Target
+k141_1634 flag=1 multi=1830.0000 len=327	Rhodococcus qingshengii	6	327	Annotated
+k141_1529 flag=1 multi=747.0000 len=6045	Rhodococcus qingshengii	22	6045	Annotated
+k141_530 flag=1 multi=472.0000 len=443	Rhodococcus qingshengii	25	443	Annotated
+k141_471 flag=1 multi=704.0000 len=1490	Rhodococcus qingshengii	25	1490	Annotated
+k141_2309 flag=1 multi=380.0000 len=495	Rhodococcus qingshengii	25	495	Annotated
+k141_2203 flag=1 multi=673.0000 len=2171	Rhodococcus qingshengii	26	2171	Annotated
+k141_1090 flag=1 multi=216.0000 len=416	Rhodococcus qingshengii	20	416	Annotated
+k141_1095 flag=1 multi=846.0000 len=5694	Rhodococcus qingshengii	25	5694	Annotated
+k141_15 flag=1 multi=577.0000 len=1278	Rhodococcus qingshengii	18	1278	Annotated
+k141_1821 flag=1 multi=478.0000 len=430	Rhodococcus qingshengii	26	430	Annotated
+k141_25 flag=1 multi=754.0000 len=617	Rhodococcus qingshengii	25	617	Annotated
+k141_1035 flag=1 multi=228.0000 len=528	Rhodococcus qingshengii	25	528	Annotated
+k141_356 flag=1 multi=733.0000 len=15033	Rhodococcus qingshengii	26	15033	Annotated
+k141_37 flag=1 multi=27.0000 len=372	Janibacter indicus	2	372	Target
+k141_362 flag=1 multi=380.0000 len=1215	Rhodococcus qingshengii	15	1215	Annotated
+k141_363 flag=1 multi=806.0000 len=4514	Rhodococcus qingshengii	24	4514	Annotated
+k141_1353 flag=1 multi=592.0000 len=1366	Rhodococcus erythropolis	6	1366	Annotated
+k141_1579 flag=1 multi=669.0000 len=6195	Rhodococcus qingshengii	25	6195	Annotated
+k141_1759 flag=1 multi=122.0000 len=335	Prescottella equi	26	335	Target
+k141_194 flag=1 multi=264.0000 len=428	Rhodococcus qingshengii	25	428	Annotated
+k141_866 flag=1 multi=838.0000 len=870	Rhodococcus qingshengii	26	870	Annotated
+k141_1763 flag=1 multi=384.0000 len=318	Rhodococcus qingshengii	25	318	Annotated
+k141_1311 flag=1 multi=114.0000 len=401	Rhodococcus qingshengii	25	401	Annotated
+k141_869 flag=1 multi=275.0000 len=1241	Rhodococcus qingshengii	25	1241	Annotated
+k141_584 flag=1 multi=618.0000 len=452	Rhodococcus qingshengii	25	452	Annotated
+k141_650 flag=1 multi=118.0000 len=333	NA	NA	333	Unannotated
+k141_394 flag=1 multi=720.0000 len=1462	Rhodococcus qingshengii	25	1462	Annotated
+k141_1361 flag=1 multi=193.0000 len=315	Novosphingobium sp.	2	315	Annotated
+k141_1701 flag=1 multi=678.0000 len=4920	Rhodococcus qingshengii	25	4920	Annotated
+k141_2244 flag=1 multi=513.0000 len=718	Rhodococcus qingshengii	25	718	Annotated
+k141_846 flag=1 multi=284.0000 len=2382	Rhodococcus qingshengii	28	2382	Annotated
+k141_2087 flag=1 multi=212.0000 len=310	Sphingobacterium multivorum	5	310	Target
+k141_2093 flag=1 multi=624.0000 len=3183	Rhodococcus qingshengii	26	3183	Annotated
+k141_497 flag=1 multi=93.0000 len=312	Acetobacteraceae bacterium	2	312	Target
+k141_380 flag=1 multi=551.0000 len=317	Lichina confinis	2	317	Target
+k141_1049 flag=1 multi=236.0000 len=315	Rhodococcus qingshengii	25	315	Annotated
+k141_1052 flag=1 multi=115.0000 len=351	Escherichia coli	96	351	Target
+k141_2040 flag=1 multi=191.0000 len=934	Rhodococcus qingshengii	15	934	Annotated
+k141_1380 flag=1 multi=705.0000 len=8630	Rhodococcus qingshengii	25	8630	Annotated
+k141_2047 flag=1 multi=635.0000 len=326	Rhodococcus qingshengii	25	326	Annotated
+k141_1383 flag=1 multi=778.0000 len=411	Rhodococcus qingshengii	21	411	Annotated
+k141_475 flag=1 multi=530.0000 len=362	Rhodococcus qingshengii	28	362	Annotated
+k141_1898 flag=1 multi=281.0000 len=371	Sphingomonas sp. MM-1	2	371	Target
+k141_1905 flag=1 multi=284.0000 len=339	Rhodococcus qingshengii	15	339	Annotated
+k141_1909 flag=1 multi=638.0000 len=376	Rhodococcus qingshengii	25	376	Annotated
+k141_2181 flag=1 multi=251.0000 len=477	Rhodococcus qingshengii	25	477	Annotated
+k141_537 flag=1 multi=683.0000 len=349	Ogataea corticis	1	349	Target
+k141_1808 flag=1 multi=120.0000 len=431	NA	NA	431	Unannotated
+k141_2141 flag=1 multi=683.0000 len=667	Rhodococcus qingshengii	10	667	Annotated
+k141_681 flag=1 multi=246.0000 len=515	Rhodococcus qingshengii	25	515	Annotated
+k141_325 flag=1 multi=481.0000 len=325	Rhodococcus qingshengii	7	325	Annotated
+k141_652 flag=1 multi=381.0000 len=367	Prescottella equi	25	367	Target
+k141_1651 flag=1 multi=520.0000 len=2678	Rhodococcus qingshengii	26	2678	Annotated
+k141_1741 flag=1 multi=361.0000 len=619	Rhodococcus qingshengii	25	619	Annotated
+k141_850 flag=1 multi=696.0000 len=7210	Rhodococcus qingshengii	25	7210	Annotated
+k141_1827 flag=1 multi=697.0000 len=13061	Rhodococcus qingshengii	25	13061	Annotated
+k141_871 flag=1 multi=590.0000 len=3267	Rhodococcus qingshengii	25	3267	Annotated
+k141_1439 flag=1 multi=324.0000 len=806	Rhodococcus qingshengii	24	806	Annotated
+k141_2270 flag=1 multi=650.0000 len=8135	Rhodococcus qingshengii	25	8135	Annotated
+k141_1770 flag=1 multi=639.0000 len=372	Rhodococcus qingshengii	25	372	Annotated
+k141_1319 flag=1 multi=417.0000 len=501	Rhodococcus qingshengii	25	501	Annotated
+k141_1107 flag=1 multi=652.0000 len=2539	Rhodococcus qingshengii	25	2539	Annotated
+k141_1326 flag=1 multi=699.0000 len=4114	Rhodococcus qingshengii	25	4114	Annotated
+k141_946 flag=1 multi=683.0000 len=9352	Rhodococcus ruber	5	9352	Annotated
+k141_450 flag=1 multi=270.0000 len=318	Knufia obscura	1	318	Target
+k141_956 flag=1 multi=595.0000 len=1463	Rhodococcus qingshengii	25	1463	Annotated
+k141_434 flag=1 multi=271.0000 len=396	NA	NA	396	Unannotated
+k141_959 flag=1 multi=135.0000 len=550	Rhodococcus qingshengii	25	550	Annotated
+k141_1393 flag=1 multi=327.0000 len=3161	Rhodococcus qingshengii	25	3161	Annotated
+k141_1280 flag=1 multi=479.0000 len=3515	Rhodococcus qingshengii	25	3515	Annotated
+k141_1285 flag=1 multi=26.0000 len=307	Stutzerimonas stutzeri	25	307	Target
+k141_754 flag=1 multi=630.0000 len=1471	Mycobacterium avium subsp. hominissuis	22	1471	Target
+k141_1815 flag=1 multi=656.0000 len=5779	Rhodococcus qingshengii	25	5779	Annotated
+k141_1295 flag=1 multi=265.0000 len=4760	Rhodococcus qingshengii	23	4760	Annotated
+k141_210 flag=1 multi=253.0000 len=464	Rhodococcus qingshengii	25	464	Annotated
+k141_590 flag=1 multi=720.0000 len=14121	Rhodococcus qingshengii	25	14121	Annotated
+k141_550 flag=1 multi=676.0000 len=2516	Rhodococcus qingshengii	25	2516	Annotated
+k141_248 flag=1 multi=177.0000 len=394	Rhodococcus qingshengii	25	394	Annotated
+k141_2184 flag=1 multi=629.0000 len=3305	Rhodococcus qingshengii	25	3305	Annotated
+k141_1835 flag=1 multi=65.0000 len=329	NA	NA	329	Unannotated
+k141_220 flag=1 multi=185.0000 len=819	Rhodococcus qingshengii	25	819	Annotated
+k141_225 flag=1 multi=245.0000 len=810	Prescottella equi	25	810	Target
+k141_2273 flag=1 multi=749.0000 len=5596	Rhodococcus qingshengii	25	5596	Annotated
+k141_1946 flag=1 multi=110.0000 len=346	Nocardia cyriacigeorgica	5	346	Target
+k141_2247 flag=1 multi=198.0000 len=527	Rhodococcus qingshengii	25	527	Annotated
+k141_2317 flag=1 multi=176.0000 len=380	Rhodococcus qingshengii	25	380	Annotated
+k141_1952 flag=1 multi=677.0000 len=3736	Rhodococcus qingshengii	25	3736	Annotated
+k141_1837 flag=1 multi=61.0000 len=317	Novosphingobium sp.	1	317	Annotated
+k141_1844 flag=1 multi=691.0000 len=1214	Rhodococcus qingshengii	22	1214	Annotated
+k141_1138 flag=1 multi=531.0000 len=877	Rhodococcus qingshengii	17	877	Annotated
+k141_2228 flag=1 multi=750.0000 len=372	Rhodococcus qingshengii	7	372	Annotated
+k141_634 flag=1 multi=675.0000 len=12103	Rhodococcus qingshengii	25	12103	Annotated
+k141_1238 flag=1 multi=645.0000 len=5473	Rhodococcus qingshengii	25	5473	Annotated
+k141_408 flag=1 multi=692.0000 len=3790	Rhodococcus qingshengii	25	3790	Annotated
+k141_410 flag=1 multi=731.0000 len=13902	Rhodococcus qingshengii	25	13902	Annotated
+k141_965 flag=1 multi=247.0000 len=1169	Rhodococcus qingshengii	25	1169	Annotated
+k141_2322 flag=1 multi=701.0000 len=12541	Rhodococcus qingshengii	25	12541	Annotated
+k141_2323 flag=1 multi=688.0000 len=10289	Rhodococcus qingshengii	25	10289	Annotated
+k141_1925 flag=1 multi=366.0000 len=2374	Rhodococcus qingshengii	24	2374	Annotated
+k141_766 flag=1 multi=922.0000 len=1224	Rhodococcus qingshengii	24	1224	Annotated
+k141_2220 flag=1 multi=784.0000 len=364	Streptococcus pneumoniae	91	364	Target
+k141_259 flag=1 multi=264.0000 len=1353	Rhodococcus qingshengii	25	1353	Annotated
+k141_694 flag=1 multi=287.0000 len=317	Rhodococcus qingshengii	9	317	Annotated
+k141_1185 flag=1 multi=737.0000 len=2410	Rhodococcus qingshengii	25	2410	Annotated
+k141_1961 flag=1 multi=624.0000 len=5687	Prescottella equi	26	5687	Target
+k141_660 flag=1 multi=289.0000 len=1569	Rhodococcus qingshengii	27	1569	Annotated
+k141_2028 flag=1 multi=70.0000 len=321	Rhodococcus qingshengii	25	321	Annotated
+k141_880 flag=1 multi=637.0000 len=4179	Rhodococcus qingshengii	25	4179	Annotated
+k141_1853 flag=1 multi=699.0000 len=32753	Rhodococcus qingshengii	25	32753	Annotated
+k141_1619 flag=1 multi=661.0000 len=9650	Rhodococcus qingshengii	25	9650	Annotated
+k141_1626 flag=1 multi=1493.0000 len=384	Rhodococcus qingshengii	21	384	Annotated
+k141_2354 flag=1 multi=680.0000 len=36426	Rhodococcus qingshengii	27	36426	Annotated
+k141_2233 flag=1 multi=662.0000 len=17751	Prescottella equi	26	17751	Target
+k141_1484 flag=1 multi=353.0000 len=2947	Rhodococcus qingshengii	25	2947	Annotated
+k141_2097 flag=1 multi=167.0000 len=455	Alphaproteobacteria bacterium	4	455	Target
+k141_517 flag=1 multi=342.0000 len=5129	Rhodococcus qingshengii	25	5129	Annotated
+k141_1963 flag=1 multi=320.0000 len=576	Rhodococcus qingshengii	26	576	Annotated
+k141_2284 flag=1 multi=663.0000 len=2952	Rhodococcus qingshengii	26	2952	Annotated
+k141_815 flag=1 multi=172.0000 len=385	Acetobacteraceae bacterium	2	385	Target
+k141_1250 flag=1 multi=63.0000 len=383	Pararoseomonas sp. SCSIO 73927	1	383	Target
+k141_1258 flag=1 multi=734.0000 len=397	Rhodococcus qingshengii	20	397	Annotated
+k141_2296 flag=1 multi=412.0000 len=428	Rhodococcus qingshengii	10	428	Annotated
+k141_2357 flag=1 multi=486.0000 len=12393	Rhodococcus qingshengii	25	12393	Annotated
+k141_2359 flag=1 multi=688.0000 len=13955	Rhodococcus qingshengii	25	13955	Annotated
+k141_2075 flag=1 multi=382.0000 len=21532	Rhodococcus qingshengii	5	21532	Annotated
+k141_2110 flag=1 multi=398.0000 len=512	Rhodococcus qingshengii	26	512	Annotated
+k141_717 flag=1 multi=261.0000 len=369	Rhodococcus qingshengii	25	369	Annotated
+k141_721 flag=1 multi=662.0000 len=493	Rhodococcus qingshengii	23	493	Annotated
+k141_158 flag=1 multi=364.0000 len=394	Ralstonia pseudosolanacearum	78	394	Target
+k141_164 flag=1 multi=106.0000 len=325	Rhodococcus qingshengii	25	325	Annotated
+k141_170 flag=1 multi=137.0000 len=324	Rhodococcus qingshengii	25	324	Annotated
+k141_1536 flag=1 multi=675.0000 len=23345	Rhodococcus qingshengii	25	23345	Annotated
+k141_707 flag=1 multi=719.0000 len=5669	Rhodococcus qingshengii	25	5669	Annotated
+k141_1499 flag=1 multi=712.0000 len=10774	Rhodococcus qingshengii	25	10774	Annotated
+k141_1505 flag=1 multi=857.0000 len=341	Rhodococcus qingshengii	25	341	Annotated
+k141_39 flag=1 multi=357.0000 len=1447	Rhodococcus qingshengii	12	1447	Annotated
+k141_82 flag=1 multi=347.0000 len=801	Rhodococcus qingshengii	25	801	Annotated
+k141_83 flag=1 multi=678.0000 len=7227	Rhodococcus qingshengii	25	7227	Annotated
+k141_91 flag=1 multi=371.0000 len=591	Rhodococcus qingshengii	25	591	Annotated
+k141_413 flag=1 multi=1063.8101 len=615	NA	NA	615	Unannotated
+k141_1499 flag=1 multi=712.0000 len=10774	Rhodococcus qingshengii	25	10774	Annotated
+k141_1505 flag=1 multi=857.0000 len=341	Rhodococcus qingshengii	25	341	Annotated
+k141_39 flag=1 multi=357.0000 len=1447	Rhodococcus qingshengii	12	1447	Annotated
+k141_82 flag=1 multi=347.0000 len=801	Rhodococcus qingshengii	25	801	Annotated
+k141_83 flag=1 multi=678.0000 len=7227	Rhodococcus qingshengii	25	7227	Annotated
+k141_91 flag=1 multi=371.0000 len=591	Rhodococcus qingshengii	25	591	Annotated
+k141_413 flag=1 multi=1063.8101 len=615	NA	NA	615	Unannotated
+k141_54 flag=1 multi=648.0000 len=4063	Rhodococcus qingshengii	30	4063	Annotated
+k141_896 flag=1 multi=70.0000 len=309	Triticum aestivum	6	309	Target
+k141_424 flag=1 multi=255.2637 len=323	NA	NA	323	Unannotated
+k141_2301 flag=1 multi=474.0000 len=520	Rhodococcus globerulus	2	520	Annotated
+k141_1511 flag=1 multi=244.0000 len=337	Rhodococcus qingshengii	25	337	Annotated
+k141_1598 flag=1 multi=752.0000 len=1730	Prescottella equi	26	1730	Target
+k141_1375 flag=1 multi=285.0000 len=6954	Rhodococcus qingshengii	25	6954	Annotated
+k141_1541 flag=1 multi=211.0000 len=470	Rhodococcus qingshengii	24	470	Annotated
+k141_1546 flag=1 multi=237.0000 len=384	Rhodococcus qingshengii	24	384	Annotated
+k141_1080 flag=1 multi=124.0000 len=333	Rhodococcus qingshengii	25	333	Annotated
+k141_744 flag=1 multi=678.0000 len=13621	Rhodococcus qingshengii	25	13621	Annotated
+k141_1009 flag=1 multi=252.0000 len=500	Agrobacterium tumefaciens	57	500	Target
+k141_524 flag=1 multi=56.0000 len=361	Pedobacter panaciterrae	2	361	Target
+k141_340 flag=1 multi=32.1129 len=327	NA	NA	327	Unannotated
+k141_671 flag=1 multi=653.0000 len=4725	Rhodococcus qingshengii	25	4725	Annotated
+k141_836 flag=1 multi=364.0000 len=423	Rhodococcus qingshengii	25	423	Annotated
+k141_1016 flag=1 multi=78.0000 len=361	uncultured Desulfobacter sp.	1	361	Target
+k141_1119 flag=1 multi=626.0000 len=2924	Rhodococcus qingshengii	25	2924	Annotated
+k141_2262 flag=1 multi=687.0000 len=21129	Rhodococcus qingshengii	25	21129	Annotated
+k141_64 flag=1 multi=1047.0000 len=2201	Rhodococcus qingshengii	10	2201	Annotated
+k141_857 flag=1 multi=288.0000 len=655	Rhodococcus qingshengii	21	655	Annotated
+k141_859 flag=1 multi=635.0000 len=7136	Rhodococcus qingshengii	25	7136	Annotated
+k141_2124 flag=1 multi=490.0000 len=488	Rhodococcus qingshengii	8	488	Annotated
+k141_728 flag=1 multi=23.0000 len=358	Roseomonas mucosa	19	358	Target
+k141_101 flag=1 multi=372.0000 len=2669	Rhodococcus qingshengii	19	2669	Annotated
+k141_189 flag=1 multi=714.0000 len=16135	Rhodococcus qingshengii	25	16135	Annotated
+k141_1746 flag=1 multi=315.0000 len=1910	Rhodococcus qingshengii	25	1910	Annotated
+k141_1210 flag=1 multi=489.0000 len=563	Rhodococcus qingshengii	24	563	Annotated
+k141_2302 flag=1 multi=697.0000 len=14552	Rhodococcus qingshengii	25	14552	Annotated
+k141_1212 flag=1 multi=552.0000 len=317	Metschnikowia hamakuensis	3	317	Target
+k141_1347 flag=1 multi=1008.0000 len=3247	Prescottella equi	15	3247	Target
+k141_1561 flag=1 multi=457.0000 len=19312	Rhodococcus qingshengii	25	19312	Annotated
+k141_56 flag=1 multi=249.0000 len=617	Rhodococcus qingshengii	25	617	Annotated
+k141_62 flag=1 multi=645.0000 len=1666	Rhodococcus qingshengii	25	1666	Annotated
+k141_2158 flag=1 multi=430.0000 len=493	Meyerozyma guilliermondii	4	493	Target
+k141_824 flag=1 multi=1133.0000 len=3734	Rhodococcus qingshengii	29	3734	Annotated
+k141_125 flag=1 multi=251.0000 len=646	Rhodococcus qingshengii	25	646	Annotated
+k141_128 flag=1 multi=652.0000 len=3649	Prescottella equi	26	3649	Target
+k141_1935 flag=1 multi=255.0000 len=598	Rhodococcus qingshengii	25	598	Annotated
+k141_596 flag=1 multi=308.0000 len=408	Rhodococcus qingshengii	25	408	Annotated
+k141_136 flag=1 multi=695.0000 len=2396	Rhodococcus qingshengii	25	2396	Annotated
+k141_1349 flag=1 multi=133.0000 len=301	Rhodococcus qingshengii	25	301	Annotated
+k141_1268 flag=1 multi=638.0000 len=2541	Rhodococcus qingshengii	25	2541	Annotated
+k141_1269 flag=1 multi=566.0000 len=9503	Rhodococcus qingshengii	27	9503	Annotated
+k141_1637 flag=1 multi=706.0000 len=10254	Rhodococcus qingshengii	25	10254	Annotated
+k141_1425 flag=1 multi=84.0000 len=408	Variovorax paradoxus	12	408	Target
+k141_1087 flag=1 multi=71.0000 len=328	Paracidovorax citrulli	14	328	Target
+k141_1726 flag=1 multi=233.0000 len=542	Rhodococcus qingshengii	25	542	Annotated
+k141_1215 flag=1 multi=709.0000 len=8014	Rhodococcus qingshengii	25	8014	Annotated
+k141_570 flag=1 multi=275.0000 len=325	NA	NA	325	Unannotated
+k141_989 flag=1 multi=83.0000 len=304	Bradyrhizobium japonicum	16	304	Target
+k141_1158 flag=1 multi=712.0000 len=7509	Rhodococcus qingshengii	25	7509	Annotated
+k141_303 flag=1 multi=703.0000 len=23634	Rhodococcus qingshengii	25	23634	Annotated
+k141_307 flag=1 multi=218.0000 len=345	Rhodococcus qingshengii	25	345	Annotated
+k141_67 flag=1 multi=699.0000 len=17691	Rhodococcus qingshengii	25	17691	Annotated
+k141_1157 flag=1 multi=378.0000 len=331	Rhodococcus globerulus	2	331	Annotated
+k141_233 flag=1 multi=169.0000 len=1124	Rhodococcus qingshengii	25	1124	Annotated
+k141_2131 flag=1 multi=772.0000 len=2309	Rhodococcus qingshengii	25	2309	Annotated
+k141_312 flag=1 multi=255.0000 len=335	NA	NA	335	Unannotated
+k141_2135 flag=1 multi=614.0000 len=1816	Rhodococcus qingshengii	25	1816	Annotated
+k141_1435 flag=1 multi=256.0000 len=388	Rhodococcus qingshengii	17	388	Annotated
+k141_610 flag=1 multi=1440.0000 len=478	Escherichia coli	94	478	Target
+k141_615 flag=1 multi=263.0000 len=478	Rhodococcus qingshengii	24	478	Annotated
+k141_268 flag=1 multi=445.0000 len=1153	Rhodococcus qingshengii	25	1153	Annotated
+k141_1064 flag=1 multi=633.0000 len=4402	Rhodococcus ruber	6	4402	Annotated
+k141_1893 flag=1 multi=683.0000 len=10378	Rhodococcus qingshengii	25	10378	Annotated
+k141_281 flag=1 multi=277.0000 len=317	Rhizobium leguminosarum	17	317	Target
+k141_1804 flag=1 multi=1019.0000 len=403	Rhodococcus qingshengii	23	403	Annotated
+k141_1684 flag=1 multi=281.0000 len=396	Rhodococcus qingshengii	25	396	Annotated
+k141_1023 flag=1 multi=491.0000 len=1202	Rhodococcus qingshengii	25	1202	Annotated
+k141_943 flag=1 multi=145.0000 len=312	Brevundimonas diminuta	14	312	Target
+k141_458 flag=1 multi=692.0000 len=20361	Rhodococcus qingshengii	25	20361	Annotated
+k141_459 flag=1 multi=252.0000 len=609	Rhodococcus qingshengii	25	609	Annotated
+k141_1217 flag=1 multi=647.0000 len=6512	Rhodococcus qingshengii	26	6512	Annotated
+k141_466 flag=1 multi=559.0000 len=607	NA	NA	607	Unannotated
+k141_229 flag=1 multi=520.0000 len=448	Rhodococcus qingshengii	25	448	Annotated
+k141_148 flag=1 multi=481.0000 len=303	NA	NA	303	Unannotated
+k141_562 flag=1 multi=24.0000 len=393	Acetobacteraceae bacterium	7	393	Target
+k141_1527 flag=1 multi=631.0000 len=608	Rhodococcus qingshengii	7	608	Annotated
+k141_1530 flag=1 multi=212.0000 len=329	Rhodococcus qingshengii	25	329	Annotated
+k141_2238 flag=1 multi=685.0000 len=30062	Rhodococcus qingshengii	25	30062	Annotated
+k141_732 flag=1 multi=104.0000 len=307	Rhodococcus qingshengii	25	307	Annotated
+k141_531 flag=1 multi=832.0000 len=2821	Rhodococcus qingshengii	25	2821	Annotated
+k141_1965 flag=1 multi=1026.0000 len=5481	Rhodococcus qingshengii	22	5481	Annotated
+k141_1971 flag=1 multi=273.0000 len=2059	Rhodococcus qingshengii	20	2059	Annotated
+k141_904 flag=1 multi=693.0000 len=2208	Rhodococcus qingshengii	25	2208	Annotated
+k141_1091 flag=1 multi=152.0000 len=331	NA	NA	331	Unannotated
+k141_1096 flag=1 multi=164.0000 len=328	Rhodococcus qingshengii	25	328	Annotated
+k141_10 flag=1 multi=150.0000 len=801	Rhodococcus qingshengii	25	801	Annotated
+k141_16 flag=1 multi=118.0000 len=312	Limnobacter profundi	1	312	Target
+k141_1098 flag=1 multi=696.0000 len=6988	Rhodococcus qingshengii	25	6988	Annotated
+k141_1031 flag=1 multi=899.0000 len=3629	Rhodococcus qingshengii	29	3629	Annotated
+k141_1036 flag=1 multi=852.0000 len=1663	Rhodococcus qingshengii	25	1663	Annotated
+k141_1068 flag=1 multi=544.0000 len=844	Rhodococcus qingshengii	27	844	Annotated
+k141_501 flag=1 multi=614.0000 len=3268	Rhodococcus qingshengii	25	3268	Annotated
+k141_1223 flag=1 multi=336.0000 len=5774	Rhodococcus qingshengii	29	5774	Annotated
+k141_2264 flag=1 multi=299.0000 len=23832	Prescottella equi	26	23832	Target
+k141_1642 flag=1 multi=676.0000 len=4590	Rhodococcus qingshengii	25	4590	Annotated
+k141_1575 flag=1 multi=429.0000 len=1012	Rhodococcus qingshengii	25	1012	Annotated
+k141_1580 flag=1 multi=333.0000 len=778	Rhodococcus qingshengii	25	778	Annotated
+k141_842 flag=1 multi=186.0000 len=353	Rhodococcus qingshengii	25	353	Annotated
+k141_843 flag=1 multi=716.0000 len=3112	Rhodococcus qingshengii	25	3112	Annotated
+k141_195 flag=1 multi=224.0000 len=304	Escherichia coli	97	304	Target
+k141_867 flag=1 multi=30.0000 len=347	NA	NA	347	Unannotated
+k141_995 flag=1 multi=615.0000 len=2453	Rhodococcus qingshengii	24	2453	Annotated
+k141_1308 flag=1 multi=701.0000 len=8593	Prescottella equi	26	8593	Target
+k141_2266 flag=1 multi=394.0000 len=15458	Caudoviricetes sp.	11	15458	Target
+k141_2013 flag=1 multi=735.0000 len=3737	Rhodococcus qingshengii	31	3737	Annotated
+k141_2015 flag=1 multi=467.0000 len=2285	Mycobacterium tuberculosis	81	2285	Target
+k141_646 flag=1 multi=722.0000 len=3794	Rhodococcus qingshengii	25	3794	Annotated
+k141_1687 flag=1 multi=54.0000 len=356	Roseomonas mucosa	10	356	Target
+k141_395 flag=1 multi=223.0000 len=342	Escherichia coli	94	342	Target
+k141_1696 flag=1 multi=242.0000 len=719	Rhodococcus qingshengii	25	719	Annotated
+k141_589 flag=1 multi=218.0000 len=305	Brucella anthropi	1	305	Target
+k141_2242 flag=1 multi=680.0000 len=4307	Rhodococcus qingshengii	24	4307	Annotated
+k141_1362 flag=1 multi=627.0000 len=1542	Rhodococcus qingshengii	25	1542	Annotated
+k141_847 flag=1 multi=529.0000 len=398	Rhodococcus pyridinivorans	20	398	Target
+k141_239 flag=1 multi=740.0000 len=6442	Rhodococcus qingshengii	25	6442	Annotated
+k141_242 flag=1 multi=200.0000 len=321	Rhodococcus qingshengii	25	321	Annotated
+k141_620 flag=1 multi=670.0000 len=9156	Rhodococcus qingshengii	25	9156	Annotated
+k141_1636 flag=1 multi=225.0000 len=1010	Rhodococcus qingshengii	25	1010	Annotated
+k141_374 flag=1 multi=228.0000 len=328	Paracoccidioides brasiliensis Pb18	1	328	Target
+k141_381 flag=1 multi=1693.0000 len=303	Colletotrichum aenigma	1	303	Target
+k141_1190 flag=1 multi=684.0000 len=40339	Rhodococcus qingshengii	25	40339	Annotated
+k141_1053 flag=1 multi=389.0000 len=303	Rhodococcus qingshengii	25	303	Annotated
+k141_2312 flag=1 multi=334.0000 len=413	Rhodococcus qingshengii	25	413	Annotated
+k141_1075 flag=1 multi=675.0000 len=4121	Rhodococcus qingshengii	25	4121	Annotated
+k141_2042 flag=1 multi=660.0000 len=3485	Rhodococcus qingshengii	25	3485	Annotated
+k141_295 flag=1 multi=119.0000 len=301	NA	NA	301	Unannotated
+k141_2048 flag=1 multi=94.0000 len=419	Roseomonas sp. CCTCC AB2023176	1	419	Target
+k141_1384 flag=1 multi=116.0000 len=433	NA	NA	433	Unannotated
+k141_1128 flag=1 multi=334.0000 len=22207	Rhodococcus qingshengii	26	22207	Annotated
+k141_1129 flag=1 multi=305.0000 len=320	Rhodococcus qingshengii	25	320	Annotated
+k141_2170 flag=1 multi=766.0000 len=3989	Rhodococcus qingshengii	25	3989	Annotated
+k141_2269 flag=1 multi=675.0000 len=13944	Rhodococcus qingshengii	25	13944	Annotated
+k141_1910 flag=1 multi=334.0000 len=670	Rhodococcus qingshengii	24	670	Annotated
+k141_2182 flag=1 multi=524.0000 len=492	Rhodococcus qingshengii	23	492	Annotated
+k141_532 flag=1 multi=543.0000 len=27562	Rhodococcus qingshengii	25	27562	Annotated
+k141_1914 flag=1 multi=218.0000 len=366	Rhodococcus qingshengii	25	366	Annotated
+k141_481 flag=1 multi=676.0000 len=2370	Rhodococcus qingshengii	9	2370	Annotated
+k141_2021 flag=1 multi=713.0000 len=7053	Rhodococcus qingshengii	25	7053	Annotated
+k141_1814 flag=1 multi=710.0000 len=6438	Rhodococcus qingshengii	26	6438	Annotated
+k141_322 flag=1 multi=234.0000 len=517	Rhodococcus qingshengii	25	517	Annotated
+k141_998 flag=1 multi=423.0000 len=2699	Rhodococcus qingshengii	25	2699	Annotated
+k141_685 flag=1 multi=414.0000 len=1538	Rhodococcus qingshengii	9	1538	Annotated
+k141_1274 flag=1 multi=292.0000 len=5641	Rhodococcus qingshengii	25	5641	Annotated
+k141_1735 flag=1 multi=734.0000 len=4890	Rhodococcus qingshengii	25	4890	Annotated
+k141_1652 flag=1 multi=300.0000 len=429	Rhodococcus qingshengii	25	429	Annotated
+k141_1657 flag=1 multi=347.0000 len=685	Rhodococcus qingshengii	25	685	Annotated
+k141_2210 flag=1 multi=594.0000 len=336	Rhodococcus qingshengii	9	336	Annotated
+k141_851 flag=1 multi=729.0000 len=455	Rhodococcus qingshengii	25	455	Annotated
+k141_1828 flag=1 multi=644.0000 len=686	Rhodococcus qingshengii	25	686	Annotated
+k141_872 flag=1 multi=363.0000 len=370	Rhodococcus qingshengii	25	370	Annotated
+k141_1440 flag=1 multi=146.0000 len=344	Rhodococcus qingshengii	25	344	Annotated
+k141_1441 flag=1 multi=53.0000 len=345	Bordetella pertussis	67	345	Target
+k141_1314 flag=1 multi=556.0000 len=301	Habronattus oregonensis	7	301	Target
+k141_1370 flag=1 multi=187.0000 len=813	Rhodococcus qingshengii	25	813	Annotated
+k141_1322 flag=1 multi=1614.0000 len=352	Sphingobium yanoikuyae	5	352	Target
+k141_1108 flag=1 multi=154.0000 len=311	Azospirillum humicireducens	1	311	Annotated
+k141_1327 flag=1 multi=142.0000 len=352	Pseudocercospora fijiensis	15	352	Target
+k141_947 flag=1 multi=650.0000 len=1325	Rhodococcus qingshengii	25	1325	Annotated
+k141_1448 flag=1 multi=690.0000 len=4340	Rhodococcus qingshengii	25	4340	Annotated
+k141_451 flag=1 multi=506.0000 len=408	Rhodococcus qingshengii	25	408	Annotated
+k141_951 flag=1 multi=1160.0000 len=479	Rhodococcus qingshengii	28	479	Annotated
+k141_957 flag=1 multi=35.0000 len=347	Roseomonas mucosa	10	347	Target
+k141_435 flag=1 multi=153.0000 len=447	Rhodococcus qingshengii	25	447	Annotated
+k141_442 flag=1 multi=613.0000 len=1551	Rhodococcus qingshengii	25	1551	Annotated
+k141_1390 flag=1 multi=553.0000 len=2201	Rhodococcus qingshengii	25	2201	Annotated
+k141_1394 flag=1 multi=193.0000 len=333	Rhodococcus qingshengii	25	333	Annotated
+k141_1402 flag=1 multi=561.0000 len=2638	Rhodococcus qingshengii	25	2638	Annotated
+k141_1282 flag=1 multi=283.0000 len=776	Rhodococcus qingshengii	25	776	Annotated
+k141_628 flag=1 multi=509.0000 len=492	Rhodococcus qingshengii	24	492	Annotated
+k141_1459 flag=1 multi=636.0000 len=639	Rhodococcus qingshengii	35	639	Annotated
+k141_1588 flag=1 multi=434.0000 len=407	Rhodococcus globerulus	2	407	Annotated
+k141_2272 flag=1 multi=668.0000 len=7122	Rhodococcus qingshengii	25	7122	Annotated
+k141_1296 flag=1 multi=210.0000 len=480	Rhodococcus qingshengii	25	480	Annotated
+k141_211 flag=1 multi=669.0000 len=889	Rhodococcus qingshengii	25	889	Annotated
+k141_539 flag=1 multi=112.0000 len=318	Rhodococcus qingshengii	25	318	Annotated
+k141_545 flag=1 multi=25.0000 len=342	NA	NA	342	Unannotated
+k141_594 flag=1 multi=238.0000 len=690	NA	NA	690	Unannotated
+k141_554 flag=1 multi=214.0000 len=450	Byssothecium circinans	1	450	Target
+k141_214 flag=1 multi=662.0000 len=12698	Prescottella equi	26	12698	Target
+k141_1136 flag=1 multi=546.0000 len=1718	Rhodococcus qingshengii	25	1718	Annotated
+k141_920 flag=1 multi=691.0000 len=15285	Rhodococcus qingshengii	25	15285	Annotated
+k141_221 flag=1 multi=105.0000 len=334	Salvelinus alpinus	35	334	Target
+k141_921 flag=1 multi=320.0000 len=4403	Rhodococcus qingshengii	25	4403	Annotated
+k141_329 flag=1 multi=129.0000 len=338	Variovorax paradoxus	13	338	Target
+k141_2352 flag=1 multi=702.0000 len=15632	Rhodococcus qingshengii	24	15632	Annotated
+k141_789 flag=1 multi=723.0000 len=30922	Rhodococcus qingshengii	25	30922	Annotated
+k141_1169 flag=1 multi=690.0000 len=11062	Prescottella equi	26	11062	Target
+k141_795 flag=1 multi=620.0000 len=7597	Rhodococcus qingshengii	33	7597	Annotated
+k141_1947 flag=1 multi=676.0000 len=6097	Rhodococcus qingshengii	25	6097	Annotated
+k141_1948 flag=1 multi=722.0000 len=2150	Rhodococcus qingshengii	25	2150	Annotated
+k141_1232 flag=1 multi=605.0000 len=14766	Rhodococcus qingshengii	25	14766	Annotated
+k141_1233 flag=1 multi=407.6211 len=463	Escherichia coli	93	463	Target
+k141_1838 flag=1 multi=2734.0000 len=410	Influenza A virus	83	410	Target
+k141_1845 flag=1 multi=1238.6352 len=374	NA	NA	374	Unannotated
+k141_1139 flag=1 multi=1148.0000 len=1594	Rhodococcus qingshengii	12	1594	Annotated
+k141_832 flag=1 multi=698.0000 len=6282	Prescottella equi	26	6282	Target
+k141_833 flag=1 multi=662.0000 len=7959	Rhodococcus qingshengii	25	7959	Annotated
+k141_635 flag=1 multi=207.0000 len=388	Bipolaris maydis	2	388	Target
+k141_1237 flag=1 multi=152.0000 len=313	Rhodococcus qingshengii	25	313	Annotated
+k141_368 flag=1 multi=791.0000 len=2290	Rhodococcus qingshengii	27	2290	Annotated
+k141_2022 flag=1 multi=731.0000 len=22283	Rhodococcus qingshengii	26	22283	Annotated
+k141_1990 flag=1 multi=275.0000 len=524	Rhodococcus qingshengii	25	524	Annotated
+k141_1995 flag=1 multi=594.0000 len=1708	Rhodococcus qingshengii	25	1708	Annotated
+k141_1888 flag=1 multi=652.0000 len=10802	Rhodococcus qingshengii	25	10802	Annotated
+k141_1408 flag=1 multi=510.0000 len=2029	Rhodococcus qingshengii	25	2029	Annotated
+k141_1922 flag=1 multi=377.0000 len=1137	Rhodococcus qingshengii	9	1137	Annotated
+k141_1926 flag=1 multi=215.0000 len=392	Rhodococcus qingshengii	25	392	Annotated
+k141_1470 flag=1 multi=539.0000 len=328	Escherichia coli	92	328	Target
+k141_256 flag=1 multi=275.0000 len=706	Rhodococcus qingshengii	25	706	Annotated
+k141_1179 flag=1 multi=428.0000 len=451	Rhodococcus qingshengii	25	451	Annotated
+k141_2055 flag=1 multi=312.0000 len=3184	Rhodococcus qingshengii	24	3184	Annotated
+k141_767 flag=1 multi=677.0000 len=13511	Prescottella equi	26	13511	Target
+k141_1183 flag=1 multi=563.0000 len=1836	Rhodococcus qingshengii	25	1836	Annotated
+k141_1186 flag=1 multi=147.0000 len=331	Rhodococcus qingshengii	24	331	Annotated
+k141_1956 flag=1 multi=178.0000 len=400	Rhodococcus qingshengii	25	400	Annotated
+k141_926 flag=1 multi=652.0000 len=5134	Burkholderia glumae	34	5134	Target
+k141_661 flag=1 multi=735.0000 len=1744	Rhodococcus qingshengii	25	1744	Annotated
+k141_800 flag=1 multi=646.0000 len=8571	Rhodococcus qingshengii	25	8571	Annotated
+k141_2029 flag=1 multi=99.0000 len=309	Methylobacterium indicum	2	309	Target
+k141_665 flag=1 multi=268.0000 len=318	Triticum aestivum	5	318	Target
+k141_2033 flag=1 multi=602.0000 len=705	Rhodococcus qingshengii	30	705	Annotated
+k141_2277 flag=1 multi=462.0000 len=499	Rhodococcus qingshengii	24	499	Annotated
+k141_1999 flag=1 multi=825.0000 len=37080	Rhodococcus qingshengii	12	37080	Annotated
+k141_2036 flag=1 multi=281.0000 len=1503	Rhodococcus qingshengii	25	1503	Annotated
+k141_1620 flag=1 multi=344.0000 len=326	Rhodococcus qingshengii	25	326	Annotated
+k141_1627 flag=1 multi=67.0000 len=315	uncultured bacterium	3	315	Target
+k141_639 flag=1 multi=630.0000 len=2133	Rhodococcus qingshengii	25	2133	Annotated
+k141_1784 flag=1 multi=338.0000 len=453	Rhodococcus qingshengii	25	453	Annotated
+k141_1788 flag=1 multi=224.0000 len=334	Rhodococcus qingshengii	25	334	Annotated
+k141_2060 flag=1 multi=752.0000 len=5672	Rhodococcus qingshengii	30	5672	Annotated
+k141_1243 flag=1 multi=676.0000 len=6491	Rhodococcus qingshengii	25	6491	Annotated
+k141_513 flag=1 multi=654.0000 len=5037	Rhodococcus qingshengii	25	5037	Annotated
+k141_1331 flag=1 multi=669.0000 len=24293	Rhodococcus qingshengii	25	24293	Annotated
+k141_1476 flag=1 multi=795.0000 len=818	Rhodococcus erythropolis	8	818	Annotated
+k141_705 flag=1 multi=652.0000 len=4916	Rhodococcus qingshengii	25	4916	Annotated
+k141_2285 flag=1 multi=23.0000 len=314	uncultured Solirubrobacteraceae bacterium	2	314	Target
+k141_806 flag=1 multi=447.0000 len=1685	Rhodococcus erythropolis	8	1685	Annotated
+k141_816 flag=1 multi=637.0000 len=1240	Rhodococcus qingshengii	25	1240	Annotated
+k141_1251 flag=1 multi=448.0000 len=661	Rhodococcus qingshengii	28	661	Annotated
+k141_519 flag=1 multi=695.0000 len=2403	Rhodococcus qingshengii	25	2403	Annotated
+k141_1259 flag=1 multi=598.0000 len=349	NA	NA	349	Unannotated
+k141_521 flag=1 multi=601.0000 len=2019	Mycobacterium avium subsp. paratuberculosis	28	2019	Target
+k141_2297 flag=1 multi=842.0000 len=549	Rhodococcus qingshengii	25	549	Annotated
+k141_2358 flag=1 multi=306.0000 len=321	Comamonas flocculans	1	321	Target
+k141_2069 flag=1 multi=87.0000 len=416	Rhodococcus qingshengii	25	416	Annotated
+k141_2360 flag=3 multi=50.2618 len=332	Gordonia sp. w5E2	1	332	Target
+k141_2328 flag=1 multi=662.0000 len=45884	Clavibacter michiganensis	24	45884	Target
+k141_2369 flag=3 multi=284.9103 len=453	NA	NA	453	Unannotated
+k141_2111 flag=1 multi=272.0000 len=3093	Rhodococcus qingshengii	25	3093	Annotated
+k141_1491 flag=1 multi=745.0000 len=5587	Rhodococcus qingshengii	25	5587	Annotated
+k141_1494 flag=1 multi=532.0000 len=465	Rhodococcus qingshengii	25	465	Annotated
+k141_152 flag=1 multi=397.0000 len=316	Nilaparvata lugens	5	316	Target
+k141_159 flag=1 multi=214.0000 len=353	Ralstonia insidiosa	1	353	Target
+k141_1795 flag=1 multi=259.0000 len=320	Rhodococcus qingshengii	25	320	Annotated
+k141_171 flag=1 multi=270.0000 len=1198	Rhodococcus qingshengii	25	1198	Annotated
+k141_1789 flag=1 multi=729.0000 len=4275	Rhodococcus qingshengii	25	4275	Annotated
+k141_1198 flag=1 multi=604.0000 len=8963	Rhodococcus qingshengii	12	8963	Annotated
+k141_708 flag=1 multi=130.0000 len=307	NA	NA	307	Unannotated
+k141_1506 flag=1 multi=391.0000 len=491	Rhodococcus qingshengii	25	491	Annotated
+k141_1225 flag=1 multi=72.0000 len=496	Salvelinus fontinalis	30	496	Target
+k141_78 flag=1 multi=313.0000 len=314	NA	NA	314	Unannotated
+k141_43 flag=1 multi=622.0000 len=1106	Rhodococcus qingshengii	25	1106	Annotated
+k141_84 flag=1 multi=506.0000 len=482	Mycolicibacterium smegmatis	18	482	Target
+k141_52 flag=1 multi=587.0000 len=1436	Rhodococcus qingshengii	25	1436	Annotated
+k141_97 flag=1 multi=253.0000 len=1484	Rhodococcus qingshengii	25	1484	Annotated
+k141_1506 flag=1 multi=391.0000 len=491	Rhodococcus qingshengii	25	491	Annotated
+k141_1225 flag=1 multi=72.0000 len=496	Salvelinus fontinalis	30	496	Target
+k141_78 flag=1 multi=313.0000 len=314	NA	NA	314	Unannotated
+k141_43 flag=1 multi=622.0000 len=1106	Rhodococcus qingshengii	25	1106	Annotated
+k141_84 flag=1 multi=506.0000 len=482	Mycolicibacterium smegmatis	18	482	Target
+k141_52 flag=1 multi=587.0000 len=1436	Rhodococcus qingshengii	25	1436	Annotated
+k141_97 flag=1 multi=253.0000 len=1484	Rhodococcus qingshengii	25	1484	Annotated
+k141_897 flag=1 multi=45.0000 len=359	Brucella anthropi	11	359	Target
+k141_55 flag=1 multi=652.0000 len=2445	Rhodococcus qingshengii	25	2445	Annotated
+k141_425 flag=1 multi=142.0000 len=351	NA	NA	351	Unannotated
+k141_1595 flag=1 multi=713.0000 len=941	Rhodococcus qingshengii	25	941	Annotated
+k141_1512 flag=1 multi=524.0000 len=383	Aspergillus tanneri	1	383	Target
+k141_2196 flag=1 multi=521.0000 len=1655	Rhodococcus qingshengii	25	1655	Annotated
+k141_2192 flag=1 multi=617.0000 len=6805	Rhodococcus qingshengii	25	6805	Annotated
+k141_1542 flag=1 multi=351.0000 len=2312	Rhodococcus qingshengii	27	2312	Annotated
+k141_1547 flag=1 multi=199.0000 len=411	Rhodococcus globerulus	2	411	Annotated
+k141_1081 flag=1 multi=235.0000 len=561	Rhodococcus qingshengii	15	561	Annotated
+k141_1010 flag=1 multi=1211.0000 len=317	Rhodococcus erythropolis	12	317	Annotated
+k141_745 flag=1 multi=21.0000 len=318	Bosea sp. (in: a-proteobacteria)	1	318	Target
+k141_1011 flag=1 multi=38.0000 len=353	NA	NA	353	Unannotated
+k141_525 flag=1 multi=184.0000 len=412	Equine infectious anemia virus	17	412	Target
+k141_672 flag=1 multi=4108.0000 len=477	NA	NA	477	Unannotated
+k141_348 flag=1 multi=281.0000 len=330	NA	NA	330	Unannotated
+k141_1014 flag=1 multi=708.0000 len=13764	Rhodococcus qingshengii	25	13764	Annotated
+k141_1120 flag=1 multi=778.0000 len=530	Rhodococcus qingshengii	34	530	Annotated
+k141_725 flag=1 multi=665.0000 len=1285	Rhodococcus qingshengii	26	1285	Annotated
+k141_855 flag=1 multi=219.0000 len=953	Rhodococcus qingshengii	8	953	Annotated
+k141_860 flag=1 multi=148.0000 len=378	Rhodococcus qingshengii	25	378	Annotated
+k141_727 flag=1 multi=686.0000 len=10660	Rhodococcus qingshengii	26	10660	Annotated
+k141_102 flag=1 multi=239.0000 len=561	Rhodococcus qingshengii	15	561	Annotated
+k141_729 flag=1 multi=58.0000 len=301	Kocuria rosea	5	301	Target
+k141_190 flag=1 multi=66.0000 len=426	Roseomonas mucosa	7	426	Target
+k141_1301 flag=1 multi=186.0000 len=398	Rhodococcus qingshengii	25	398	Annotated
+k141_1750 flag=1 multi=656.0000 len=1994	Rhodococcus qingshengii	25	1994	Annotated
+k141_2305 flag=1 multi=643.0000 len=5049	Rhodococcus qingshengii	25	5049	Annotated
+k141_2303 flag=1 multi=127.0000 len=765	Streptomyces albidoflavus	30	765	Target
+k141_1348 flag=1 multi=168.0000 len=1500	Rhodococcus qingshengii	25	1500	Annotated
+k141_985 flag=1 multi=236.0000 len=449	Rhodococcus qingshengii	25	449	Annotated
+k141_980 flag=1 multi=954.0000 len=5986	Rhodococcus qingshengii	25	5986	Annotated
+k141_2153 flag=1 multi=569.0000 len=1636	Rhodococcus qingshengii	9	1636	Annotated
+k141_63 flag=1 multi=641.0000 len=4886	Rhodococcus qingshengii	25	4886	Annotated
+k141_1928 flag=1 multi=192.0000 len=329	Rhodococcus qingshengii	25	329	Annotated
+k141_825 flag=1 multi=827.0000 len=356	Rhodococcus erythropolis	9	356	Annotated
+k141_129 flag=1 multi=51.0000 len=332	NA	NA	332	Unannotated
+k141_1936 flag=1 multi=310.0000 len=308	uncultured Pseudomonadota bacterium	2	308	Target
+k141_597 flag=1 multi=210.0000 len=408	Rhodococcus qingshengii	25	408	Annotated
+k141_137 flag=1 multi=137.0000 len=486	Oncorhynchus keta	66	486	Target
+k141_1307 flag=1 multi=672.0000 len=6676	Rhodococcus qingshengii	24	6676	Annotated
+k141_1350 flag=1 multi=73.0000 len=316	Roseomonas mucosa	9	316	Target
+k141_640 flag=1 multi=715.0000 len=14403	Rhodococcus qingshengii	25	14403	Annotated
+k141_1722 flag=1 multi=643.0000 len=310	NA	NA	310	Unannotated
+k141_1717 flag=1 multi=447.0000 len=780	Rhodococcus qingshengii	24	780	Annotated
+k141_575 flag=1 multi=695.0000 len=7050	Rhodococcus qingshengii	25	7050	Annotated
+k141_747 flag=1 multi=1259.0000 len=417	Rhodococcus qingshengii	24	417	Annotated
+k141_571 flag=1 multi=586.0000 len=836	Rhodococcus qingshengii	25	836	Annotated
+k141_1216 flag=1 multi=116.0000 len=537	Rhodococcus qingshengii	25	537	Annotated
+k141_1715 flag=1 multi=661.0000 len=9717	Rhodococcus qingshengii	25	9717	Annotated
+k141_1565 flag=1 multi=302.0000 len=1022	Rhodococcus qingshengii	15	1022	Annotated
+k141_1377 flag=1 multi=682.0000 len=681	Mycolicibacterium smegmatis	16	681	Target
+k141_1432 flag=1 multi=391.0000 len=9517	Rhodococcus qingshengii	23	9517	Annotated
+k141_74 flag=1 multi=672.0000 len=2993	Rhodococcus qingshengii	25	2993	Annotated
+k141_68 flag=1 multi=229.0000 len=642	Rhodococcus qingshengii	24	642	Annotated
+k141_353 flag=1 multi=678.0000 len=1174	Rhodococcus qingshengii	25	1174	Annotated
+k141_839 flag=1 multi=622.0000 len=2823	Rhodococcus qingshengii	25	2823	Annotated
+k141_2132 flag=1 multi=765.0000 len=625	Rhodococcus qingshengii	25	625	Annotated
+k141_317 flag=1 multi=263.0000 len=560	Rhodococcus qingshengii	25	560	Annotated
+k141_1062 flag=1 multi=599.0000 len=873	Rhodococcus qingshengii	25	873	Annotated
+k141_1058 flag=1 multi=532.0000 len=345	NA	NA	345	Unannotated
+k141_616 flag=1 multi=608.0000 len=346	Rhodococcus qingshengii	15	346	Annotated
+k141_269 flag=1 multi=1.0000 len=324	NA	NA	324	Unannotated
+k141_275 flag=1 multi=793.0000 len=424	NA	NA	424	Unannotated
+k141_1679 flag=1 multi=713.0000 len=3818	Rhodococcus qingshengii	25	3818	Annotated
+k141_282 flag=1 multi=219.0000 len=633	Rhodococcus qingshengii	15	633	Annotated
+k141_288 flag=1 multi=421.0000 len=433	Rhodococcus qingshengii	9	433	Annotated
+k141_1024 flag=1 multi=224.0000 len=314	Rhodococcus qingshengii	25	314	Annotated
+k141_1685 flag=1 multi=250.0000 len=465	NA	NA	465	Unannotated
+k141_2009 flag=1 multi=729.0000 len=3309	Lacticaseibacillus rhamnosus	30	3309	Target
+k141_1218 flag=1 multi=726.0000 len=2238	Rhodococcus qingshengii	26	2238	Annotated
+k141_1123 flag=1 multi=365.0000 len=1717	Rhodococcus qingshengii	25	1717	Annotated
+k141_2306 flag=1 multi=704.0000 len=9276	Rhodococcus qingshengii	25	9276	Annotated
+k141_149 flag=1 multi=431.0000 len=326	Rhodococcus qingshengii	25	326	Annotated
+k141_230 flag=1 multi=95.0000 len=454	Rhodococcus qingshengii	25	454	Annotated
+k141_563 flag=1 multi=1279.3201 len=494	NA	NA	494	Unannotated
+k141_1528 flag=1 multi=599.0000 len=608	Rhodococcus qingshengii	7	608	Annotated
+k141_1531 flag=1 multi=209.0000 len=329	Rhodococcus qingshengii	25	329	Annotated
+k141_469 flag=1 multi=157.0000 len=346	Corynespora cassiicola	115	346	Target
+k141_2239 flag=1 multi=332.0000 len=502	Roseomonas marmotae	2	502	Target
+k141_737 flag=1 multi=457.0000 len=2817	Rhodococcus qingshengii	25	2817	Annotated
+k141_1966 flag=1 multi=135.0000 len=323	Rhodococcus qingshengii	25	323	Annotated
+k141_905 flag=1 multi=660.0000 len=621	Rhodococcus qingshengii	25	621	Annotated
+k141_1755 flag=1 multi=599.0000 len=489	Prescottella equi	25	489	Target
+k141_1092 flag=1 multi=256.0000 len=545	Rhodococcus qingshengii	25	545	Annotated
+k141_6 flag=1 multi=237.0000 len=799	Rhodococcus qingshengii	25	799	Annotated
+k141_17 flag=1 multi=692.0000 len=303	Rhodococcus qingshengii	25	303	Annotated
+k141_11 flag=1 multi=490.0000 len=535	Rhodococcus qingshengii	9	535	Annotated
+k141_20 flag=1 multi=290.0000 len=2592	Mycobacterium avium subsp. paratuberculosis	28	2592	Target
+k141_1032 flag=1 multi=88.0000 len=328	Bradyrhizobium diazoefficiens	66	328	Target
+k141_31 flag=1 multi=637.0000 len=2425	Prescottella equi	26	2425	Target
+k141_502 flag=1 multi=3.0000 len=466	Staphylococcus epidermidis	100	466	Target
+k141_1824 flag=1 multi=496.0000 len=755	Rhodococcus qingshengii	12	755	Annotated
+k141_503 flag=1 multi=587.0000 len=4257	Rhodococcus qingshengii	25	4257	Annotated
+k141_1576 flag=1 multi=468.0000 len=1533	Rhodococcus qingshengii	25	1533	Annotated
+k141_1571 flag=1 multi=653.0000 len=10661	Prescottella equi	26	10661	Target
+k141_1581 flag=1 multi=239.0000 len=373	Rhodococcus qingshengii	25	373	Annotated
+k141_1760 flag=1 multi=201.0000 len=305	NA	NA	305	Unannotated
+k141_196 flag=1 multi=301.0000 len=1444	Rhodococcus qingshengii	24	1444	Annotated
+k141_1270 flag=1 multi=627.0000 len=4146	Rhodococcus qingshengii	25	4146	Annotated
+k141_1761 flag=1 multi=678.0000 len=15577	Prescottella equi	26	15577	Target
+k141_996 flag=1 multi=623.0000 len=384	Rhodococcus qingshengii	25	384	Annotated
+k141_576 flag=1 multi=677.0000 len=1619	Rhodococcus qingshengii	24	1619	Annotated
+k141_1309 flag=1 multi=363.0000 len=633	Rhodococcus qingshengii	25	633	Annotated
+k141_1358 flag=1 multi=647.0000 len=7050	Rhodococcus qingshengii	25	7050	Annotated
+k141_585 flag=1 multi=159.0000 len=381	NA	NA	381	Unannotated
+k141_2016 flag=1 multi=135.0000 len=305	Rhodococcus qingshengii	25	305	Annotated
+k141_1688 flag=1 multi=416.0000 len=365	Rhodococcus qingshengii	24	365	Annotated
+k141_1874 flag=1 multi=318.0000 len=2715	Rhodococcus qingshengii	25	2715	Annotated
+k141_1159 flag=1 multi=591.0000 len=583	Rhodococcus qingshengii	25	583	Annotated
+k141_237 flag=1 multi=482.0000 len=1224	Rhodococcus qingshengii	25	1224	Annotated
+k141_396 flag=1 multi=721.0000 len=6709	Rhodococcus qingshengii	25	6709	Annotated
+k141_1363 flag=1 multi=395.0000 len=421	Rhodococcus qingshengii	25	421	Annotated
+k141_1456 flag=1 multi=684.0000 len=42553	Rhodococcus qingshengii	25	42553	Annotated
+k141_2088 flag=1 multi=264.0000 len=370	Rhodococcus qingshengii	25	370	Annotated
+k141_749 flag=1 multi=683.0000 len=14891	Rhodococcus qingshengii	25	14891	Annotated
+k141_1163 flag=1 multi=323.0000 len=10647	Rhodococcus qingshengii	25	10647	Annotated
+k141_375 flag=1 multi=301.0000 len=301	Escherichia coli	94	301	Target
+k141_1534 flag=1 multi=1546.0000 len=3165	Brevibacterium aurantiacum	6	3165	Target
+k141_1045 flag=1 multi=663.0000 len=2549	Rhodococcus qingshengii	25	2549	Annotated
+k141_1050 flag=1 multi=106.0000 len=330	NA	NA	330	Unannotated
+k141_1054 flag=1 multi=465.0000 len=531	Paracoccus yeei	7	531	Target
+k141_2041 flag=1 multi=1381.0000 len=1028	Rhodococcus qingshengii	21	1028	Annotated
+k141_751 flag=1 multi=743.0000 len=13280	Rhodococcus qingshengii	25	13280	Annotated
+k141_296 flag=1 multi=293.0000 len=313	Oncorhynchus keta	21	313	Target
+k141_1166 flag=1 multi=251.0000 len=328	Rhodococcus qingshengii	25	328	Annotated
+k141_1099 flag=1 multi=134.0000 len=321	Rhodococcus qingshengii	25	321	Annotated
+k141_1385 flag=1 multi=682.0000 len=7246	Rhodococcus qingshengii	25	7246	Annotated
+k141_2171 flag=1 multi=261.0000 len=332	Salvelinus fontinalis	41	332	Target
+k141_1130 flag=1 multi=43.0000 len=338	Limnobacter sp.	1	338	Target
+k141_1765 flag=1 multi=398.0000 len=11042	Rhodococcus qingshengii	26	11042	Annotated
+k141_2175 flag=1 multi=313.0000 len=1159	Rhodococcus qingshengii	25	1159	Annotated
+k141_913 flag=1 multi=641.0000 len=4889	Rhodococcus qingshengii	32	4889	Annotated
+k141_478 flag=1 multi=679.1818 len=405	Knufia obscura	1	405	Target
+k141_533 flag=1 multi=74.0000 len=306	Sphingomonas paucimobilis	6	306	Target
+k141_482 flag=1 multi=474.0000 len=612	Rhodococcus qingshengii	25	612	Annotated
+k141_1585 flag=1 multi=715.0000 len=5219	Rhodococcus qingshengii	25	5219	Annotated
+k141_1582 flag=1 multi=346.0000 len=18883	Rhodococcus erythropolis	9	18883	Annotated
+k141_682 flag=1 multi=709.0000 len=2498	Rhodococcus qingshengii	25	2498	Annotated
+k141_323 flag=1 multi=352.0000 len=306	Influenza A virus	27	306	Target
+k141_326 flag=1 multi=655.0000 len=1757	Rhodococcus qingshengii	18	1757	Annotated
+k141_202 flag=1 multi=637.0000 len=1458	Rhodococcus qingshengii	12	1458	Annotated
+k141_1739 flag=1 multi=533.0000 len=2211	Rhodococcus qingshengii	25	2211	Annotated
+k141_1736 flag=1 multi=216.0000 len=380	Rhodococcus qingshengii	25	380	Annotated
+k141_1658 flag=1 multi=236.0000 len=304	Pararoseomonas sp. SCSIO 73927	1	304	Target
+k141_852 flag=1 multi=1074.0000 len=495	Rhodococcus qingshengii	21	495	Annotated
+k141_1825 flag=1 multi=608.0000 len=2681	Rhodococcus qingshengii	25	2681	Annotated
+k141_1664 flag=1 multi=619.0000 len=1032	Rhodococcus qingshengii	13	1032	Annotated
+k141_1986 flag=1 multi=625.0000 len=2338	Rhodococcus qingshengii	25	2338	Annotated
+k141_1132 flag=1 multi=635.0000 len=5334	Rhodococcus qingshengii	25	5334	Annotated
+k141_400 flag=1 multi=663.0000 len=3757	Rhodococcus qingshengii	10	3757	Annotated
+k141_1315 flag=1 multi=707.0000 len=597	Knufia petricola	1	597	Target
+k141_1320 flag=1 multi=20644.0000 len=702	Influenza A virus	14	702	Target
+k141_1325 flag=1 multi=571.0000 len=511	Exophiala mesophila	1	511	Target
+k141_1772 flag=1 multi=594.0000 len=3592	Rhodococcus qingshengii	25	3592	Annotated
+k141_1230 flag=1 multi=592.0000 len=586	Rhodococcus qingshengii	24	586	Annotated
+k141_948 flag=1 multi=483.0000 len=431	Rhodococcus qingshengii	25	431	Annotated
+k141_2225 flag=1 multi=479.0000 len=55355	Rhodococcus qingshengii	14	55355	Annotated
+k141_1196 flag=1 multi=676.0000 len=5405	Rhodococcus qingshengii	25	5405	Annotated
+k141_2146 flag=1 multi=211.0000 len=711	Rhodococcus qingshengii	25	711	Annotated
+k141_952 flag=1 multi=533.0000 len=438	Rhodococcus qingshengii	25	438	Annotated
+k141_436 flag=1 multi=526.0000 len=373	NA	NA	373	Unannotated
+k141_1886 flag=1 multi=664.0000 len=2028	Rhodococcus qingshengii	25	2028	Annotated
+k141_1395 flag=1 multi=286.0000 len=332	Rhodococcus qingshengii	24	332	Annotated
+k141_1391 flag=1 multi=445.0000 len=1340	Rhodococcus qingshengii	10	1340	Annotated
+k141_1403 flag=1 multi=456.0000 len=391	Rhodococcus qingshengii	24	391	Annotated
+k141_1286 flag=1 multi=491.0000 len=518	Rhodococcus qingshengii	25	518	Annotated
+k141_622 flag=1 multi=795.0000 len=4327	Rhodococcus qingshengii	24	4327	Annotated
+k141_1289 flag=1 multi=599.0000 len=2429	Rhodococcus qingshengii	25	2429	Annotated
+k141_1816 flag=1 multi=463.0000 len=350	Rhodococcus qingshengii	25	350	Annotated
+k141_1464 flag=1 multi=610.0000 len=2582	Rhodococcus qingshengii	26	2582	Annotated
+k141_1292 flag=1 multi=694.0000 len=7633	Rhodococcus qingshengii	25	7633	Annotated
+k141_2213 flag=1 multi=710.0000 len=9995	Prescottella equi	26	9995	Target
+k141_591 flag=1 multi=230.0000 len=363	Rhodococcus qingshengii	24	363	Annotated
+k141_540 flag=1 multi=264.0000 len=640	Rhodococcus qingshengii	18	640	Annotated
+k141_595 flag=1 multi=269.0000 len=315	Roseomonas mucosa	11	315	Target
+k141_555 flag=1 multi=561.0000 len=335	Trypanosoma cruzi	5	335	Target
+k141_251 flag=1 multi=701.0000 len=3269	Rhodococcus qingshengii	27	3269	Annotated
+k141_1829 flag=1 multi=642.0000 len=6704	Rhodococcus qingshengii	25	6704	Annotated
+k141_687 flag=1 multi=67.0000 len=327	NA	NA	327	Unannotated
+k141_2347 flag=1 multi=176.0000 len=437	Rhodococcus qingshengii	25	437	Annotated
+k141_922 flag=1 multi=369.0000 len=734	Rhodococcus qingshengii	25	734	Annotated
+k141_2353 flag=1 multi=116.0000 len=441	NA	NA	441	Unannotated
+k141_330 flag=1 multi=55.0000 len=318	Escherichia coli	94	318	Target
+k141_1170 flag=1 multi=147.0000 len=321	Sphingobium yanoikuyae	4	321	Target
+k141_1372 flag=1 multi=621.0000 len=728	Rhodococcus qingshengii	25	728	Annotated
+k141_1949 flag=1 multi=55.0000 len=323	Roseomonas mucosa	10	323	Target
+k141_2248 flag=1 multi=553.0000 len=550	Rhodococcus qingshengii	25	550	Annotated
+k141_1839 flag=1 multi=6318.0000 len=412	Influenza A virus	21	412	Target
+k141_2250 flag=1 multi=643.0000 len=7460	Rhodococcus qingshengii	24	7460	Annotated
+k141_1846 flag=1 multi=1278.0000 len=311	NA	NA	311	Unannotated
+k141_1140 flag=1 multi=229.0000 len=341	Rhodococcus qingshengii	28	341	Annotated
+k141_633 flag=1 multi=392.0000 len=2058	Rhodococcus qingshengii	25	2058	Annotated
+k141_1336 flag=1 multi=618.0000 len=15391	Rhodococcus qingshengii	25	15391	Annotated
+k141_636 flag=1 multi=110.0000 len=337	Rhodococcus qingshengii	14	337	Annotated
+k141_369 flag=1 multi=267.0000 len=485	Escherichia coli	98	485	Target
+k141_2275 flag=1 multi=311.0000 len=12497	Rhodococcus qingshengii	19	12497	Annotated
+k141_409 flag=1 multi=271.0000 len=1620	Rhodococcus qingshengii	25	1620	Annotated
+k141_1593 flag=1 multi=597.0000 len=3116	Rhodococcus qingshengii	25	3116	Annotated
+k141_1991 flag=1 multi=192.0000 len=319	NA	NA	319	Unannotated
+k141_1889 flag=1 multi=58.0000 len=448	Rhizobium leguminosarum	17	448	Target
+k141_2324 flag=1 multi=578.0000 len=1259	Rhodococcus qingshengii	25	1259	Annotated
+k141_1409 flag=1 multi=643.0000 len=3109	Rhodococcus qingshengii	25	3109	Annotated
+k141_760 flag=1 multi=705.0000 len=7374	Rhodococcus qingshengii	25	7374	Annotated
+k141_2051 flag=1 multi=849.0000 len=2374	Rhodococcus erythropolis	9	2374	Annotated
+k141_1471 flag=1 multi=648.0000 len=351	NA	NA	351	Unannotated
+k141_257 flag=1 multi=632.0000 len=4956	Rhodococcus qingshengii	25	4956	Annotated
+k141_1180 flag=1 multi=122.0000 len=352	Rhodococcus qingshengii	25	352	Annotated
+k141_695 flag=1 multi=230.0000 len=756	Rhodococcus qingshengii	25	756	Annotated
+k141_2057 flag=1 multi=682.0000 len=5125	Rhodococcus qingshengii	25	5125	Annotated
+k141_1187 flag=1 multi=516.0000 len=526	Rhodococcus qingshengii	26	526	Annotated
+k141_927 flag=1 multi=11335.0000 len=1096	Influenza A virus	17	1096	Target
+k141_1957 flag=1 multi=168.0000 len=389	Rhodococcus qingshengii	25	389	Annotated
+k141_662 flag=1 multi=716.0000 len=1928	Rhodococcus qingshengii	25	1928	Annotated
+k141_1298 flag=1 multi=712.0000 len=11640	Rhodococcus qingshengii	25	11640	Annotated
+k141_1443 flag=1 multi=525.0000 len=1758	Rhodococcus qingshengii	9	1758	Annotated
+k141_2034 flag=1 multi=966.0000 len=699	Prescottella equi	2	699	Target
+k141_510 flag=1 multi=681.0000 len=8877	Rhodococcus qingshengii	25	8877	Annotated
+k141_768 flag=1 multi=693.0000 len=10951	Rhodococcus qingshengii	25	10951	Annotated
+k141_1621 flag=1 multi=192.0000 len=326	Rhodococcus qingshengii	25	326	Annotated
+k141_2000 flag=1 multi=274.0000 len=706	Rhodococcus qingshengii	15	706	Annotated
+k141_888 flag=1 multi=674.0000 len=4323	Rhodococcus qingshengii	24	4323	Annotated
+k141_1410 flag=1 multi=492.0000 len=1286	Rhodococcus qingshengii	25	1286	Annotated
+k141_1743 flag=1 multi=283.0000 len=1514	Rhodococcus qingshengii	25	1514	Annotated
+k141_1485 flag=1 multi=128.0000 len=380	Rhodococcus qingshengii	25	380	Annotated
+k141_2098 flag=1 multi=376.0000 len=5102	Rhodococcus pyridinivorans	5	5102	Target
+k141_2061 flag=1 multi=3345.0000 len=551	Mycobacterium intracellulare subsp. chimaera	8	551	Target
+k141_1332 flag=1 multi=533.0000 len=378	Rhodococcus qingshengii	6	378	Annotated
+k141_2099 flag=1 multi=654.0000 len=5834	Rhodococcus qingshengii	25	5834	Annotated
+k141_706 flag=1 multi=205.0000 len=421	Rhodococcus qingshengii	25	421	Annotated
+k141_1477 flag=1 multi=250.0000 len=739	Rhodococcus qingshengii	25	739	Annotated
+k141_803 flag=1 multi=653.0000 len=10121	Rhodococcus qingshengii	25	10121	Annotated
+k141_817 flag=1 multi=339.0000 len=2693	Rhodococcus qingshengii	25	2693	Annotated
+k141_807 flag=1 multi=238.0000 len=697	Rhodococcus qingshengii	6	697	Annotated
+k141_1252 flag=1 multi=375.0000 len=696	Rhodococcus qingshengii	25	696	Annotated
+k141_1260 flag=1 multi=360.0000 len=392	Rhodococcus qingshengii	25	392	Annotated
+k141_1334 flag=1 multi=631.0000 len=1140	Rhodococcus qingshengii	26	1140	Annotated
+k141_1630 flag=1 multi=691.0000 len=31872	Rhodococcus qingshengii	25	31872	Annotated
+k141_2289 flag=1 multi=807.0000 len=1335	Rhodococcus qingshengii	9	1335	Annotated
+k141_2068 flag=1 multi=688.0000 len=16488	Rhodococcus qingshengii	25	16488	Annotated
+k141_2361 flag=3 multi=281.2613 len=363	NA	NA	363	Unannotated
+k141_2070 flag=1 multi=167.0000 len=474	Rhodococcus qingshengii	25	474	Annotated
+k141_2112 flag=1 multi=665.0000 len=6567	Rhodococcus qingshengii	25	6567	Annotated
+k141_2370 flag=3 multi=160.2326 len=270	Methylobacterium bullatum	3	270	Target
+k141_718 flag=1 multi=1288.0000 len=466	Rhodococcus qingshengii	30	466	Annotated
+k141_1492 flag=1 multi=198.0000 len=374	NA	NA	374	Unannotated
+k141_153 flag=1 multi=1048.0000 len=303	NA	NA	303	Unannotated
+k141_160 flag=1 multi=389.0000 len=687	Allium sativum	1	687	Target
+k141_165 flag=1 multi=248.0000 len=461	NA	NA	461	Unannotated
+k141_172 flag=1 multi=311.0000 len=392	Rhodanobacter denitrificans	5	392	Target
+k141_1199 flag=1 multi=512.0000 len=889	Rhodococcus qingshengii	25	889	Annotated
+k141_1487 flag=1 multi=190.0000 len=497	Rhodococcus qingshengii	25	497	Annotated
+k141_709 flag=1 multi=304.0000 len=380	Rhodococcus qingshengii	13	380	Annotated
+k141_1507 flag=1 multi=125.0000 len=1032	Oncorhynchus keta	48	1032	Target
+k141_1508 flag=1 multi=607.0000 len=3033	Rhodococcus qingshengii	25	3033	Annotated
+k141_1500 flag=1 multi=693.0000 len=2385	Rhodococcus qingshengii	16	2385	Annotated
+k141_44 flag=1 multi=617.0000 len=531	Clavibacter nebraskensis	39	531	Target
+k141_85 flag=1 multi=1086.0000 len=1165	Rhodococcus qingshengii	27	1165	Annotated
+k141_92 flag=1 multi=199.0000 len=324	Rhodococcus qingshengii	25	324	Annotated
+k141_414 flag=1 multi=577.0000 len=1401	Rhodococcus qingshengii	25	1401	Annotated
+k141_1507 flag=1 multi=125.0000 len=1032	Oncorhynchus keta	48	1032	Target
+k141_1508 flag=1 multi=607.0000 len=3033	Rhodococcus qingshengii	25	3033	Annotated
+k141_1500 flag=1 multi=693.0000 len=2385	Rhodococcus qingshengii	16	2385	Annotated
+k141_44 flag=1 multi=617.0000 len=531	Clavibacter nebraskensis	39	531	Target
+k141_85 flag=1 multi=1086.0000 len=1165	Rhodococcus qingshengii	27	1165	Annotated
+k141_92 flag=1 multi=199.0000 len=324	Rhodococcus qingshengii	25	324	Annotated
+k141_414 flag=1 multi=577.0000 len=1401	Rhodococcus qingshengii	25	1401	Annotated
+k141_416 flag=1 multi=625.0000 len=11656	Rhodococcus qingshengii	14	11656	Annotated
+k141_1373 flag=1 multi=376.0000 len=661	Rhodococcus qingshengii	25	661	Annotated
+k141_415 flag=1 multi=729.0000 len=4008	Rhodococcus qingshengii	25	4008	Annotated
+k141_1596 flag=1 multi=172.0000 len=302	Rhodococcus qingshengii	20	302	Annotated
+k141_1597 flag=1 multi=304.0000 len=3822	Rhodococcus qingshengii	25	3822	Annotated
+k141_2197 flag=1 multi=422.0000 len=447	Rhodococcus qingshengii	25	447	Annotated
+k141_1543 flag=1 multi=70.0000 len=368	Bradyrhizobium diazoefficiens	40	368	Target
+k141_2193 flag=1 multi=731.0000 len=383	Prescottella equi	26	383	Target
+k141_1548 flag=1 multi=846.0000 len=412	Rhodococcus qingshengii	25	412	Annotated
+k141_1549 flag=1 multi=698.0000 len=4200	Rhodococcus qingshengii	25	4200	Annotated
+k141_1203 flag=1 multi=680.0000 len=29934	Rhodococcus qingshengii	25	29934	Annotated
+k141_1003 flag=1 multi=340.0000 len=9149	Rhodococcus qingshengii	24	9149	Annotated
+k141_1552 flag=1 multi=701.0000 len=21785	Rhodococcus qingshengii	25	21785	Annotated
+k141_341 flag=1 multi=699.0000 len=19712	Rhodococcus qingshengii	26	19712	Annotated
+k141_337 flag=1 multi=471.0000 len=1257	Rhodococcus qingshengii	25	1257	Annotated
+k141_1558 flag=1 multi=72.0000 len=362	Erythrobacter sp.	4	362	Target
+k141_976 flag=1 multi=18.0000 len=29830	Severe acute respiratory syndrome coronavirus 2	203	29830	Target
+k141_343 flag=1 multi=231.0000 len=505	Tilletiopsis washingtonensis	1	505	Target
+k141_1674 flag=1 multi=615.0000 len=16796	Mycobacterium avium subsp. paratuberculosis	28	16796	Target
+k141_184 flag=1 multi=734.0000 len=3113	Rhodococcus qingshengii	25	3113	Annotated
+k141_723 flag=1 multi=637.0000 len=3676	Rhodococcus erythropolis	10	3676	Annotated
+k141_1339 flag=1 multi=692.0000 len=16486	Rhodococcus qingshengii	25	16486	Annotated
+k141_2234 flag=1 multi=597.0000 len=1535	Rhodococcus qingshengii	25	1535	Annotated
+k141_186 flag=1 multi=688.0000 len=2804	Rhodococcus qingshengii	25	2804	Annotated
+k141_1747 flag=1 multi=688.0000 len=445	Knufia obscura	1	445	Target
+k141_2235 flag=1 multi=505.0000 len=5769	Rhodococcus qingshengii	27	5769	Annotated
+k141_1213 flag=1 multi=470.0000 len=671	Cutibacterium avidum	8	671	Target
+k141_1516 flag=1 multi=701.0000 len=9460	Rhodococcus qingshengii	28	9460	Annotated
+k141_2304 flag=1 multi=317.0000 len=765	Rhodococcus qingshengii	23	765	Annotated
+k141_986 flag=1 multi=247.0000 len=449	Rhodococcus qingshengii	25	449	Annotated
+k141_2154 flag=1 multi=539.0000 len=460	Rhizobium endophyticum CCGE 2052	1	460	Annotated
+k141_178 flag=1 multi=660.0000 len=12449	Rhodococcus qingshengii	25	12449	Annotated
+k141_2159 flag=1 multi=349.0000 len=332	Influenza A virus	25	332	Target
+k141_1929 flag=1 multi=237.0000 len=356	Variovorax paradoxus	13	356	Target
+k141_130 flag=1 multi=415.0000 len=470	Rhodococcus qingshengii	22	470	Annotated
+k141_826 flag=1 multi=112.0000 len=315	Rhodococcus qingshengii	25	315	Annotated
+k141_1860 flag=1 multi=685.0000 len=7063	Rhodococcus qingshengii	25	7063	Annotated
+k141_598 flag=1 multi=89.0000 len=313	Rhodococcus qingshengii	25	313	Annotated
+k141_138 flag=1 multi=294.4903 len=400	NA	NA	400	Unannotated
+k141_2076 flag=1 multi=656.0000 len=522	Rhodococcus qingshengii	25	522	Annotated
+k141_1940 flag=1 multi=103.0000 len=340	Rhodococcus qingshengii	24	340	Annotated
+k141_2127 flag=1 multi=709.0000 len=14834	Rhodococcus qingshengii	25	14834	Annotated
+k141_456 flag=1 multi=520.0000 len=613	Rhodococcus globerulus	2	613	Annotated
+k141_1088 flag=1 multi=652.0000 len=705	Rhodococcus qingshengii	25	705	Annotated
+k141_1638 flag=1 multi=495.0000 len=346	Rhodococcus qingshengii	24	346	Annotated
+k141_1727 flag=1 multi=713.0000 len=2567	Rhodococcus qingshengii	25	2567	Annotated
+k141_987 flag=1 multi=677.0000 len=6971	Rhodococcus qingshengii	25	6971	Annotated
+k141_1423 flag=1 multi=497.0000 len=772	Rhodococcus qingshengii	25	772	Annotated
+k141_568 flag=1 multi=889.0000 len=991	Rhodococcus qingshengii	36	991	Annotated
+k141_1868 flag=1 multi=602.0000 len=3202	Rhodococcus qingshengii	25	3202	Annotated
+k141_2128 flag=1 multi=669.0000 len=7672	Rhodococcus qingshengii	25	7672	Annotated
+k141_1378 flag=1 multi=108.0000 len=444	Rhodococcus ruber	3	444	Annotated
+k141_75 flag=1 multi=629.0000 len=2191	Rhodococcus qingshengii	25	2191	Annotated
+k141_234 flag=1 multi=328.0000 len=372	Rhodococcus qingshengii	25	372	Annotated
+k141_69 flag=1 multi=342.0000 len=643	Rhodococcus qingshengii	24	643	Annotated
+k141_840 flag=1 multi=205.0000 len=328	Paracidovorax avenae	16	328	Target
+k141_2136 flag=1 multi=121.0000 len=368	Rhodococcus qingshengii	25	368	Annotated
+k141_604 flag=1 multi=714.0000 len=24424	Rhodococcus qingshengii	25	24424	Annotated
+k141_1554 flag=1 multi=712.0000 len=21312	Rhodococcus qingshengii	25	21312	Annotated
+k141_617 flag=1 multi=182.0000 len=457	Rhodococcus qingshengii	25	457	Annotated
+k141_1891 flag=1 multi=416.0000 len=761	Rhodococcus qingshengii	25	761	Annotated
+k141_270 flag=1 multi=76.0000 len=382	NA	NA	382	Unannotated
+k141_276 flag=1 multi=509.0000 len=311	NA	NA	311	Unannotated
+k141_941 flag=1 multi=699.0000 len=6843	Rhodococcus qingshengii	25	6843	Annotated
+k141_939 flag=1 multi=749.0000 len=13398	Rhodococcus qingshengii	25	13398	Annotated
+k141_1683 flag=1 multi=292.0000 len=5153	Nocardia seriolae	11	5153	Target
+k141_1025 flag=1 multi=826.0000 len=3134	Rhodococcus qingshengii	25	3134	Annotated
+k141_944 flag=1 multi=760.0000 len=1461	Rhodococcus qingshengii	25	1461	Annotated
+k141_1019 flag=1 multi=662.0000 len=5852	Rhodococcus qingshengii	25	5852	Annotated
+k141_461 flag=1 multi=682.0000 len=3606	Rhodococcus qingshengii	25	3606	Annotated
+k141_526 flag=1 multi=685.0000 len=13718	Rhodococcus qingshengii	25	13718	Annotated
+k141_2338 flag=1 multi=625.0000 len=17560	Rhodococcus qingshengii	25	17560	Annotated
+k141_150 flag=1 multi=3067.0000 len=663	Influenza A virus	23	663	Target
+k141_564 flag=1 multi=693.0000 len=2814	Rhodococcus qingshengii	23	2814	Annotated
+k141_143 flag=1 multi=560.0000 len=3785	Rhodococcus qingshengii	25	3785	Annotated
+k141_486 flag=1 multi=733.0000 len=3744	Rhodococcus qingshengii	25	3744	Annotated
+k141_1532 flag=1 multi=219.0000 len=630	Rhodococcus qingshengii	15	630	Annotated
+k141_733 flag=1 multi=313.0000 len=339	Rhodococcus qingshengii	28	339	Annotated
+k141_738 flag=1 multi=206.0000 len=398	Rhodococcus qingshengii	25	398	Annotated
+k141_527 flag=1 multi=626.0000 len=2789	Rhodococcus qingshengii	25	2789	Annotated
+k141_1967 flag=1 multi=164.0000 len=323	Rhodococcus qingshengii	25	323	Annotated
+k141_906 flag=1 multi=70.0000 len=336	Limnobacter profundi	1	336	Target
+k141_1093 flag=1 multi=873.0000 len=1283	Prescottella equi	16	1283	Target
+k141_1756 flag=1 multi=578.0000 len=1259	Rhodococcus qingshengii	25	1259	Annotated
+k141_7 flag=1 multi=86.0000 len=359	Escherichia coli	94	359	Target
+k141_1028 flag=1 multi=725.0000 len=5893	Rhodococcus qingshengii	25	5893	Annotated
+k141_21 flag=1 multi=753.0000 len=370	Rhodococcus qingshengii	24	370	Annotated
+k141_910 flag=1 multi=331.0000 len=742	Rhodococcus qingshengii	23	742	Annotated
+k141_26 flag=1 multi=163.0000 len=544	Rhodococcus qingshengii	25	544	Annotated
+k141_32 flag=1 multi=140.0000 len=354	Rhodococcus qingshengii	25	354	Annotated
+k141_357 flag=1 multi=1108.0000 len=6130	Rhodococcus aetherivorans	8	6130	Target
+k141_1224 flag=1 multi=695.0000 len=720	Rhodococcus qingshengii	25	720	Annotated
+k141_500 flag=1 multi=708.0000 len=9464	Rhodococcus qingshengii	26	9464	Annotated
+k141_1577 flag=1 multi=161.0000 len=343	Oncorhynchus keta	79	343	Target
+k141_1647 flag=1 multi=685.0000 len=4682	Rhodococcus qingshengii	26	4682	Annotated
+k141_1572 flag=1 multi=93.0000 len=322	Rhodococcus qingshengii	25	322	Annotated
+k141_1357 flag=1 multi=705.0000 len=4455	Rhodococcus qingshengii	25	4455	Annotated
+k141_197 flag=1 multi=149.0000 len=320	Rhodococcus qingshengii	25	320	Annotated
+k141_991 flag=1 multi=305.0000 len=2676	Prescottella equi	26	2676	Target
+k141_1271 flag=1 multi=57.0000 len=315	Stutzerimonas stutzeri	22	315	Target
+k141_641 flag=1 multi=666.0000 len=28079	Rhodococcus qingshengii	27	28079	Annotated
+k141_2012 flag=1 multi=1971.0000 len=1916	Mycobacteroides abscessus	11	1916	Target
+k141_2014 flag=1 multi=495.0000 len=648	Rhodococcus qingshengii	4	648	Annotated
+k141_642 flag=1 multi=600.0000 len=1676	Rhodococcus qingshengii	24	1676	Annotated
+k141_390 flag=1 multi=642.0000 len=13795	Rhodococcus qingshengii	19	13795	Annotated
+k141_1689 flag=1 multi=174.0000 len=345	Rhodococcus qingshengii	25	345	Annotated
+k141_645 flag=1 multi=719.0000 len=8146	Rhodococcus qingshengii	24	8146	Annotated
+k141_1691 flag=1 multi=647.0000 len=5277	Rhodococcus qingshengii	25	5277	Annotated
+k141_1697 flag=1 multi=948.0000 len=607	Rhodococcus qingshengii	9	607	Annotated
+k141_2243 flag=1 multi=163.0000 len=314	Rhodococcus qingshengii	25	314	Annotated
+k141_1364 flag=1 multi=501.0000 len=497	Rhodococcus qingshengii	9	497	Annotated
+k141_397 flag=1 multi=74.0000 len=346	Rhodanobacter denitrificans	8	346	Target
+k141_2089 flag=1 multi=392.0000 len=384	Rhodococcus qingshengii	21	384	Annotated
+k141_1164 flag=1 multi=642.0000 len=789	Rhodococcus qingshengii	25	789	Annotated
+k141_240 flag=1 multi=170.0000 len=476	Rhodococcus qingshengii	25	476	Annotated
+k141_1042 flag=1 multi=362.0000 len=1664	Rhodococcus qingshengii	25	1664	Annotated
+k141_382 flag=1 multi=354.0000 len=2664	Rhodococcus qingshengii	25	2664	Annotated
+k141_1535 flag=1 multi=252.0000 len=380	Rhodococcus qingshengii	25	380	Annotated
+k141_386 flag=1 multi=741.0000 len=3727	Rhodococcus qingshengii	25	3727	Annotated
+k141_1055 flag=1 multi=521.0000 len=1182	Rhodococcus qingshengii	25	1182	Annotated
+k141_753 flag=1 multi=686.0000 len=6982	Rhodococcus qingshengii	25	6982	Annotated
+k141_2313 flag=1 multi=221.0000 len=320	Rhodococcus qingshengii	25	320	Annotated
+k141_297 flag=1 multi=406.0000 len=371	NA	NA	371	Unannotated
+k141_472 flag=1 multi=631.0000 len=5211	Rhodococcus qingshengii	25	5211	Annotated
+k141_1167 flag=1 multi=155.0000 len=305	Rhodococcus qingshengii	25	305	Annotated
+k141_1386 flag=1 multi=162.0000 len=383	NA	NA	383	Unannotated
+k141_1899 flag=1 multi=332.0000 len=3572	Rhodococcus qingshengii	16	3572	Annotated
+k141_1766 flag=1 multi=111.0000 len=369	Plenodomus biglobosus/Leptosphaeria biglobosa 'brassicae' group	2	369	Target
+k141_1894 flag=1 multi=221.0000 len=554	Rhodococcus qingshengii	25	554	Annotated
+k141_1911 flag=1 multi=705.0000 len=705	Rhodococcus qingshengii	25	705	Annotated
+k141_914 flag=1 multi=94.6108 len=344	NA	NA	344	Unannotated
+k141_479 flag=1 multi=117.0000 len=305	NA	NA	305	Unannotated
+k141_1809 flag=1 multi=252.0000 len=855	Rhodococcus qingshengii	25	855	Annotated
+k141_476 flag=1 multi=704.0000 len=12851	Rhodococcus qingshengii	25	12851	Annotated
+k141_1366 flag=1 multi=307.0000 len=24960	Caudoviricetes sp.	10	24960	Target
+k141_919 flag=1 multi=689.0000 len=12181	Rhodococcus qingshengii	25	12181	Annotated
+k141_1731 flag=1 multi=226.0000 len=362	Rhodococcus qingshengii	25	362	Annotated
+k141_686 flag=1 multi=516.0000 len=378	Rhodococcus qingshengii	25	378	Annotated
+k141_504 flag=1 multi=603.0000 len=2112	Rhodococcus qingshengii	26	2112	Annotated
+k141_1275 flag=1 multi=498.0000 len=1503	Rhodococcus qingshengii	25	1503	Annotated
+k141_1653 flag=1 multi=174.0000 len=506	NA	NA	506	Unannotated
+k141_1659 flag=1 multi=55.0000 len=378	NA	NA	378	Unannotated
+k141_1279 flag=1 multi=651.0000 len=1988	Rhodococcus qingshengii	25	1988	Annotated
+k141_1979 flag=1 multi=707.0000 len=9238	Rhodococcus qingshengii	24	9238	Annotated
+k141_1131 flag=1 multi=685.0000 len=4283	Rhodococcus qingshengii	25	4283	Annotated
+k141_2211 flag=1 multi=121.0000 len=334	Rhodococcus qingshengii	25	334	Annotated
+k141_1987 flag=1 multi=1122.0000 len=312	Rhodococcus qingshengii	27	312	Annotated
+k141_401 flag=1 multi=249.0000 len=411	Rhodococcus qingshengii	25	411	Annotated
+k141_873 flag=1 multi=648.0000 len=4982	Rhodococcus qingshengii	25	4982	Annotated
+k141_1316 flag=1 multi=186.5854 len=305	NA	NA	305	Unannotated
+k141_1321 flag=1 multi=134.0000 len=356	Staphylococcus arlettae	6	356	Target
+k141_1109 flag=1 multi=272.0000 len=814	Rhodococcus erythropolis	3	814	Annotated
+k141_1231 flag=1 multi=569.0000 len=1751	Rhodococcus qingshengii	25	1751	Annotated
+k141_1228 flag=1 multi=693.0000 len=26482	Rhodococcus qingshengii	23	26482	Annotated
+k141_949 flag=1 multi=169.0000 len=319	Sphingomonas sp. MM-1	2	319	Target
+k141_2261 flag=1 multi=621.0000 len=5139	Rhodococcus qingshengii	25	5139	Annotated
+k141_2147 flag=1 multi=173.0000 len=341	Rhodococcus qingshengii	25	341	Annotated
+k141_437 flag=1 multi=158.0000 len=314	Alternaria infectoria	1	314	Target
+k141_953 flag=1 multi=575.0000 len=736	Rhodococcus erythropolis	9	736	Annotated
+k141_1887 flag=1 multi=183.0000 len=410	Rhodococcus qingshengii	25	410	Annotated
+k141_1396 flag=1 multi=123.0000 len=319	Burkholderia glumae	58	319	Target
+k141_621 flag=1 multi=719.0000 len=22010	Rhodococcus qingshengii	25	22010	Annotated
+k141_1392 flag=1 multi=220.0000 len=710	Rhodococcus qingshengii	24	710	Annotated
+k141_629 flag=1 multi=97.0000 len=460	Oncorhynchus keta	54	460	Target
+k141_1460 flag=1 multi=362.0000 len=484	Rhodococcus qingshengii	23	484	Annotated
+k141_623 flag=1 multi=168.0000 len=406	Acidiphilium multivorum AIU301	2	406	Annotated
+k141_2095 flag=1 multi=663.0000 len=10259	Rhodococcus qingshengii	25	10259	Annotated
+k141_1612 flag=1 multi=419.0000 len=10430	Rhodococcus qingshengii	25	10430	Annotated
+k141_2214 flag=1 multi=354.0000 len=322	Rhodococcus qingshengii	25	322	Annotated
+k141_1610 flag=1 multi=1034.0000 len=2289	Rhodococcus qingshengii	9	2289	Annotated
+k141_546 flag=1 multi=760.0000 len=491	Rhodococcus qingshengii	25	491	Annotated
+k141_245 flag=1 multi=702.0000 len=2410	Rhodococcus qingshengii	25	2410	Annotated
+k141_541 flag=1 multi=434.0000 len=318	Rhodococcus qingshengii	25	318	Annotated
+k141_556 flag=1 multi=295.0000 len=325	NA	NA	325	Unannotated
+k141_252 flag=1 multi=548.0000 len=380	Rhodococcus qingshengii	31	380	Annotated
+k141_688 flag=1 multi=213.0000 len=354	Oncorhynchus keta	100	354	Target
+k141_215 flag=1 multi=1723.0000 len=729	NA	NA	729	Unannotated
+k141_2348 flag=1 multi=283.0000 len=309	Rhodococcus qingshengii	25	309	Annotated
+k141_328 flag=1 multi=707.0000 len=5208	Rhodococcus qingshengii	25	5208	Annotated
+k141_2274 flag=1 multi=630.0000 len=904	Rhodococcus qingshengii	25	904	Annotated
+k141_689 flag=1 multi=734.0000 len=7357	Rhodococcus qingshengii	25	7357	Annotated
+k141_1171 flag=1 multi=157.0000 len=354	NA	NA	354	Unannotated
+k141_790 flag=1 multi=605.0000 len=705	Rhodococcus qingshengii	25	705	Annotated
+k141_2318 flag=1 multi=82.0000 len=348	Pseudomonas poae	26	348	Target
+k141_2315 flag=1 multi=645.0000 len=40465	Rhodococcus qingshengii	28	40465	Annotated
+k141_1840 flag=1 multi=390.0000 len=305	Knufia obscura	1	305	Target
+k141_1847 flag=1 multi=765.0000 len=393	NA	NA	393	Unannotated
+k141_1234 flag=1 multi=682.0000 len=3532	Rhodococcus qingshengii	25	3532	Annotated
+k141_1141 flag=1 multi=78.0000 len=303	Rhodococcus qingshengii	25	303	Annotated
+k141_2229 flag=1 multi=687.0000 len=2481	Rhodococcus qingshengii	24	2481	Annotated
+k141_637 flag=1 multi=119.0000 len=394	NA	NA	394	Unannotated
+k141_1337 flag=1 multi=344.0000 len=822	Rhodococcus qingshengii	25	822	Annotated
+k141_370 flag=1 multi=132.0000 len=371	Knufia obscura	1	371	Target
+k141_1589 flag=1 multi=596.0000 len=7574	Rhodococcus qingshengii	25	7574	Annotated
+k141_365 flag=1 multi=628.0000 len=3999	Rhodococcus qingshengii	26	3999	Annotated
+k141_1996 flag=1 multi=673.0000 len=1415	Rhodococcus qingshengii	25	1415	Annotated
+k141_1890 flag=1 multi=421.0000 len=371	Streptomyces luteogriseus	2	371	Annotated
+k141_1992 flag=1 multi=266.0000 len=387	Rhodococcus qingshengii	25	387	Annotated
+k141_1615 flag=1 multi=293.0000 len=2734	Rhodococcus opacus	10	2734	Target
+k141_761 flag=1 multi=364.0000 len=313	Escherichia coli	88	313	Target
+k141_1467 flag=1 multi=684.0000 len=10538	Rhodococcus qingshengii	25	10538	Annotated
+k141_2052 flag=1 multi=117.0000 len=314	Rhodococcus qingshengii	25	314	Annotated
+k141_1146 flag=1 multi=680.0000 len=15938	Rhodococcus qingshengii	25	15938	Annotated
+k141_762 flag=1 multi=308.0000 len=1106	Rhodococcus qingshengii	25	1106	Annotated
+k141_2056 flag=1 multi=571.0000 len=1390	Rhodococcus qingshengii	25	1390	Annotated
+k141_1184 flag=1 multi=343.0000 len=1795	Rhodococcus qingshengii	19	1795	Annotated
+k141_1594 flag=1 multi=745.0000 len=10215	Rhodococcus qingshengii	25	10215	Annotated
+k141_2058 flag=1 multi=227.0000 len=558	Rhodococcus qingshengii	25	558	Annotated
+k141_928 flag=1 multi=341.0000 len=430	Rhodococcus qingshengii	17	430	Annotated
+k141_663 flag=1 multi=138.0000 len=340	Pseudomonas chlororaphis	13	340	Target
+k141_1958 flag=1 multi=240.0000 len=507	Rhodococcus qingshengii	25	507	Annotated
+k141_2030 flag=1 multi=360.0000 len=3200	Rhodococcus qingshengii	27	3200	Annotated
+k141_1444 flag=1 multi=396.0000 len=500	Rhodococcus qingshengii	23	500	Annotated
+k141_1329 flag=1 multi=454.0000 len=12302	Rhodococcus qingshengii	32	12302	Annotated
+k141_511 flag=1 multi=130.0000 len=332	Rhodococcus qingshengii	24	332	Annotated
+k141_769 flag=1 multi=248.0000 len=518	Cutibacterium avidum	8	518	Target
+k141_1622 flag=1 multi=2995.0000 len=549	Rhodococcus pyridinivorans	15	549	Target
+k141_889 flag=1 multi=22.0000 len=303	Ensifer adhaerens	12	303	Target
+k141_2001 flag=1 multi=195.0000 len=393	Rhodococcus erythropolis	1	393	Annotated
+k141_1411 flag=1 multi=591.0000 len=1024	Rhodococcus qingshengii	25	1024	Annotated
+k141_1413 flag=1 multi=685.0000 len=6196	Rhodococcus qingshengii	24	6196	Annotated
+k141_1744 flag=1 multi=656.0000 len=1180	Rhodococcus qingshengii	25	1180	Annotated
+k141_1244 flag=1 multi=648.0000 len=3761	Prescottella equi	27	3761	Target
+k141_2062 flag=1 multi=554.0000 len=1083	Rhodococcus qingshengii	25	1083	Annotated
+k141_2256 flag=1 multi=636.0000 len=2438	Rhodococcus qingshengii	25	2438	Annotated
+k141_514 flag=1 multi=666.0000 len=3430	Prescottella equi	26	3430	Target
+k141_2281 flag=1 multi=677.0000 len=13133	Rhodococcus qingshengii	25	13133	Annotated
+k141_2286 flag=1 multi=242.0000 len=473	Rhodococcus qingshengii	25	473	Annotated
+k141_1478 flag=1 multi=340.0000 len=730	Rhodococcus qingshengii	25	730	Annotated
+k141_2102 flag=1 multi=613.0000 len=7370	Rhodococcus qingshengii	25	7370	Annotated
+k141_1253 flag=1 multi=52.0000 len=486	Roseomonas sp. CCTCC AB2023176	1	486	Target
+k141_808 flag=1 multi=692.0000 len=359	Prescottella equi	25	359	Target
+k141_1261 flag=1 multi=391.0000 len=314	NA	NA	314	Unannotated
+k141_1335 flag=1 multi=796.0000 len=3802	Rhodococcus qingshengii	26	3802	Annotated
+k141_1631 flag=1 multi=249.0000 len=1291	Rhodococcus qingshengii	25	1291	Annotated
+k141_2290 flag=1 multi=36.0000 len=408	Novosphingobium sp.	2	408	Annotated
+k141_2362 flag=3 multi=376.2667 len=306	Oncorhynchus keta	17	306	Target
+k141_2071 flag=1 multi=69.0000 len=323	Sphingomonas panacis	1	323	Target
+k141_2329 flag=1 multi=692.0000 len=17552	Rhodococcus qingshengii	25	17552	Annotated
+k141_2371 flag=3 multi=97.7348 len=273	NA	NA	273	Unannotated
+k141_1495 flag=1 multi=801.0000 len=831	Rhodococcus qingshengii	25	831	Annotated
+k141_300 flag=1 multi=663.0000 len=8328	Rhodococcus qingshengii	26	8328	Annotated
+k141_1670 flag=1 multi=704.0000 len=4355	Rhodococcus qingshengii	25	4355	Annotated
+k141_1791 flag=1 multi=750.0000 len=10723	Rhodococcus qingshengii	25	10723	Annotated
+k141_1796 flag=1 multi=263.0000 len=421	Rhodococcus qingshengii	10	421	Annotated
+k141_173 flag=1 multi=160.0000 len=310	Rhodococcus qingshengii	25	310	Annotated
+k141_1200 flag=1 multi=1194.0000 len=803	Rhodococcus qingshengii	8	803	Annotated
+k141_710 flag=1 multi=411.0000 len=415	Bradyrhizobium diazoefficiens	90	415	Target
+k141_1414 flag=1 multi=693.0000 len=5198	Rhodococcus qingshengii	25	5198	Annotated
+k141_2117 flag=1 multi=568.0000 len=3317	Rhodococcus qingshengii	25	3317	Annotated
+k141_79 flag=1 multi=102.0000 len=418	NA	NA	418	Unannotated
+k141_45 flag=1 multi=666.0000 len=309	Sipha flava	8	309	Target
+k141_2114 flag=1 multi=660.0000 len=13056	Rhodococcus qingshengii	25	13056	Annotated
+k141_86 flag=1 multi=288.0000 len=663	Rhodococcus erythropolis	7	663	Annotated
+k141_53 flag=1 multi=119.0000 len=369	Rhodococcus qingshengii	25	369	Annotated
+k141_2117 flag=1 multi=568.0000 len=3317	Rhodococcus qingshengii	25	3317	Annotated
+k141_79 flag=1 multi=102.0000 len=418	NA	NA	418	Unannotated
+k141_45 flag=1 multi=666.0000 len=309	Sipha flava	8	309	Target
+k141_2114 flag=1 multi=660.0000 len=13056	Rhodococcus qingshengii	25	13056	Annotated
+k141_86 flag=1 multi=288.0000 len=663	Rhodococcus erythropolis	7	663	Annotated
+k141_53 flag=1 multi=119.0000 len=369	Rhodococcus qingshengii	25	369	Annotated
+k141_417 flag=1 multi=1257.0000 len=557	Sphingomonadaceae bacterium	2	557	Target
+k141_898 flag=1 multi=741.0000 len=10001	Rhodococcus qingshengii	25	10001	Annotated
+k141_2187 flag=1 multi=442.0000 len=323	Rhodococcus qingshengii	25	323	Annotated
+k141_98 flag=1 multi=693.0000 len=5929	Rhodococcus qingshengii	25	5929	Annotated
+k141_2198 flag=1 multi=183.0000 len=382	Roseomonas mucosa	12	382	Target
+k141_1544 flag=1 multi=1.0000 len=369	Influenza A virus	13	369	Target
+k141_1797 flag=1 multi=618.0000 len=1687	Rhodococcus qingshengii	25	1687	Annotated
+k141_1599 flag=1 multi=616.0000 len=2471	Rhodococcus qingshengii	27	2471	Annotated
+k141_1082 flag=1 multi=734.0000 len=10539	Rhodococcus qingshengii	25	10539	Annotated
+k141_1550 flag=1 multi=282.0000 len=2310	Rhodococcus qingshengii	25	2310	Annotated
+k141_1012 flag=1 multi=975.0000 len=682	Aspergillus affinis	1	682	Target
+k141_835 flag=1 multi=579.0000 len=28101	Rhodococcus qingshengii	25	28101	Annotated
+k141_931 flag=1 multi=374.0000 len=4430	Rhodococcus qingshengii	28	4430	Annotated
+k141_1115 flag=1 multi=703.0000 len=10022	Rhodococcus qingshengii	25	10022	Annotated
+k141_1121 flag=1 multi=577.0000 len=1027	Rhodococcus qingshengii	25	1027	Annotated
+k141_837 flag=1 multi=284.0000 len=440	Rhodococcus qingshengii	25	440	Annotated
+k141_858 flag=1 multi=674.0000 len=916	Rhodococcus qingshengii	25	916	Annotated
+k141_185 flag=1 multi=157.0000 len=576	Escherichia coli	93	576	Target
+k141_782 flag=1 multi=363.0000 len=437	NA	NA	437	Unannotated
+k141_103 flag=1 multi=709.0000 len=9509	Rhodococcus qingshengii	26	9509	Annotated
+k141_191 flag=1 multi=274.0000 len=2056	Rhodococcus qingshengii	27	2056	Annotated
+k141_1748 flag=1 multi=244.0000 len=326	Acidimicrobium ferrooxidans DSM 10331	1	326	Target
+k141_187 flag=1 multi=140.0000 len=419	Rhodococcus qingshengii	25	419	Annotated
+k141_1751 flag=1 multi=159.0000 len=358	Rhodococcus qingshengii	25	358	Annotated
+k141_1346 flag=1 multi=624.0000 len=2916	Rhodococcus qingshengii	25	2916	Annotated
+k141_1302 flag=1 multi=677.0000 len=7525	Rhodococcus qingshengii	25	7525	Annotated
+k141_57 flag=1 multi=198.0000 len=617	Rhodococcus qingshengii	25	617	Annotated
+k141_2155 flag=1 multi=220.0000 len=402	Rhodococcus qingshengii	25	402	Annotated
+k141_2160 flag=1 multi=546.0000 len=394	NA	NA	394	Unannotated
+k141_981 flag=1 multi=717.0000 len=1766	Rhodococcus qingshengii	25	1766	Annotated
+k141_126 flag=1 multi=971.0000 len=594	NA	NA	594	Unannotated
+k141_131 flag=1 multi=269.0000 len=363	Rhodococcus qingshengii	24	363	Annotated
+k141_1861 flag=1 multi=89.0000 len=315	Rhodococcus qingshengii	25	315	Annotated
+k141_971 flag=1 multi=603.0000 len=5707	Rhodococcus qingshengii	29	5707	Annotated
+k141_599 flag=1 multi=337.0000 len=344	Rhodococcus globerulus	2	344	Annotated
+k141_139 flag=1 multi=790.0000 len=438	NA	NA	438	Unannotated
+k141_2077 flag=1 multi=262.0000 len=458	Rhodococcus qingshengii	25	458	Annotated
+k141_2199 flag=1 multi=623.0000 len=35895	Rhodococcus qingshengii	33	35895	Annotated
+k141_1266 flag=1 multi=528.0000 len=2417	Rhodococcus qingshengii	25	2417	Annotated
+k141_1426 flag=1 multi=329.0000 len=354	Rhodococcus erythropolis	8	354	Annotated
+k141_1428 flag=1 multi=631.0000 len=1980	Rhodococcus qingshengii	26	1980	Annotated
+k141_748 flag=1 multi=716.0000 len=6265	Rhodococcus qingshengii	25	6265	Annotated
+k141_1718 flag=1 multi=236.0000 len=335	Rhodococcus qingshengii	25	335	Annotated
+k141_1017 flag=1 multi=701.0000 len=10928	Rhodococcus qingshengii	25	10928	Annotated
+k141_573 flag=1 multi=461.0000 len=1294	Rhodococcus qingshengii	25	1294	Annotated
+k141_2200 flag=1 multi=728.0000 len=3166	Rhodococcus qingshengii	25	3166	Annotated
+k141_1566 flag=1 multi=587.0000 len=1140	Rhodococcus qingshengii	25	1140	Annotated
+k141_1433 flag=1 multi=2130.0000 len=355	Rhodococcus qingshengii	30	355	Annotated
+k141_1865 flag=1 multi=656.0000 len=18626	Rhodococcus qingshengii	26	18626	Annotated
+k141_351 flag=1 multi=685.0000 len=5225	Rhodococcus qingshengii	31	5225	Annotated
+k141_354 flag=1 multi=220.0000 len=327	Delftia tsuruhatensis	10	327	Target
+k141_70 flag=1 multi=431.0000 len=3093	Prescottella equi	26	3093	Target
+k141_313 flag=1 multi=540.0000 len=2433	Propionibacterium freudenreichii	24	2433	Target
+k141_1434 flag=1 multi=685.0000 len=7214	Rhodococcus qingshengii	26	7214	Annotated
+k141_2133 flag=1 multi=185.0000 len=433	Rhodococcus qingshengii	25	433	Annotated
+k141_1555 flag=1 multi=224.0000 len=323	Rhodococcus qingshengii	25	323	Annotated
+k141_618 flag=1 multi=4450.0000 len=502	Aspergillus ustus	2	502	Annotated
+k141_1678 flag=1 multi=647.0000 len=2186	Rhodococcus qingshengii	25	2186	Annotated
+k141_607 flag=1 multi=307.0000 len=2114	Rhodococcus qingshengii	25	2114	Annotated
+k141_2335 flag=1 multi=150.0000 len=431	Rhodococcus qingshengii	25	431	Annotated
+k141_283 flag=1 multi=1896.0000 len=827	Influenza A virus	27	827	Target
+k141_940 flag=1 multi=916.0000 len=517	Rhodococcus qingshengii	25	517	Annotated
+k141_1026 flag=1 multi=95.0000 len=503	Variovorax paradoxus	8	503	Target
+k141_2010 flag=1 multi=85.0000 len=321	NA	NA	321	Unannotated
+k141_2336 flag=1 multi=617.0000 len=6225	Rhodococcus qingshengii	26	6225	Annotated
+k141_462 flag=1 multi=285.0000 len=565	Rhodococcus qingshengii	25	565	Annotated
+k141_1219 flag=1 multi=732.0000 len=5829	Rhodococcus qingshengii	4	5829	Annotated
+k141_1124 flag=1 multi=753.0000 len=2454	Rhodococcus qingshengii	25	2454	Annotated
+k141_151 flag=1 multi=432.0000 len=328	NA	NA	328	Unannotated
+k141_565 flag=1 multi=303.0000 len=406	NA	NA	406	Unannotated
+k141_487 flag=1 multi=139.0000 len=316	Flavonifractor plautii	9	316	Target
+k141_231 flag=1 multi=621.0000 len=334	Rhodococcus qingshengii	25	334	Annotated
+k141_1533 flag=1 multi=511.0000 len=1441	Rhodococcus qingshengii	10	1441	Annotated
+k141_470 flag=1 multi=164.0000 len=388	Leucoraja erinaceus	5	388	Target
+k141_739 flag=1 multi=134.0000 len=345	Devosia neptuniae	1	345	Target
+k141_1968 flag=1 multi=631.0000 len=504	Rhodococcus qingshengii	25	504	Annotated
+k141_528 flag=1 multi=538.0000 len=355	NA	NA	355	Unannotated
+k141_0 flag=1 multi=306.0000 len=1993	Rhodococcus qingshengii	26	1993	Annotated
+k141_1094 flag=1 multi=816.0000 len=427	Rhodococcus qingshengii	25	427	Annotated
+k141_8 flag=1 multi=66.0000 len=310	Triticum aestivum	51	310	Target
+k141_742 flag=1 multi=1374.0000 len=377	Sarocladium implicatum	2	377	Target
+k141_18 flag=1 multi=694.0000 len=606	Rhodococcus qingshengii	25	606	Annotated
+k141_22 flag=1 multi=33.0000 len=463	Escherichia coli	85	463	Target
+k141_1033 flag=1 multi=99.0000 len=315	NA	NA	315	Unannotated
+k141_12 flag=1 multi=29.0000 len=324	Streptococcus pneumoniae	57	324	Target
+k141_33 flag=1 multi=1119.0000 len=345	Prescottella equi	16	345	Target
+k141_358 flag=1 multi=78.0000 len=391	Cereibacter sphaeroides	13	391	Target
+k141_1037 flag=1 multi=717.0000 len=12999	Rhodococcus qingshengii	25	12999	Annotated
+k141_1069 flag=1 multi=2158.0000 len=684	Mycobacterium avium subsp. hominissuis	5	684	Target
+k141_1578 flag=1 multi=346.0000 len=700	Rhodococcus qingshengii	24	700	Annotated
+k141_1648 flag=1 multi=1015.0000 len=320	NA	NA	320	Unannotated
+k141_1573 flag=1 multi=1.0000 len=404	Influenza A virus	34	404	Target
+k141_427 flag=1 multi=712.0000 len=7724	Rhodococcus qingshengii	22	7724	Annotated
+k141_992 flag=1 multi=54.0000 len=356	Limnobacter profundi	1	356	Target
+k141_426 flag=1 multi=784.0000 len=495	Rhodococcus qingshengii	23	495	Annotated
+k141_2267 flag=1 multi=302.0000 len=1260	Streptomyces anulatus	12	1260	Target
+k141_580 flag=1 multi=671.0000 len=2695	Rhodococcus qingshengii	25	2695	Annotated
+k141_643 flag=1 multi=130.0000 len=534	Rhodococcus qingshengii	24	534	Annotated
+k141_647 flag=1 multi=86.0000 len=398	NA	NA	398	Unannotated
+k141_1690 flag=1 multi=624.0000 len=468	Rhodococcus qingshengii	25	468	Annotated
+k141_1692 flag=1 multi=170.0000 len=365	Rhodococcus qingshengii	24	365	Annotated
+k141_2017 flag=1 multi=417.0000 len=752	Mycobacterium avium subsp. hominissuis	26	752	Target
+k141_1160 flag=1 multi=322.0000 len=398	Rhodococcus qingshengii	25	398	Annotated
+k141_238 flag=1 multi=284.0000 len=441	Chryseobacterium indologenes	25	441	Target
+k141_844 flag=1 multi=177.0000 len=369	NA	NA	369	Unannotated
+k141_235 flag=1 multi=671.0000 len=4028	Rhodococcus qingshengii	25	4028	Annotated
+k141_619 flag=1 multi=695.0000 len=8188	Rhodococcus qingshengii	25	8188	Annotated
+k141_1072 flag=1 multi=332.0000 len=7248	Rhodococcus qingshengii	22	7248	Annotated
+k141_750 flag=1 multi=161.0000 len=306	Sphingobium sp. TomTYG43	1	306	Annotated
+k141_376 flag=1 multi=1330.0000 len=808	Cairneyella variabilis	2	808	Target
+k141_383 flag=1 multi=350.0000 len=369	Lodderomyces beijingensis	3	369	Annotated
+k141_387 flag=1 multi=499.0000 len=376	Rhodococcus qingshengii	24	376	Annotated
+k141_1040 flag=1 multi=686.0000 len=2272	Rhodococcus qingshengii	25	2272	Annotated
+k141_1056 flag=1 multi=1037.0000 len=457	Fusarium musae	19	457	Target
+k141_1076 flag=1 multi=184.0000 len=434	Rhodococcus qingshengii	25	434	Annotated
+k141_752 flag=1 multi=203.0000 len=336	Rhodococcus qingshengii	25	336	Annotated
+k141_298 flag=1 multi=485.0000 len=679	Alternaria incomplexa	2	679	Target
+k141_473 flag=1 multi=119.0000 len=385	Rhodopseudomonas palustris	10	385	Target
+k141_1387 flag=1 multi=52.0000 len=315	Oncorhynchus keta	20	315	Target
+k141_289 flag=1 multi=376.0000 len=12765	Rhodococcus qingshengii	25	12765	Annotated
+k141_1900 flag=1 multi=617.0000 len=459	Rhodococcus qingshengii	24	459	Annotated
+k141_1767 flag=1 multi=297.0000 len=812	Rhodococcus qingshengii	25	812	Annotated
+k141_1912 flag=1 multi=76.0000 len=351	Acidiphilium multivorum AIU301	2	351	Annotated
+k141_1105 flag=1 multi=673.0000 len=10043	Rhodococcus qingshengii	25	10043	Annotated
+k141_915 flag=1 multi=4069.0000 len=496	Corynespora cassiicola	18	496	Target
+k141_2020 flag=1 multi=514.0000 len=619	Rhodococcus qingshengii	25	619	Annotated
+k141_1810 flag=1 multi=482.0000 len=469	Rhodococcus qingshengii	15	469	Annotated
+k141_534 flag=1 multi=251.0000 len=314	Escherichia coli	98	314	Target
+k141_320 flag=1 multi=552.0000 len=8745	Rhodococcus qingshengii	32	8745	Annotated
+k141_1813 flag=1 multi=739.0000 len=4136	Rhodococcus qingshengii	26	4136	Annotated
+k141_1732 flag=1 multi=256.0000 len=333	Rhodococcus qingshengii	25	333	Annotated
+k141_198 flag=1 multi=341.0000 len=1716	Rhodococcus qingshengii	25	1716	Annotated
+k141_203 flag=1 multi=504.0000 len=1566	Rhodococcus qingshengii	25	1566	Annotated
+k141_675 flag=1 multi=671.0000 len=23630	Prescottella equi	26	23630	Target
+k141_1654 flag=1 multi=184.0000 len=329	Streptomyces albidoflavus	28	329	Target
+k141_1976 flag=1 multi=740.0000 len=1852	Rhodococcus qingshengii	25	1852	Annotated
+k141_1737 flag=1 multi=638.0000 len=1587	Rhodococcus erythropolis	8	1587	Annotated
+k141_1980 flag=1 multi=229.0000 len=392	Rhodococcus qingshengii	25	392	Annotated
+k141_1665 flag=1 multi=665.0000 len=1028	Rhodococcus qingshengii	24	1028	Annotated
+k141_2212 flag=1 multi=276.0000 len=340	Rhodococcus qingshengii	25	340	Annotated
+k141_1988 flag=1 multi=420.0000 len=348	Rhodococcus qingshengii	25	348	Annotated
+k141_402 flag=1 multi=17.0000 len=347	Epitonium clathrus	1	347	Target
+k141_405 flag=1 multi=636.0000 len=3528	Rhodococcus qingshengii	25	3528	Annotated
+k141_874 flag=1 multi=491.0000 len=746	Rhodococcus qingshengii	25	746	Annotated
+k141_1110 flag=1 multi=1166.0000 len=561	Rhodococcus qingshengii	25	561	Annotated
+k141_1879 flag=1 multi=649.0000 len=2959	Rhodococcus qingshengii	25	2959	Annotated
+k141_950 flag=1 multi=620.0000 len=587	Rhodococcus qingshengii	25	587	Annotated
+k141_1773 flag=1 multi=598.0000 len=663	Rhodococcus qingshengii	25	663	Annotated
+k141_972 flag=1 multi=712.0000 len=42624	Rhodococcus qingshengii	26	42624	Annotated
+k141_2148 flag=1 multi=181.0000 len=711	Rhodococcus qingshengii	25	711	Annotated
+k141_438 flag=1 multi=1849.0000 len=322	NA	NA	322	Unannotated
+k141_1000 flag=1 multi=93.0000 len=337	Rhodococcus qingshengii	25	337	Annotated
+k141_954 flag=1 multi=242.0000 len=733	Rhodococcus opacus	13	733	Target
+k141_1397 flag=1 multi=232.0000 len=305	Rhodococcus qingshengii	25	305	Annotated
+k141_1281 flag=1 multi=694.0000 len=3767	Rhodococcus qingshengii	25	3767	Annotated
+k141_443 flag=1 multi=640.0000 len=8651	Rhodococcus qingshengii	25	8651	Annotated
+k141_630 flag=1 multi=112.0000 len=311	Escherichia coli	96	311	Target
+k141_1461 flag=1 multi=125.0000 len=338	Sitta europaea	2	338	Target
+k141_755 flag=1 multi=687.0000 len=6844	Rhodococcus qingshengii	25	6844	Annotated
+k141_624 flag=1 multi=21080.0000 len=566	Influenza A virus	14	566	Target
+k141_204 flag=1 multi=1126.0000 len=11271	Rhodococcus erythropolis	8	11271	Annotated
+k141_212 flag=1 multi=386.0000 len=1706	Rhodococcus qingshengii	25	1706	Annotated
+k141_1611 flag=1 multi=282.0000 len=541	Rhodococcus qingshengii	25	541	Annotated
+k141_592 flag=1 multi=274.0000 len=556	Rhodococcus qingshengii	25	556	Annotated
+k141_2183 flag=1 multi=666.0000 len=19488	Rhodococcus qingshengii	27	19488	Annotated
+k141_1135 flag=1 multi=690.0000 len=20775	Rhodococcus qingshengii	24	20775	Annotated
+k141_542 flag=1 multi=499.0000 len=444	Rhodococcus qingshengii	25	444	Annotated
+k141_253 flag=1 multi=113.0000 len=349	Novosphingobium pentaromativorans US6-1	1	349	Target
+k141_217 flag=1 multi=682.0000 len=9759	Rhodococcus qingshengii	25	9759	Annotated
+k141_222 flag=1 multi=465.0000 len=571	NA	NA	571	Unannotated
+k141_1830 flag=1 multi=234.0000 len=321	Rhodococcus qingshengii	25	321	Annotated
+k141_1779 flag=1 multi=686.0000 len=7077	Rhodococcus qingshengii	25	7077	Annotated
+k141_332 flag=1 multi=685.0000 len=8646	Rhodococcus qingshengii	24	8646	Annotated
+k141_690 flag=1 multi=654.0000 len=1606	Rhodococcus qingshengii	9	1606	Annotated
+k141_1172 flag=1 multi=334.0000 len=814	Rhodococcus qingshengii	25	814	Annotated
+k141_791 flag=1 multi=297.0000 len=1800	Rhodococcus qingshengii	25	1800	Annotated
+k141_1950 flag=1 multi=205.0000 len=558	Rhodococcus qingshengii	25	558	Annotated
+k141_796 flag=1 multi=652.0000 len=849	Rhodococcus qingshengii	25	849	Annotated
+k141_1841 flag=1 multi=239.0000 len=394	Muricoccus radiodurans	1	394	Target
+k141_1848 flag=1 multi=183.0000 len=335	Plenodomus biglobosus/Leptosphaeria biglobosa 'brassicae' group	2	335	Target
+k141_1142 flag=1 multi=84.0000 len=382	Salvelinus alpinus	32	382	Target
+k141_2251 flag=1 multi=229.0000 len=323	Rhodococcus qingshengii	25	323	Annotated
+k141_2230 flag=1 multi=103.0000 len=497	Oncorhynchus nerka	49	497	Target
+k141_638 flag=1 multi=660.0000 len=1548	Rhodococcus qingshengii	25	1548	Annotated
+k141_1338 flag=1 multi=190.0000 len=317	Rhodococcus qingshengii	25	317	Annotated
+k141_371 flag=1 multi=486.0000 len=676	NA	NA	676	Unannotated
+k141_1590 flag=1 multi=747.0000 len=2746	Rhodococcus qingshengii	25	2746	Annotated
+k141_366 flag=1 multi=168.0000 len=422	NA	NA	422	Unannotated
+k141_961 flag=1 multi=120.0000 len=389	Rhodococcus qingshengii	25	389	Annotated
+k141_1404 flag=1 multi=364.0000 len=12092	Prescottella equi	26	12092	Target
+k141_1993 flag=1 multi=112.0000 len=323	Escherichia coli	98	323	Target
+k141_1616 flag=1 multi=110.0000 len=301	NA	NA	301	Unannotated
+k141_1469 flag=1 multi=685.0000 len=8355	Rhodococcus qingshengii	25	8355	Annotated
+k141_1918 flag=1 multi=684.0000 len=21047	Prescottella equi	26	21047	Target
+k141_2053 flag=1 multi=255.0000 len=524	Rhodococcus qingshengii	25	524	Annotated
+k141_258 flag=1 multi=570.0000 len=301	Rhodococcus qingshengii	25	301	Annotated
+k141_2223 flag=1 multi=346.0000 len=2529	Rhodococcus qingshengii	25	2529	Annotated
+k141_763 flag=1 multi=235.0000 len=472	NA	NA	472	Unannotated
+k141_696 flag=1 multi=637.0000 len=2406	Rhodococcus qingshengii	25	2406	Annotated
+k141_699 flag=1 multi=761.0000 len=7866	Rhodococcus qingshengii	25	7866	Annotated
+k141_2059 flag=1 multi=168.0000 len=390	Rhodococcus qingshengii	24	390	Annotated
+k141_2026 flag=1 multi=739.0000 len=7046	Rhodococcus qingshengii	25	7046	Annotated
+k141_799 flag=1 multi=703.0000 len=15252	Rhodococcus qingshengii	25	15252	Annotated
+k141_1959 flag=1 multi=160.0000 len=326	Rhodococcus qingshengii	25	326	Annotated
+k141_2325 flag=1 multi=456.0000 len=15808	Rhodococcus qingshengii	16	15808	Annotated
+k141_508 flag=1 multi=727.0000 len=5857	Rhodococcus qingshengii	25	5857	Annotated
+k141_1330 flag=1 multi=157.0000 len=301	Micromonospora zamorensis	12	301	Target
+k141_666 flag=1 multi=646.0000 len=3170	Rhodococcus qingshengii	25	3170	Annotated
+k141_2278 flag=1 multi=673.0000 len=1331	Rhodococcus qingshengii	25	1331	Annotated
+k141_1239 flag=1 multi=695.0000 len=17978	Rhodococcus qingshengii	25	17978	Annotated
+k141_2280 flag=1 multi=730.0000 len=14261	Prescottella equi	26	14261	Target
+k141_2037 flag=1 multi=333.0000 len=860	Rhodococcus qingshengii	25	860	Annotated
+k141_1412 flag=1 multi=716.0000 len=6198	Rhodococcus qingshengii	25	6198	Annotated
+k141_1486 flag=1 multi=687.0000 len=3750	Prescottella equi	26	3750	Target
+k141_1154 flag=1 multi=633.0000 len=13104	Rhodococcus qingshengii	25	13104	Annotated
+k141_1245 flag=1 multi=610.0000 len=1821	Rhodococcus qingshengii	25	1821	Annotated
+k141_2063 flag=1 multi=149.0000 len=344	NA	NA	344	Unannotated
+k141_515 flag=1 multi=285.0000 len=332	Rhodococcus qingshengii	25	332	Annotated
+k141_1333 flag=1 multi=638.0000 len=12884	Rhodococcus qingshengii	25	12884	Annotated
+k141_804 flag=1 multi=163.0000 len=304	Rhodococcus qingshengii	25	304	Annotated
+k141_1479 flag=1 multi=276.0000 len=933	Rhodococcus qingshengii	15	933	Annotated
+k141_2103 flag=1 multi=218.0000 len=344	Rhodococcus qingshengii	25	344	Annotated
+k141_1254 flag=1 multi=272.0000 len=336	Rhodococcus qingshengii	25	336	Annotated
+k141_809 flag=1 multi=142.0000 len=342	Polymorphobacter sp.	1	342	Target
+k141_771 flag=1 multi=759.0000 len=37192	Rhodococcus qingshengii	25	37192	Annotated
+k141_520 flag=1 multi=890.0000 len=6953	Rhodococcus qingshengii	12	6953	Annotated
+k141_772 flag=1 multi=529.0000 len=2560	Rhodococcus qingshengii	25	2560	Annotated
+k141_669 flag=1 multi=658.0000 len=22619	Rhodococcus qingshengii	25	22619	Annotated
+k141_2363 flag=3 multi=347.3311 len=289	NA	NA	289	Unannotated
+k141_2072 flag=1 multi=998.0000 len=7960	Nocardia seriolae	11	7960	Target
+k141_2330 flag=1 multi=233.0000 len=454	Rhodococcus qingshengii	25	454	Annotated
+k141_2104 flag=1 multi=630.0000 len=9821	Prescottella equi	26	9821	Target
+k141_1496 flag=1 multi=585.0000 len=648	Rhodococcus qingshengii	27	648	Annotated
+k141_154 flag=1 multi=588.0000 len=1160	Rhodococcus qingshengii	25	1160	Annotated
+k141_161 flag=1 multi=455.0000 len=345	Meyerozyma guilliermondii	4	345	Target
+k141_712 flag=1 multi=656.0000 len=7974	Rhodococcus qingshengii	25	7974	Annotated
+k141_166 flag=1 multi=1125.0000 len=303	Fusarium verticillioides 7600	1	303	Target
+k141_174 flag=1 multi=84.0000 len=305	Coniothyrium diplodiella negative-stranded RNA virus 1	2	305	Target
+k141_1489 flag=1 multi=663.0000 len=5433	Rhodococcus qingshengii	25	5433	Annotated
+k141_711 flag=1 multi=226.0000 len=379	Rhodococcus qingshengii	24	379	Annotated
+k141_1415 flag=1 multi=522.0000 len=644	Rhodococcus qingshengii	25	644	Annotated
+k141_2118 flag=1 multi=280.0000 len=436	Rhodococcus qingshengii	18	436	Annotated
+k141_40 flag=1 multi=687.0000 len=574	Rhodococcus qingshengii	25	574	Annotated
+k141_46 flag=1 multi=198.0000 len=308	Rhodococcus qingshengii	25	308	Annotated
+k141_87 flag=1 multi=196.0000 len=307	Rhodococcus qingshengii	25	307	Annotated
+k141_1501 flag=1 multi=241.0000 len=345	Rhodococcus qingshengii	25	345	Annotated
+k141_93 flag=1 multi=343.0000 len=830	Rhodococcus qingshengii	25	830	Annotated
+k141_2118 flag=1 multi=280.0000 len=436	Rhodococcus qingshengii	18	436	Annotated
+k141_40 flag=1 multi=687.0000 len=574	Rhodococcus qingshengii	25	574	Annotated
+k141_46 flag=1 multi=198.0000 len=308	Rhodococcus qingshengii	25	308	Annotated
+k141_87 flag=1 multi=196.0000 len=307	Rhodococcus qingshengii	25	307	Annotated
+k141_1501 flag=1 multi=241.0000 len=345	Rhodococcus qingshengii	25	345	Annotated
+k141_93 flag=1 multi=343.0000 len=830	Rhodococcus qingshengii	25	830	Annotated
+k141_418 flag=1 multi=744.0000 len=319	NA	NA	319	Unannotated
+k141_899 flag=1 multi=147.0000 len=314	Agrobacterium fabrum	17	314	Target
+k141_2188 flag=1 multi=11.0000 len=311	Escherichia coli	95	311	Target
+k141_2298 flag=1 multi=622.0000 len=3143	Rhodococcus qingshengii	24	3143	Annotated
+k141_1513 flag=1 multi=339.0000 len=8815	Rhodococcus qingshengii	29	8815	Annotated
+k141_1515 flag=1 multi=730.0000 len=3815	Rhodococcus qingshengii	25	3815	Annotated
+k141_1798 flag=1 multi=256.0000 len=435	Rhodococcus qingshengii	25	435	Annotated
+k141_1600 flag=1 multi=184.0000 len=329	Rhodococcus qingshengii	25	329	Annotated
+k141_1204 flag=1 multi=80.0000 len=380	Roseomonas cutis	1	380	Target
+k141_1551 flag=1 multi=164.0000 len=337	Rhodococcus qingshengii	25	337	Annotated
+k141_1553 flag=1 multi=186.0000 len=545	Bradyrhizobium japonicum	20	545	Target
+k141_342 flag=1 multi=704.0000 len=2917	Rhodococcus qingshengii	24	2917	Annotated
+k141_338 flag=1 multi=291.0000 len=441	Rhodococcus qingshengii	25	441	Annotated
+k141_1559 flag=1 multi=551.0000 len=2624	Rhodococcus qingshengii	26	2624	Annotated
+k141_977 flag=1 multi=623.0000 len=610	Rhodococcus qingshengii	9	610	Annotated
+k141_344 flag=1 multi=158.0000 len=342	Triticum aestivum	26	342	Target
+k141_726 flag=1 multi=666.0000 len=752	Rhodococcus qingshengii	25	752	Annotated
+k141_786 flag=1 multi=685.0000 len=9824	Rhodococcus qingshengii	25	9824	Annotated
+k141_65 flag=1 multi=34.0000 len=410	Xanthomonas citri pv. citri	54	410	Target
+k141_104 flag=1 multi=129.0000 len=421	Rhodococcus qingshengii	25	421	Annotated
+k141_1205 flag=1 multi=250.0000 len=1775	Rhodococcus qingshengii	25	1775	Annotated
+k141_1206 flag=1 multi=612.0000 len=1170	Rhodococcus qingshengii	35	1170	Annotated
+k141_1752 flag=1 multi=924.0000 len=354	Triticum aestivum	4	354	Target
+k141_863 flag=1 multi=700.0000 len=2235	Rhodococcus qingshengii	25	2235	Annotated
+k141_1303 flag=1 multi=670.0000 len=5093	Rhodococcus qingshengii	24	5093	Annotated
+k141_1343 flag=1 multi=1164.0000 len=8588	Rhodococcus qingshengii	11	8588	Annotated
+k141_58 flag=1 multi=485.7500 len=489	NA	NA	489	Unannotated
+k141_2156 flag=1 multi=68.0000 len=368	Colletotrichum destructivum	1	368	Annotated
+k141_2161 flag=1 multi=4676.0000 len=345	NA	NA	345	Unannotated
+k141_982 flag=1 multi=339.0000 len=312	Rhodococcus qingshengii	24	312	Annotated
+k141_127 flag=1 multi=111.0000 len=389	Salvelinus alpinus	31	389	Target
+k141_1931 flag=1 multi=589.0000 len=4104	Rhodococcus qingshengii	25	4104	Annotated
+k141_134 flag=1 multi=746.0000 len=4399	Rhodococcus qingshengii	25	4399	Annotated
+k141_600 flag=1 multi=370.0000 len=323	Rhodococcus qingshengii	25	323	Annotated
+k141_827 flag=1 multi=411.0000 len=1251	Rhodococcus qingshengii	28	1251	Annotated
+k141_140 flag=1 multi=31.0000 len=389	Escherichia coli	95	389	Target
+k141_2078 flag=1 multi=536.0000 len=625	Rhodococcus qingshengii	24	625	Annotated
+k141_1517 flag=1 multi=514.0000 len=789	Rhodococcus qingshengii	29	789	Annotated
+k141_1427 flag=1 multi=115.0000 len=322	Rhodococcus qingshengii	25	322	Annotated
+k141_1429 flag=1 multi=301.0000 len=1499	Rhodococcus qingshengii	25	1499	Annotated
+k141_1719 flag=1 multi=115.0000 len=324	Rhodococcus qingshengii	25	324	Annotated
+k141_1420 flag=1 multi=646.0000 len=9537	Rhodococcus qingshengii	25	9537	Annotated
+k141_574 flag=1 multi=69.0000 len=322	Pseudomonas aeruginosa	46	322	Target
+k141_2201 flag=1 multi=65.0000 len=302	Pararoseomonas sp. SCSIO 73927	1	302	Target
+k141_1455 flag=1 multi=505.0000 len=4302	Rhodococcus qingshengii	9	4302	Annotated
+k141_2129 flag=1 multi=573.0000 len=553	Rhodococcus qingshengii	25	553	Annotated
+k141_1454 flag=1 multi=633.0000 len=3876	Rhodococcus qingshengii	25	3876	Annotated
+k141_1450 flag=1 multi=673.0000 len=9579	Rhodococcus qingshengii	25	9579	Annotated
+k141_355 flag=1 multi=298.0000 len=535	Rhodococcus qingshengii	24	535	Annotated
+k141_71 flag=1 multi=426.0000 len=418	Rhodococcus qingshengii	15	418	Annotated
+k141_2134 flag=1 multi=706.0000 len=6098	Rhodococcus qingshengii	25	6098	Annotated
+k141_1057 flag=1 multi=744.0000 len=8204	Rhodococcus qingshengii	24	8204	Annotated
+k141_1567 flag=1 multi=644.0000 len=9323	Rhodococcus qingshengii	25	9323	Annotated
+k141_938 flag=1 multi=673.0000 len=11732	Rhodococcus qingshengii	25	11732	Annotated
+k141_266 flag=1 multi=633.0000 len=15735	Rhodococcus qingshengii	25	15735	Annotated
+k141_1557 flag=1 multi=697.0000 len=9312	Rhodococcus qingshengii	25	9312	Annotated
+k141_1059 flag=1 multi=352.0000 len=1060	Rhodococcus qingshengii	26	1060	Annotated
+k141_277 flag=1 multi=231.0000 len=309	Sphingopyxis sp.	3	309	Annotated
+k141_284 flag=1 multi=1.0000 len=325	NA	NA	325	Unannotated
+k141_1680 flag=1 multi=697.0000 len=1550	Rhodococcus qingshengii	25	1550	Annotated
+k141_1027 flag=1 multi=604.0000 len=1528	Rhodococcus qingshengii	25	1528	Annotated
+k141_2011 flag=1 multi=658.0000 len=459	NA	NA	459	Unannotated
+k141_110 flag=1 multi=48.0000 len=302	Paracoccus yeei	7	302	Target
+k141_463 flag=1 multi=138.0000 len=730	Rhodococcus qingshengii	25	730	Annotated
+k141_2339 flag=1 multi=195.0000 len=404	Rhodococcus qingshengii	23	404	Annotated
+k141_265 flag=1 multi=808.0000 len=7300	Rhodococcus qingshengii	25	7300	Annotated
+k141_566 flag=1 multi=309.0000 len=703	Rhodococcus qingshengii	25	703	Annotated
+k141_488 flag=1 multi=552.0000 len=4922	Prescottella equi	25	4922	Target
+k141_1635 flag=1 multi=684.0000 len=13890	Rhodococcus qingshengii	25	13890	Annotated
+k141_144 flag=1 multi=237.0000 len=306	NA	NA	306	Unannotated
+k141_2307 flag=1 multi=677.0000 len=5230	Rhodococcus qingshengii	26	5230	Annotated
+k141_740 flag=1 multi=743.0000 len=321	Rhodococcus qingshengii	25	321	Annotated
+k141_1969 flag=1 multi=652.0000 len=2773	Rhodococcus qingshengii	25	2773	Annotated
+k141_2240 flag=1 multi=272.0000 len=433	NA	NA	433	Unannotated
+k141_673 flag=1 multi=668.0000 len=26636	Rhodococcus qingshengii	25	26636	Annotated
+k141_1 flag=1 multi=678.0000 len=7095	Rhodococcus qingshengii	25	7095	Annotated
+k141_9 flag=1 multi=567.0000 len=658	Rhodococcus qingshengii	26	658	Annotated
+k141_1972 flag=1 multi=472.0000 len=1820	Rhodococcus qingshengii	25	1820	Annotated
+k141_1029 flag=1 multi=3738.0000 len=583	Aspergillus flavus	15	583	Target
+k141_1822 flag=1 multi=362.0000 len=2112	Pseudomonas aeruginosa	24	2112	Target
+k141_27 flag=1 multi=533.0000 len=309	Hordeum vulgare subsp. vulgare	1	309	Target
+k141_34 flag=1 multi=282.0000 len=381	Rhodococcus qingshengii	25	381	Annotated
+k141_1097 flag=1 multi=652.0000 len=4484	Rhodococcus qingshengii	25	4484	Annotated
+k141_1070 flag=1 multi=704.0000 len=4671	Rhodococcus qingshengii	25	4671	Annotated
+k141_1639 flag=1 multi=203.0000 len=443	Stutzerimonas stutzeri	25	443	Target
+k141_1221 flag=1 multi=325.0000 len=7251	Rhodococcus qingshengii	26	7251	Annotated
+k141_788 flag=1 multi=683.0000 len=19586	Prescottella equi	26	19586	Target
+k141_1649 flag=1 multi=635.0000 len=338	Filobasidium wieringae	1	338	Target
+k141_1643 flag=1 multi=659.0000 len=2093	Prescottella equi	26	2093	Target
+k141_428 flag=1 multi=896.0000 len=423	Bacillus gobiensis	1	423	Target
+k141_2204 flag=1 multi=657.0000 len=435	Rhodococcus qingshengii	24	435	Annotated
+k141_1272 flag=1 multi=624.0000 len=1721	Rhodococcus qingshengii	25	1721	Annotated
+k141_577 flag=1 multi=787.0000 len=1560	Rhodococcus pyridinivorans	14	1560	Target
+k141_581 flag=1 multi=505.0000 len=308	Rhodococcus qingshengii	25	308	Annotated
+k141_2206 flag=1 multi=643.0000 len=8989	Prescottella equi	16	8989	Target
+k141_391 flag=1 multi=744.0000 len=374	Rhodococcus qingshengii	25	374	Annotated
+k141_1872 flag=1 multi=373.0000 len=3217	Rhodococcus qingshengii	25	3217	Annotated
+k141_1693 flag=1 multi=206.0000 len=332	Rhodococcus qingshengii	25	332	Annotated
+k141_1698 flag=1 multi=215.0000 len=337	Rhodococcus qingshengii	25	337	Annotated
+k141_2018 flag=1 multi=153.0000 len=305	Rhodococcus qingshengii	25	305	Annotated
+k141_1702 flag=1 multi=4226.0000 len=984	Rhodococcus qingshengii	10	984	Annotated
+k141_1878 flag=1 multi=372.0000 len=1749	Rhodococcus qingshengii	26	1749	Annotated
+k141_1875 flag=1 multi=677.0000 len=8050	Rhodococcus qingshengii	25	8050	Annotated
+k141_2090 flag=1 multi=250.0000 len=329	Rhodococcus qingshengii	22	329	Annotated
+k141_2311 flag=1 multi=725.0000 len=7025	Rhodococcus qingshengii	25	7025	Annotated
+k141_2085 flag=1 multi=675.0000 len=2425	Rhodococcus qingshengii	25	2425	Annotated
+k141_1043 flag=1 multi=196.0000 len=632	Sphingomonas sp. MM-1	2	632	Target
+k141_384 flag=1 multi=361.0000 len=305	Mesobacillus jeotgali	1	305	Target
+k141_1191 flag=1 multi=257.0000 len=444	Rhodococcus qingshengii	25	444	Annotated
+k141_1193 flag=1 multi=647.0000 len=5304	Prescottella equi	26	5304	Target
+k141_493 flag=1 multi=714.0000 len=10954	Rhodococcus qingshengii	25	10954	Annotated
+k141_1165 flag=1 multi=652.0000 len=11565	Rhodococcus qingshengii	25	11565	Annotated
+k141_1073 flag=1 multi=621.0000 len=1245	Rhodococcus qingshengii	26	1245	Annotated
+k141_2043 flag=1 multi=743.0000 len=3523	Rhodococcus qingshengii	25	3523	Annotated
+k141_1100 flag=1 multi=610.0000 len=1279	Rhodococcus qingshengii	25	1279	Annotated
+k141_1388 flag=1 multi=286.0000 len=333	Rhodococcus qingshengii	25	333	Annotated
+k141_290 flag=1 multi=1372.9544 len=536	Escherichia coli	95	536	Target
+k141_1901 flag=1 multi=155.0000 len=333	Rhodococcus qingshengii	25	333	Annotated
+k141_1906 flag=1 multi=289.0000 len=11154	Streptomyces albidoflavus	40	11154	Target
+k141_2176 flag=1 multi=634.0000 len=1276	Rhodococcus qingshengii	25	1276	Annotated
+k141_916 flag=1 multi=1694.0000 len=606	Corynespora cassiicola	18	606	Target
+k141_1106 flag=1 multi=262.0000 len=658	NA	NA	658	Unannotated
+k141_480 flag=1 multi=703.0000 len=775	Rhodococcus qingshengii	24	775	Annotated
+k141_1811 flag=1 multi=892.0000 len=1972	Rhodococcus qingshengii	9	1972	Annotated
+k141_535 flag=1 multi=348.0000 len=466	Pararoseomonas sp. SCSIO 73927	1	466	Target
+k141_321 flag=1 multi=71.0000 len=335	NA	NA	335	Unannotated
+k141_318 flag=1 multi=555.0000 len=380	Rhodococcus qingshengii	9	380	Annotated
+k141_683 flag=1 multi=704.0000 len=2612	Prescottella equi	26	2612	Target
+k141_327 flag=1 multi=53.0000 len=362	Burkholderia gladioli	18	362	Target
+k141_505 flag=1 multi=492.0000 len=15214	Rhodococcus qingshengii	25	15214	Annotated
+k141_676 flag=1 multi=1369.0000 len=569	Rhodococcus qingshengii	31	569	Annotated
+k141_1974 flag=1 multi=693.0000 len=3589	Rhodococcus qingshengii	25	3589	Annotated
+k141_1660 flag=1 multi=632.0000 len=592	Mycobacteroides abscessus	10	592	Target
+k141_1437 flag=1 multi=695.0000 len=26735	Rhodococcus qingshengii	26	26735	Annotated
+k141_1981 flag=1 multi=86.0000 len=560	Roseomonas mucosa	10	560	Target
+k141_1666 flag=1 multi=185.0000 len=383	Rhodococcus qingshengii	25	383	Annotated
+k141_1826 flag=1 multi=314.0000 len=1341	Rhodococcus qingshengii	25	1341	Annotated
+k141_1989 flag=1 multi=119.0000 len=339	Rhodococcus qingshengii	25	339	Annotated
+k141_403 flag=1 multi=682.0000 len=1281	Rhodococcus qingshengii	25	1281	Annotated
+k141_1771 flag=1 multi=319.0000 len=2214	Rhodococcus qingshengii	25	2214	Annotated
+k141_1133 flag=1 multi=706.0000 len=3159	Rhodococcus qingshengii	25	3159	Annotated
+k141_1111 flag=1 multi=794.0000 len=529	Rhodococcus qingshengii	35	529	Annotated
+k141_1880 flag=1 multi=147.0000 len=477	Rhodococcus qingshengii	25	477	Annotated
+k141_653 flag=1 multi=678.0000 len=14602	Rhodococcus qingshengii	25	14602	Annotated
+k141_1774 flag=1 multi=281.0000 len=393	Rhodococcus qingshengii	25	393	Annotated
+k141_1449 flag=1 multi=760.0000 len=12418	Rhodococcus qingshengii	25	12418	Annotated
+k141_2149 flag=1 multi=71.0000 len=305	NA	NA	305	Unannotated
+k141_439 flag=1 multi=182.0000 len=322	Triticum aestivum	15	322	Target
+k141_1001 flag=1 multi=124.0000 len=356	Rhodococcus qingshengii	25	356	Annotated
+k141_955 flag=1 multi=359.0000 len=719	Rhodococcus qingshengii	25	719	Annotated
+k141_1398 flag=1 multi=858.0000 len=931	Rhodococcus qingshengii	25	931	Annotated
+k141_444 flag=1 multi=333.0000 len=673	Rhodococcus qingshengii	25	673	Annotated
+k141_631 flag=1 multi=361.0000 len=431	NA	NA	431	Unannotated
+k141_1462 flag=1 multi=299.0000 len=598	Rhodococcus qingshengii	25	598	Annotated
+k141_756 flag=1 multi=105.0000 len=317	Rhodococcus qingshengii	25	317	Annotated
+k141_625 flag=1 multi=343.0000 len=371	NA	NA	371	Unannotated
+k141_205 flag=1 multi=1219.0000 len=415	Mesocricetus auratus	6	415	Target
+k141_1742 flag=1 multi=608.0000 len=7402	Rhodococcus qingshengii	25	7402	Annotated
+k141_758 flag=1 multi=700.0000 len=5151	Rhodococcus qingshengii	25	5151	Annotated
+k141_547 flag=1 multi=551.0000 len=465	Rhodococcus qingshengii	26	465	Annotated
+k141_246 flag=1 multi=41.0000 len=330	Limnobacter sp.	1	330	Target
+k141_243 flag=1 multi=658.0000 len=12266	Rhodococcus qingshengii	25	12266	Annotated
+k141_254 flag=1 multi=397.0000 len=311	Rhodococcus qingshengii	25	311	Annotated
+k141_218 flag=1 multi=743.5109 len=325	NA	NA	325	Unannotated
+k141_2349 flag=1 multi=117.0000 len=392	Paraburkholderia fungorum	8	392	Target
+k141_216 flag=1 multi=618.0000 len=447	Rhodococcus qingshengii	25	447	Annotated
+k141_333 flag=1 multi=69.0000 len=304	Roseomonas mucosa	2	304	Target
+k141_331 flag=1 multi=721.0000 len=7102	Rhodococcus erythropolis	4	7102	Annotated
+k141_1173 flag=1 multi=632.0000 len=1875	Rhodococcus qingshengii	25	1875	Annotated
+k141_656 flag=1 multi=655.0000 len=3387	Prescottella equi	26	3387	Target
+k141_2319 flag=1 multi=76.0000 len=413	Kangiella koreensis DSM 16069	1	413	Target
+k141_506 flag=1 multi=643.0000 len=29441	Rhodococcus qingshengii	25	29441	Annotated
+k141_1466 flag=1 multi=629.0000 len=3894	Rhodococcus qingshengii	9	3894	Annotated
+k141_1849 flag=1 multi=495.0000 len=658	Rhodococcus qingshengii	25	658	Annotated
+k141_1236 flag=1 multi=697.0000 len=15885	Rhodococcus qingshengii	26	15885	Annotated
+k141_1328 flag=1 multi=750.0000 len=23691	Rhodococcus qingshengii	25	23691	Annotated
+k141_1151 flag=1 multi=286.0000 len=719	Rhodococcus qingshengii	26	719	Annotated
+k141_452 flag=1 multi=898.0000 len=21923	Rhodococcus qingshengii	31	21923	Annotated
+k141_372 flag=1 multi=196.0000 len=358	Pichia kudriavzevii	2	358	Target
+k141_406 flag=1 multi=705.0000 len=16011	Rhodococcus qingshengii	25	16011	Annotated
+k141_962 flag=1 multi=358.0000 len=389	Rhodococcus qingshengii	25	389	Annotated
+k141_1405 flag=1 multi=211.0000 len=555	Rhodococcus qingshengii	25	555	Annotated
+k141_2023 flag=1 multi=159.0000 len=597	Rhodococcus qingshengii	25	597	Annotated
+k141_1617 flag=1 multi=119.0000 len=440	Streptomyces sp. NBC_01267	1	440	Annotated
+k141_1919 flag=1 multi=224.0000 len=348	Rhodococcus qingshengii	25	348	Annotated
+k141_2218 flag=1 multi=661.0000 len=4464	Rhodococcus qingshengii	25	4464	Annotated
+k141_1147 flag=1 multi=314.0000 len=316	Salvelinus alpinus	26	316	Target
+k141_1150 flag=1 multi=737.0000 len=4166	Rhodococcus qingshengii	25	4166	Annotated
+k141_764 flag=1 multi=653.0000 len=565	Rhodococcus qingshengii	24	565	Annotated
+k141_2186 flag=1 multi=661.0000 len=4025	Rhodococcus qingshengii	25	4025	Annotated
+k141_700 flag=1 multi=249.0000 len=306	Rhodococcus qingshengii	25	306	Annotated
+k141_1181 flag=1 multi=658.0000 len=7218	Rhodococcus qingshengii	26	7218	Annotated
+k141_334 flag=1 multi=494.0000 len=9027	Rhodococcus qingshengii	25	9027	Annotated
+k141_2254 flag=1 multi=722.0000 len=22163	Rhodococcus qingshengii	25	22163	Annotated
+k141_1960 flag=1 multi=223.0000 len=589	Rhodococcus qingshengii	25	589	Annotated
+k141_2031 flag=1 multi=542.0000 len=855	Rhodococcus qingshengii	29	855	Annotated
+k141_1297 flag=1 multi=707.0000 len=14040	Rhodococcus qingshengii	25	14040	Annotated
+k141_881 flag=1 multi=681.0000 len=3870	Rhodococcus qingshengii	25	3870	Annotated
+k141_667 flag=1 multi=491.0000 len=333	Rhodococcus qingshengii	25	333	Annotated
+k141_2327 flag=1 multi=695.0000 len=4004	Rhodococcus qingshengii	25	4004	Annotated
+k141_1240 flag=1 multi=391.0000 len=476	Rhodococcus qingshengii	25	476	Annotated
+k141_890 flag=1 multi=670.0000 len=791	Rhodococcus qingshengii	25	791	Annotated
+k141_2038 flag=1 multi=255.0000 len=731	Rhodococcus qingshengii	25	731	Annotated
+k141_1745 flag=1 multi=1174.0000 len=21013	Rhodococcus erythropolis	11	21013	Annotated
+k141_1155 flag=1 multi=334.0000 len=658	Rhodococcus qingshengii	25	658	Annotated
+k141_261 flag=1 multi=645.0000 len=3716	Rhodococcus qingshengii	25	3716	Annotated
+k141_2064 flag=1 multi=646.0000 len=739	Rhodococcus qingshengii	25	739	Annotated
+k141_516 flag=1 multi=172.0000 len=306	Rhodococcus qingshengii	25	306	Annotated
+k141_2100 flag=1 multi=659.0000 len=12759	Rhodococcus qingshengii	25	12759	Annotated
+k141_805 flag=1 multi=905.0000 len=310	Chryseobacterium indoltheticum	4	310	Target
+k141_2257 flag=1 multi=586.0000 len=2169	Rhodococcus qingshengii	26	2169	Annotated
+k141_2067 flag=1 multi=673.0000 len=30059	Rhodococcus qingshengii	25	30059	Annotated
+k141_1255 flag=1 multi=628.0000 len=325	Rhodococcus qingshengii	25	325	Annotated
+k141_810 flag=1 multi=305.0000 len=422	Rhodococcus qingshengii	25	422	Annotated
+k141_2288 flag=1 multi=689.0000 len=13374	Rhodococcus qingshengii	25	13374	Annotated
+k141_1480 flag=1 multi=696.0000 len=6601	Rhodococcus qingshengii	25	6601	Annotated
+k141_773 flag=1 multi=223.0000 len=348	Rhodococcus qingshengii	23	348	Annotated
+k141_2291 flag=1 multi=597.0000 len=4055	Rhodococcus qingshengii	25	4055	Annotated
+k141_2364 flag=3 multi=795.5790 len=1514	Rhodococcus qingshengii	25	1514	Annotated
+k141_2073 flag=1 multi=316.0000 len=335	Rhodococcus qingshengii	25	335	Annotated
+k141_2331 flag=1 multi=123.0000 len=454	Rhodococcus qingshengii	25	454	Annotated
+k141_2105 flag=1 multi=132.0000 len=306	Stutzerimonas stutzeri	25	306	Target
+k141_1497 flag=1 multi=104.0000 len=319	Brucella anthropi	3	319	Target
+k141_301 flag=1 multi=115.0000 len=324	Salvelinus sp. IW2-2015	3	324	Target
+k141_1792 flag=1 multi=354.0000 len=519	Rhodococcus qingshengii	25	519	Annotated
+k141_167 flag=1 multi=180.0000 len=323	Rhodococcus qingshengii	25	323	Annotated
+k141_713 flag=1 multi=1758.0000 len=1420	Rhodococcus qingshengii	24	1420	Annotated
+k141_175 flag=1 multi=634.0000 len=1106	Rhodococcus qingshengii	25	1106	Annotated
+k141_1490 flag=1 multi=39.0000 len=329	Limnobacter profundi	1	329	Target
+k141_1537 flag=1 multi=637.0000 len=8031	Rhodococcus qingshengii	24	8031	Annotated
+k141_1416 flag=1 multi=200.0000 len=327	Rhodococcus qingshengii	25	327	Annotated
+k141_2119 flag=1 multi=219.0000 len=494	Rhodococcus qingshengii	25	494	Annotated
+k141_80 flag=1 multi=158.0000 len=801	Rhodococcus qingshengii	25	801	Annotated
+k141_47 flag=1 multi=375.0000 len=365	Oncorhynchus keta	30	365	Target
+k141_50 flag=1 multi=740.0000 len=3181	Rhodococcus qingshengii	25	3181	Annotated
+k141_411 flag=1 multi=144.0000 len=342	Triticum aestivum	38	342	Target
+k141_2115 flag=1 multi=697.0000 len=600	Rhodococcus qingshengii	25	600	Annotated
+k141_2119 flag=1 multi=219.0000 len=494	Rhodococcus qingshengii	25	494	Annotated
+k141_80 flag=1 multi=158.0000 len=801	Rhodococcus qingshengii	25	801	Annotated
+k141_47 flag=1 multi=375.0000 len=365	Oncorhynchus keta	30	365	Target
+k141_50 flag=1 multi=740.0000 len=3181	Rhodococcus qingshengii	25	3181	Annotated
+k141_411 flag=1 multi=144.0000 len=342	Triticum aestivum	38	342	Target
+k141_2115 flag=1 multi=697.0000 len=600	Rhodococcus qingshengii	25	600	Annotated
+k141_419 flag=1 multi=295.0000 len=408	Cloning vector pNTR-SD	1	408	Annotated
+k141_900 flag=1 multi=395.0000 len=476	Rhodococcus qingshengii	25	476	Annotated
+k141_2189 flag=1 multi=469.0000 len=437	Rhodococcus qingshengii	24	437	Annotated
+k141_2299 flag=1 multi=654.0000 len=1512	Rhodococcus qingshengii	25	1512	Annotated
+k141_1604 flag=1 multi=661.0000 len=4243	Rhodococcus qingshengii	30	4243	Annotated
+k141_1605 flag=1 multi=681.0000 len=6097	Rhodococcus qingshengii	25	6097	Annotated
+k141_1799 flag=1 multi=154.0000 len=435	Rhodococcus qingshengii	25	435	Annotated
+k141_2194 flag=1 multi=639.0000 len=1230	Rhodococcus qingshengii	25	1230	Annotated
+k141_522 flag=1 multi=149.0000 len=579	Rhodococcus qingshengii	25	579	Annotated
+k141_1004 flag=1 multi=737.0000 len=1724	Rhodococcus qingshengii	23	1724	Annotated
+k141_936 flag=1 multi=702.0000 len=4592	Rhodococcus qingshengii	25	4592	Annotated
+k141_932 flag=1 multi=212.0000 len=420	Rhodococcus qingshengii	25	420	Annotated
+k141_1560 flag=1 multi=388.0000 len=1589	Rhodococcus qingshengii	25	1589	Annotated
+k141_1122 flag=1 multi=443.0000 len=472	Rhodococcus qingshengii	9	472	Annotated
+k141_345 flag=1 multi=559.0000 len=311	NA	NA	311	Unannotated
+k141_182 flag=1 multi=712.0000 len=4125	Rhodococcus qingshengii	25	4125	Annotated
+k141_2121 flag=1 multi=721.0000 len=5415	Rhodococcus qingshengii	25	5415	Annotated
+k141_724 flag=1 multi=545.0000 len=466	Rhodococcus qingshengii	26	466	Annotated
+k141_105 flag=1 multi=275.0000 len=421	Rhodococcus qingshengii	25	421	Annotated
+k141_1340 flag=1 multi=625.0000 len=6484	Rhodococcus qingshengii	25	6484	Annotated
+k141_1749 flag=1 multi=592.0000 len=399	Rhodococcus qingshengii	25	399	Annotated
+k141_2236 flag=1 multi=735.0000 len=883	Rhodococcus qingshengii	25	883	Annotated
+k141_864 flag=1 multi=175.0000 len=330	Rhodococcus qingshengii	25	330	Annotated
+k141_1264 flag=1 multi=697.0000 len=16435	Rhodococcus qingshengii	25	16435	Annotated
+k141_1344 flag=1 multi=137.0000 len=341	Rhodococcus qingshengii	25	341	Annotated
+k141_59 flag=1 multi=565.0000 len=761	Rhodococcus qingshengii	25	761	Annotated
+k141_179 flag=1 multi=695.0000 len=7318	Rhodococcus qingshengii	25	7318	Annotated
+k141_2162 flag=1 multi=1120.0000 len=319	Knufia obscura	1	319	Target
+k141_1672 flag=1 multi=698.0000 len=6698	Rhodococcus qingshengii	25	6698	Annotated
+k141_1856 flag=1 multi=598.0000 len=5118	Rhodococcus qingshengii	25	5118	Annotated
+k141_1932 flag=1 multi=693.0000 len=344	Rhodococcus qingshengii	25	344	Annotated
+k141_135 flag=1 multi=112.0000 len=394	Escherichia coli	98	394	Target
+k141_601 flag=1 multi=72.0000 len=368	Limnobacter profundi	1	368	Target
+k141_141 flag=1 multi=687.0000 len=337	NA	NA	337	Unannotated
+k141_1854 flag=1 multi=85.0000 len=376	Triticum aestivum	14	376	Target
+k141_2079 flag=1 multi=22.0000 len=304	Limnobacter thiooxidans	1	304	Target
+k141_1267 flag=1 multi=31.0000 len=301	Escherichia coli	92	301	Target
+k141_1944 flag=1 multi=701.0000 len=8382	Rhodococcus qingshengii	25	8382	Annotated
+k141_1724 flag=1 multi=706.0000 len=4690	Rhodococcus qingshengii	25	4690	Annotated
+k141_1424 flag=1 multi=680.0000 len=2574	Rhodococcus qingshengii	25	2574	Annotated
+k141_1943 flag=1 multi=628.0000 len=6213	Rhodococcus qingshengii	25	6213	Annotated
+k141_1716 flag=1 multi=640.0000 len=3376	Rhodococcus qingshengii	25	3376	Annotated
+k141_1941 flag=1 multi=683.0000 len=6760	Rhodococcus qingshengii	25	6760	Annotated
+k141_1869 flag=1 multi=751.0000 len=585	Rhodococcus qingshengii	25	585	Annotated
+k141_2130 flag=1 multi=731.0000 len=323	Rhodococcus qingshengii	7	323	Annotated
+k141_1866 flag=1 multi=648.0000 len=1432	Rhodococcus qingshengii	25	1432	Annotated
+k141_232 flag=1 multi=711.0000 len=23794	Rhodococcus qingshengii	25	23794	Annotated
+k141_1376 flag=1 multi=712.0000 len=9191	Rhodococcus qingshengii	25	9191	Annotated
+k141_72 flag=1 multi=318.0000 len=403	Escherichia coli	35	403	Target
+k141_314 flag=1 multi=459.0000 len=962	Rhodococcus pyridinivorans	11	962	Target
+k141_1568 flag=1 multi=509.0000 len=328	Rhodococcus qingshengii	25	328	Annotated
+k141_1556 flag=1 multi=257.0000 len=714	Rhodococcus qingshengii	25	714	Annotated
+k141_1676 flag=1 multi=719.0000 len=9764	Rhodococcus qingshengii	25	9764	Annotated
+k141_1436 flag=1 multi=589.0000 len=1052	Rhodococcus qingshengii	25	1052	Annotated
+k141_278 flag=1 multi=1.0000 len=332	NA	NA	332	Unannotated
+k141_285 flag=1 multi=186.0000 len=430	Rhodococcus qingshengii	9	430	Annotated
+k141_271 flag=1 multi=666.0000 len=7803	Rhodococcus qingshengii	25	7803	Annotated
+k141_2005 flag=1 multi=728.0000 len=24700	Rhodococcus qingshengii	25	24700	Annotated
+k141_945 flag=1 multi=569.0000 len=623	Rhodococcus qingshengii	9	623	Annotated
+k141_1020 flag=1 multi=547.0000 len=594	Rhodococcus qingshengii	25	594	Annotated
+k141_464 flag=1 multi=215.0000 len=554	Rhodococcus qingshengii	25	554	Annotated
+k141_1125 flag=1 multi=62.0000 len=319	Salvelinus alpinus	27	319	Target
+k141_830 flag=1 multi=705.0000 len=6763	Rhodococcus qingshengii	25	6763	Annotated
+k141_567 flag=1 multi=692.0000 len=2639	Rhodococcus qingshengii	25	2639	Annotated
+k141_489 flag=1 multi=578.0000 len=395	Rhodococcus qingshengii	25	395	Annotated
+k141_145 flag=1 multi=178.0000 len=304	Variovorax sp. BK018	1	304	Target
+k141_734 flag=1 multi=575.0000 len=764	Rhodococcus qingshengii	25	764	Annotated
+k141_741 flag=1 multi=345.0000 len=436	Candida sp. FH-2024a	4	436	Target
+k141_2166 flag=1 multi=266.0000 len=6647	Streptomyces canus	12	6647	Target
+k141_467 flag=1 multi=727.0000 len=3789	Rhodococcus qingshengii	25	3789	Annotated
+k141_907 flag=1 multi=380.0000 len=726	Rhodococcus qingshengii	25	726	Annotated
+k141_2 flag=1 multi=36.0000 len=481	Sphingobium sp. TKS	3	481	Annotated
+k141_909 flag=1 multi=681.0000 len=9676	Rhodococcus qingshengii	25	9676	Annotated
+k141_743 flag=1 multi=665.0000 len=917	Rhodococcus qingshengii	25	917	Annotated
+k141_19 flag=1 multi=725.0000 len=629	Rhodococcus qingshengii	25	629	Annotated
+k141_23 flag=1 multi=181.0000 len=306	Methylorubrum populi	1	306	Annotated
+k141_28 flag=1 multi=541.0000 len=525	Rhodococcus qingshengii	25	525	Annotated
+k141_35 flag=1 multi=810.0000 len=335	NA	NA	335	Unannotated
+k141_13 flag=1 multi=2821.0000 len=1351	Rhodococcus erythropolis	10	1351	Annotated
+k141_1071 flag=1 multi=216.0000 len=351	Rhodococcus qingshengii	24	351	Annotated
+k141_1640 flag=1 multi=213.0000 len=499	Rhodococcus qingshengii	25	499	Annotated
+k141_2137 flag=1 multi=374.0000 len=20977	Mycolicibacterium smegmatis	18	20977	Target
+k141_1646 flag=1 multi=604.0000 len=5289	Rhodococcus qingshengii	25	5289	Annotated
+k141_1650 flag=1 multi=4426.0000 len=355	NA	NA	355	Unannotated
+k141_1352 flag=1 multi=703.0000 len=3083	Rhodococcus qingshengii	25	3083	Annotated
+k141_429 flag=1 multi=198.0000 len=388	Stutzerimonas stutzeri	21	388	Target
+k141_993 flag=1 multi=216.0000 len=348	NA	NA	348	Unannotated
+k141_1273 flag=1 multi=766.0000 len=1649	Rhodococcus qingshengii	28	1649	Annotated
+k141_2268 flag=1 multi=149.0000 len=306	Rhodococcus qingshengii	25	306	Annotated
+k141_1359 flag=1 multi=845.0000 len=1187	Rhodococcus qingshengii	25	1187	Annotated
+k141_2207 flag=1 multi=311.0000 len=859	Rhodococcus qingshengii	23	859	Annotated
+k141_648 flag=1 multi=303.0000 len=425	Rhodococcus qingshengii	21	425	Annotated
+k141_1873 flag=1 multi=286.0000 len=376	Influenza A virus	21	376	Target
+k141_1694 flag=1 multi=404.0000 len=365	Rhodococcus qingshengii	24	365	Annotated
+k141_1699 flag=1 multi=465.0000 len=431	Rhodococcus qingshengii	23	431	Annotated
+k141_1728 flag=1 multi=281.0000 len=9217	Rhodococcus qingshengii	24	9217	Annotated
+k141_398 flag=1 multi=392.0000 len=3728	Rhodococcus qingshengii	25	3728	Annotated
+k141_845 flag=1 multi=406.0000 len=308	Rhodococcus qingshengii	24	308	Annotated
+k141_236 flag=1 multi=5567.0000 len=528	Influenza A virus	50	528	Target
+k141_2091 flag=1 multi=127.0000 len=332	Rhodococcus qingshengii	22	332	Annotated
+k141_1161 flag=1 multi=721.0000 len=13734	Rhodococcus qingshengii	25	13734	Annotated
+k141_377 flag=1 multi=6661.0000 len=277	NA	NA	277	Unannotated
+k141_1046 flag=1 multi=293.0000 len=1289	Rhodococcus qingshengii	25	1289	Annotated
+k141_1192 flag=1 multi=73.0000 len=335	Achromobacter xylosoxidans	44	335	Target
+k141_1194 flag=1 multi=188.0000 len=450	Rhodococcus qingshengii	9	450	Annotated
+k141_494 flag=1 multi=3422.0000 len=352	Trichoderma reesei	7	352	Target
+k141_2314 flag=1 multi=1051.0000 len=752	Rhodococcus qingshengii	30	752	Annotated
+k141_2044 flag=1 multi=594.0000 len=483	Rhodococcus qingshengii	26	483	Annotated
+k141_1101 flag=1 multi=326.0000 len=433	Rhodococcus qingshengii	25	433	Annotated
+k141_1102 flag=1 multi=675.0000 len=9608	Prescottella equi	25	9608	Target
+k141_291 flag=1 multi=160.0000 len=311	Henningerozyma blattae CBS 6284	1	311	Target
+k141_2172 flag=1 multi=281.0000 len=1159	Rhodococcus qingshengii	25	1159	Annotated
+k141_1907 flag=1 multi=58.0000 len=316	Pseudomonas aeruginosa	74	316	Target
+k141_2177 flag=1 multi=143.0000 len=314	Triticum aestivum	7	314	Target
+k141_917 flag=1 multi=129.0000 len=334	Stutzerimonas stutzeri	28	334	Target
+k141_1764 flag=1 multi=393.0000 len=5119	Rhodococcus qingshengii	25	5119	Annotated
+k141_1915 flag=1 multi=534.0000 len=1484	Rhodococcus qingshengii	25	1484	Annotated
+k141_1812 flag=1 multi=161.0000 len=1000	Rhodococcus qingshengii	15	1000	Annotated
+k141_536 flag=1 multi=131.0000 len=321	Pseudomonas aeruginosa	51	321	Target
+k141_1367 flag=1 multi=249.0000 len=1161	Rhodococcus qingshengii	25	1161	Annotated
+k141_319 flag=1 multi=105.0000 len=331	Gordonia polyisoprenivorans	2	331	Target
+k141_1733 flag=1 multi=387.0000 len=451	Rhodococcus qingshengii	25	451	Annotated
+k141_199 flag=1 multi=276.0000 len=330	NA	NA	330	Unannotated
+k141_1276 flag=1 multi=800.0000 len=403	NA	NA	403	Unannotated
+k141_677 flag=1 multi=1077.0000 len=307	Aegilops tauschii subsp. strangulata	14	307	Target
+k141_1655 flag=1 multi=260.0000 len=329	Streptomyces albidoflavus	28	329	Target
+k141_1661 flag=1 multi=260.0000 len=493	Staphylococcus nepalensis	8	493	Target
+k141_1738 flag=1 multi=560.0000 len=1020	Rhodococcus pyridinivorans	10	1020	Target
+k141_1982 flag=1 multi=330.0000 len=361	Chromobacterium vaccinii	4	361	Target
+k141_1667 flag=1 multi=634.0000 len=850	Rhodococcus qingshengii	26	850	Annotated
+k141_1662 flag=1 multi=898.0000 len=1994	Rhodococcus erythropolis	14	1994	Annotated
+k141_876 flag=1 multi=605.0000 len=4454	Rhodococcus qingshengii	25	4454	Annotated
+k141_404 flag=1 multi=424.0000 len=694	Rhodococcus qingshengii	25	694	Annotated
+k141_1317 flag=1 multi=1230.0000 len=2916	Rhodococcus qingshengii	32	2916	Annotated
+k141_875 flag=1 multi=480.0000 len=1153	Rhodococcus qingshengii	25	1153	Annotated
+k141_1112 flag=1 multi=938.0000 len=345	Rhodococcus qingshengii	5	345	Annotated
+k141_1881 flag=1 multi=842.0000 len=463	Arthrobacter agilis	3	463	Target
+k141_1775 flag=1 multi=335.0000 len=548	Rhodococcus qingshengii	25	548	Annotated
+k141_973 flag=1 multi=675.0000 len=9487	Rhodococcus qingshengii	27	9487	Annotated
+k141_1884 flag=1 multi=699.0000 len=9321	Rhodococcus qingshengii	24	9321	Annotated
+k141_958 flag=1 multi=609.0000 len=5208	Rhodococcus qingshengii	25	5208	Annotated
+k141_960 flag=1 multi=628.0000 len=4028	Prescottella equi	26	4028	Target
+k141_2142 flag=1 multi=690.0000 len=19301	Rhodococcus qingshengii	25	19301	Annotated
+k141_1399 flag=1 multi=296.0000 len=365	Rhodococcus qingshengii	23	365	Annotated
+k141_445 flag=1 multi=145.0000 len=316	NA	NA	316	Unannotated
+k141_1287 flag=1 multi=218.0000 len=776	Rhodococcus qingshengii	25	776	Annotated
+k141_1290 flag=1 multi=777.0000 len=2163	Rhodococcus qingshengii	25	2163	Annotated
+k141_757 flag=1 multi=129.0000 len=547	Rhodococcus qingshengii	25	547	Annotated
+k141_626 flag=1 multi=586.0000 len=362	Rhodococcus qingshengii	34	362	Annotated
+k141_206 flag=1 multi=115.0000 len=307	Novosphingobium kaempferiae	1	307	Target
+k141_213 flag=1 multi=203.0000 len=358	Rhodococcus qingshengii	25	358	Annotated
+k141_1293 flag=1 multi=634.0000 len=4671	Rhodococcus qingshengii	26	4671	Annotated
+k141_548 flag=1 multi=336.0000 len=301	NA	NA	301	Unannotated
+k141_551 flag=1 multi=709.0000 len=865	Rhodococcus qingshengii	24	865	Annotated
+k141_543 flag=1 multi=580.0000 len=2043	Prescottella equi	26	2043	Target
+k141_1778 flag=1 multi=281.0000 len=2477	Streptomyces anulatus	27	2477	Target
+k141_2344 flag=1 multi=670.0000 len=3271	Rhodococcus qingshengii	25	3271	Annotated
+k141_223 flag=1 multi=407.0000 len=318	Triticum aestivum	7	318	Target
+k141_1831 flag=1 multi=313.0000 len=353	NA	NA	353	Unannotated
+k141_1168 flag=1 multi=644.0000 len=3620	Rhodococcus qingshengii	25	3620	Annotated
+k141_923 flag=1 multi=357.0000 len=10271	Rhodococcus qingshengii	25	10271	Annotated
+k141_1174 flag=1 multi=109.0000 len=382	Triticum aestivum	75	382	Target
+k141_792 flag=1 multi=703.0000 len=2602	Prescottella equi	26	2602	Target
+k141_1951 flag=1 multi=73.0000 len=510	Roseovarius sp.	3	510	Target
+k141_797 flag=1 multi=591.0000 len=384	Rhodococcus qingshengii	24	384	Annotated
+k141_1842 flag=1 multi=368.0000 len=1957	Rhodococcus qingshengii	22	1957	Annotated
+k141_1850 flag=1 multi=240.0000 len=419	Ascochyta rabiei	1	419	Target
+k141_2215 flag=1 multi=355.0000 len=5417	Rhodococcus qingshengii	22	5417	Annotated
+k141_2231 flag=1 multi=652.0000 len=4574	Rhodococcus qingshengii	25	4574	Annotated
+k141_453 flag=1 multi=356.0000 len=319	NA	NA	319	Unannotated
+k141_373 flag=1 multi=1.0000 len=314	Influenza A virus	105	314	Target
+k141_367 flag=1 multi=768.0000 len=1067	Rhodococcus qingshengii	25	1067	Annotated
+k141_963 flag=1 multi=235.0000 len=872	Rhodococcus qingshengii	25	872	Annotated
+k141_1406 flag=1 multi=714.0000 len=876	Rhodococcus qingshengii	28	876	Annotated
+k141_2024 flag=1 multi=293.0000 len=597	Rhodococcus qingshengii	25	597	Annotated
+k141_1923 flag=1 multi=606.0000 len=2344	Rhodococcus qingshengii	25	2344	Annotated
+k141_1920 flag=1 multi=230.0000 len=347	Rhodococcus qingshengii	25	347	Annotated
+k141_1177 flag=1 multi=711.0000 len=2039	Rhodococcus qingshengii	25	2039	Annotated
+k141_1148 flag=1 multi=224.0000 len=373	Rhodococcus qingshengii	25	373	Annotated
+k141_765 flag=1 multi=205.0000 len=467	Rhodococcus qingshengii	25	467	Annotated
+k141_2252 flag=1 multi=388.0000 len=8633	Rhodococcus qingshengii	25	8633	Annotated
+k141_701 flag=1 multi=909.0000 len=364	Rhodococcus opacus	11	364	Target
+k141_1182 flag=1 multi=279.0000 len=390	Prescottella equi	26	390	Target
+k141_658 flag=1 multi=419.0000 len=401	Rhodococcus qingshengii	24	401	Annotated
+k141_1442 flag=1 multi=781.0000 len=14938	Rhodococcus qingshengii	25	14938	Annotated
+k141_925 flag=1 multi=771.0000 len=2688	Rhodococcus qingshengii	25	2688	Annotated
+k141_2326 flag=1 multi=226.0000 len=490	Rhodococcus qingshengii	25	490	Annotated
+k141_801 flag=1 multi=436.0000 len=4440	Rhodococcus pyridinivorans	15	4440	Target
+k141_882 flag=1 multi=238.0000 len=632	Rhodococcus qingshengii	25	632	Annotated
+k141_668 flag=1 multi=542.0000 len=715	Rhodococcus qingshengii	25	715	Annotated
+k141_2279 flag=1 multi=674.0000 len=2782	Rhodococcus qingshengii	25	2782	Annotated
+k141_1623 flag=1 multi=18771.0000 len=866	Talaromyces marneffei	6	866	Target
+k141_891 flag=1 multi=212.0000 len=623	Rhodococcus qingshengii	25	623	Annotated
+k141_884 flag=1 multi=662.0000 len=8122	Rhodococcus qingshengii	24	8122	Annotated
+k141_1785 flag=1 multi=678.0000 len=11537	Rhodococcus qingshengii	25	11537	Annotated
+k141_1780 flag=1 multi=739.0000 len=895	Rhodococcus qingshengii	25	895	Annotated
+k141_262 flag=1 multi=182.0000 len=449	Rhodococcus qingshengii	25	449	Annotated
+k141_2065 flag=1 multi=1038.0000 len=771	Rhodococcus pyridinivorans	5	771	Target
+k141_1474 flag=1 multi=475.0000 len=24676	Rhodococcus pyridinivorans	10	24676	Target
+k141_2101 flag=1 multi=175.0000 len=473	Rhodococcus qingshengii	25	473	Annotated
+k141_2287 flag=1 multi=240.0000 len=473	Rhodococcus qingshengii	25	473	Annotated
+k141_2258 flag=1 multi=396.0000 len=436	Rhodococcus qingshengii	25	436	Annotated
+k141_1246 flag=1 multi=742.0000 len=2564	Rhodococcus qingshengii	25	2564	Annotated
+k141_1256 flag=1 multi=235.0000 len=383	Rhodococcus qingshengii	24	383	Annotated
+k141_811 flag=1 multi=345.0000 len=3801	Rhodococcus qingshengii	23	3801	Annotated
+k141_1481 flag=1 multi=105.0000 len=330	NA	NA	330	Unannotated
+k141_774 flag=1 multi=146.0000 len=312	NA	NA	312	Unannotated
+k141_2292 flag=1 multi=680.0000 len=2096	Rhodococcus qingshengii	25	2096	Annotated
+k141_2365 flag=3 multi=283.2646 len=364	Brucella anthropi	11	364	Target
+k141_2074 flag=1 multi=642.0000 len=1448	Rhodococcus opacus	14	1448	Target
+k141_2332 flag=1 multi=167.0000 len=594	Rhodococcus qingshengii	25	594	Annotated
+k141_2106 flag=1 multi=97.0000 len=315	Qipengyuania flava	3	315	Target
+k141_719 flag=1 multi=1235.0000 len=2257	Rhodococcus qingshengii	23	2257	Annotated
+k141_302 flag=1 multi=358.0000 len=336	Rhodococcus qingshengii	12	336	Annotated
+k141_162 flag=1 multi=214.0000 len=434	NA	NA	434	Unannotated
+k141_168 flag=1 multi=1151.0000 len=309	Spirosoma rigui	1	309	Target
+k141_176 flag=1 multi=313.0000 len=345	NA	NA	345	Unannotated
+k141_714 flag=1 multi=539.0000 len=652	Rhodococcus qingshengii	25	652	Annotated
+k141_1201 flag=1 multi=749.0000 len=1187	Rhodococcus qingshengii	25	1187	Annotated
+k141_1417 flag=1 multi=129.0000 len=326	Rhodococcus qingshengii	25	326	Annotated
+k141_38 flag=1 multi=323.0000 len=1432	Rhodococcus qingshengii	25	1432	Annotated
+k141_41 flag=1 multi=675.0000 len=947	Prescottella equi	26	947	Target
+k141_1226 flag=1 multi=701.0000 len=14720	Rhodococcus erythropolis	5	14720	Annotated
+k141_51 flag=1 multi=510.0000 len=568	Rhodococcus qingshengii	24	568	Annotated
+k141_94 flag=1 multi=164.0000 len=516	NA	NA	516	Unannotated
+k141_2116 flag=1 multi=219.0000 len=395	NA	NA	395	Unannotated
+k141_38 flag=1 multi=323.0000 len=1432	Rhodococcus qingshengii	25	1432	Annotated
+k141_41 flag=1 multi=675.0000 len=947	Prescottella equi	26	947	Target
+k141_1226 flag=1 multi=701.0000 len=14720	Rhodococcus erythropolis	5	14720	Annotated
+k141_51 flag=1 multi=510.0000 len=568	Rhodococcus qingshengii	24	568	Annotated
+k141_94 flag=1 multi=164.0000 len=516	NA	NA	516	Unannotated
+k141_2116 flag=1 multi=219.0000 len=395	NA	NA	395	Unannotated
+k141_420 flag=1 multi=95.0000 len=310	NA	NA	310	Unannotated
+k141_901 flag=1 multi=35.0000 len=376	Escherichia coli	98	376	Target
+k141_2190 flag=1 multi=570.0000 len=443	Rhodococcus qingshengii	18	443	Annotated
+k141_892 flag=1 multi=400.0000 len=6819	Rhodococcus qingshengii	25	6819	Annotated
+k141_1538 flag=1 multi=708.0000 len=29508	Rhodococcus qingshengii	25	29508	Annotated
+k141_1606 flag=1 multi=132.0000 len=341	Rhodococcus erythropolis	8	341	Annotated
+k141_1800 flag=1 multi=242.0000 len=897	Rhodococcus qingshengii	18	897	Annotated
+k141_1601 flag=1 multi=323.0000 len=309	Rhodococcus qingshengii	25	309	Annotated
+k141_929 flag=1 multi=176.0000 len=389	NA	NA	389	Unannotated
+k141_1005 flag=1 multi=258.0000 len=814	Rhodococcus erythropolis	3	814	Annotated
+k141_1013 flag=1 multi=758.0000 len=1004	Rhodococcus qingshengii	14	1004	Annotated
+k141_933 flag=1 multi=216.0000 len=401	Rhodococcus qingshengii	25	401	Annotated
+k141_1116 flag=1 multi=474.0000 len=5429	Rhodococcus qingshengii	9	5429	Annotated
+k141_978 flag=1 multi=884.0000 len=966	Rhodococcus qingshengii	26	966	Annotated
+k141_1015 flag=1 multi=269.0000 len=556	Knufia obscura	1	556	Target
+k141_66 flag=1 multi=682.0000 len=3264	Rhodococcus qingshengii	25	3264	Annotated
+k141_861 flag=1 multi=706.0000 len=1969	Rhodococcus qingshengii	25	1969	Annotated
+k141_856 flag=1 multi=209.0000 len=654	Rhodococcus qingshengii	20	654	Annotated
+k141_106 flag=1 multi=157.0000 len=339	Rhodococcus qingshengii	25	339	Annotated
+k141_1299 flag=1 multi=234.0000 len=353	Marinobacter sp. M4C	1	353	Target
+k141_1207 flag=1 multi=188.0000 len=333	Rhodococcus qingshengii	25	333	Annotated
+k141_2126 flag=1 multi=646.0000 len=3011	Rhodococcus qingshengii	24	3011	Annotated
+k141_188 flag=1 multi=129.0000 len=741	Sphingopyxis macrogoltabida	11	741	Target
+k141_1304 flag=1 multi=164.0000 len=424	Rhodococcus qingshengii	25	424	Annotated
+k141_1938 flag=1 multi=697.0000 len=15561	Rhodococcus qingshengii	25	15561	Annotated
+k141_60 flag=1 multi=529.0000 len=302	NA	NA	302	Unannotated
+k141_180 flag=1 multi=138.0000 len=345	Rhodococcus qingshengii	25	345	Annotated
+k141_2163 flag=1 multi=350.0000 len=319	Pseudomonas aeruginosa	38	319	Target
+k141_983 flag=1 multi=37.0000 len=359	Variovorax paradoxus	12	359	Target
+k141_1857 flag=1 multi=593.0000 len=360	Rhodococcus qingshengii	25	360	Annotated
+k141_132 flag=1 multi=727.0000 len=1077	Prescottella equi	28	1077	Target
+k141_1937 flag=1 multi=674.0000 len=5402	Rhodococcus qingshengii	25	5402	Annotated
+k141_602 flag=1 multi=342.0000 len=2090	Rhodococcus qingshengii	25	2090	Annotated
+k141_142 flag=1 multi=476.0000 len=393	Gordonia hongkongensis	3	393	Target
+k141_1855 flag=1 multi=591.0000 len=999	Rhodococcus qingshengii	25	999	Annotated
+k141_2080 flag=1 multi=785.0000 len=449	Rhodococcus qingshengii	24	449	Annotated
+k141_1753 flag=1 multi=936.0000 len=13647	Rhodococcus qingshengii	7	13647	Annotated
+k141_457 flag=1 multi=515.0000 len=1893	Prescottella equi	26	1893	Target
+k141_1430 flag=1 multi=569.0000 len=337	Rhodococcus qingshengii	26	337	Annotated
+k141_1720 flag=1 multi=242.0000 len=323	Rhodococcus qingshengii	25	323	Annotated
+k141_1421 flag=1 multi=166.0000 len=458	Rhodococcus qingshengii	25	458	Annotated
+k141_1942 flag=1 multi=715.0000 len=737	Rhodococcus qingshengii	25	737	Annotated
+k141_1870 flag=1 multi=294.0000 len=341	Rhodococcus qingshengii	25	341	Annotated
+k141_308 flag=1 multi=698.0000 len=3430	Prescottella equi	26	3430	Target
+k141_1562 flag=1 multi=592.0000 len=2453	Rhodococcus qingshengii	25	2453	Annotated
+k141_1451 flag=1 multi=501.0000 len=538	Rhodococcus qingshengii	25	538	Annotated
+k141_73 flag=1 multi=380.5161 len=513	NA	NA	513	Unannotated
+k141_315 flag=1 multi=289.0000 len=495	Agrobacterium tumefaciens	10	495	Target
+k141_1569 flag=1 multi=604.0000 len=1209	Rhodococcus qingshengii	25	1209	Annotated
+k141_611 flag=1 multi=657.0000 len=2877	Rhodococcus erythropolis	12	2877	Annotated
+k141_267 flag=1 multi=216.0000 len=332	Rhodococcus qingshengii	25	332	Annotated
+k141_608 flag=1 multi=118.0000 len=314	Vicinamibacterales bacterium	4	314	Target
+k141_279 flag=1 multi=189.0000 len=354	NA	NA	354	Unannotated
+k141_1802 flag=1 multi=685.0000 len=13777	Rhodococcus qingshengii	25	13777	Annotated
+k141_272 flag=1 multi=1.0000 len=302	NA	NA	302	Unannotated
+k141_2006 flag=1 multi=32.0000 len=356	NA	NA	356	Unannotated
+k141_1806 flag=1 multi=391.0000 len=10763	Rhodococcus qingshengii	25	10763	Annotated
+k141_2337 flag=1 multi=306.0000 len=551	Rhodococcus qingshengii	25	551	Annotated
+k141_730 flag=1 multi=1123.0000 len=22512	Rhodococcus qingshengii	7	22512	Annotated
+k141_1126 flag=1 multi=756.0000 len=689	Prescottella equi	26	689	Target
+k141_831 flag=1 multi=154.0000 len=387	Rhodococcus qingshengii	25	387	Annotated
+k141_485 flag=1 multi=601.0000 len=746	Rhodococcus qingshengii	25	746	Annotated
+k141_490 flag=1 multi=145.0000 len=391	Rhodococcus qingshengii	25	391	Annotated
+k141_828 flag=1 multi=718.0000 len=23609	Rhodococcus qingshengii	25	23609	Annotated
+k141_735 flag=1 multi=161.0000 len=338	Rhodococcus qingshengii	28	338	Annotated
+k141_2164 flag=1 multi=801.0000 len=526	Epichloe typhina	9	526	Target
+k141_2167 flag=1 multi=243.0000 len=593	Rhodococcus qingshengii	25	593	Annotated
+k141_2342 flag=1 multi=641.0000 len=4531	Prescottella equi	25	4531	Target
+k141_674 flag=1 multi=584.0000 len=457	Knufia petricola	1	457	Target
+k141_3 flag=1 multi=61.0000 len=314	NA	NA	314	Unannotated
+k141_2202 flag=1 multi=719.0000 len=15961	Rhodococcus qingshengii	25	15961	Annotated
+k141_1030 flag=1 multi=33.0000 len=307	NA	NA	307	Unannotated
+k141_498 flag=1 multi=802.0000 len=1292	Rhodococcus qingshengii	26	1292	Annotated
+k141_1034 flag=1 multi=187.0000 len=528	Rhodococcus qingshengii	25	528	Annotated
+k141_1066 flag=1 multi=723.0000 len=9224	Prescottella equi	26	9224	Target
+k141_14 flag=1 multi=243.0000 len=307	Acetobacteraceae bacterium	2	307	Target
+k141_359 flag=1 multi=659.0000 len=1533	Rhodococcus qingshengii	25	1533	Annotated
+k141_1641 flag=1 multi=324.0000 len=499	Rhodococcus qingshengii	25	499	Annotated
+k141_1222 flag=1 multi=169.0000 len=453	Rhodococcus qingshengii	25	453	Annotated
+k141_1354 flag=1 multi=746.0000 len=4397	Rhodococcus qingshengii	25	4397	Annotated
+k141_1757 flag=1 multi=551.0000 len=2048	Rhodococcus qingshengii	25	2048	Annotated
+k141_1644 flag=1 multi=33.0000 len=329	Candidatus Foliamicus sp.	3	329	Target
+k141_990 flag=1 multi=589.0000 len=4693	Rhodococcus qingshengii	25	4693	Annotated
+k141_994 flag=1 multi=82.0000 len=356	Zygotorulaspora mrakii	1	356	Target
+k141_192 flag=1 multi=688.0000 len=15938	Mycobacterium tuberculosis	39	15938	Target
+k141_578 flag=1 multi=659.0000 len=1117	Rhodococcus qingshengii	25	1117	Annotated
+k141_1312 flag=1 multi=407.0000 len=7122	Prescottella equi	26	7122	Target
+k141_2208 flag=1 multi=198.0000 len=709	Rhodococcus qingshengii	24	709	Annotated
+k141_392 flag=1 multi=484.0000 len=444	Rhodococcus qingshengii	24	444	Annotated
+k141_586 flag=1 multi=674.0000 len=3537	Rhodococcus qingshengii	25	3537	Annotated
+k141_1695 flag=1 multi=658.0000 len=841	Rhodococcus qingshengii	27	841	Annotated
+k141_588 flag=1 multi=671.0000 len=6559	Rhodococcus qingshengii	25	6559	Annotated
+k141_582 flag=1 multi=735.0000 len=6195	Gordonia terrae	5	6195	Target
+k141_1877 flag=1 multi=605.0000 len=1909	Rhodococcus qingshengii	24	1909	Annotated
+k141_1365 flag=1 multi=300.0000 len=1038	Rhodococcus qingshengii	26	1038	Annotated
+k141_1876 flag=1 multi=30.0000 len=301	Pseudomonas aeruginosa	46	301	Target
+k141_848 flag=1 multi=439.0000 len=3195	Rhodococcus qingshengii	9	3195	Annotated
+k141_1162 flag=1 multi=336.0000 len=375	Oncorhynchus nerka	30	375	Target
+k141_1044 flag=1 multi=166.0000 len=330	Pseudomonas putida	35	330	Target
+k141_385 flag=1 multi=465.0000 len=358	Cladobotryum mycophilum	3	358	Target
+k141_388 flag=1 multi=740.0000 len=3276	Rhodococcus qingshengii	25	3276	Annotated
+k141_1195 flag=1 multi=516.0000 len=408	Rhodococcus qingshengii	21	408	Annotated
+k141_1041 flag=1 multi=704.0000 len=1216	Rhodococcus qingshengii	25	1216	Annotated
+k141_1074 flag=1 multi=346.0000 len=458	Rhodococcus qingshengii	5	458	Annotated
+k141_2045 flag=1 multi=104.0000 len=335	Rhodococcus qingshengii	25	335	Annotated
+k141_2049 flag=1 multi=768.0000 len=3823	Rhodococcus qingshengii	25	3823	Annotated
+k141_1103 flag=1 multi=225.0000 len=329	Rhodococcus qingshengii	25	329	Annotated
+k141_292 flag=1 multi=54.0000 len=366	Cladosporium halotolerans	1	366	Target
+k141_1902 flag=1 multi=486.0000 len=336	Rhodococcus qingshengii	25	336	Annotated
+k141_2173 flag=1 multi=701.0000 len=11195	Prescottella equi	26	11195	Target
+k141_2178 flag=1 multi=733.0000 len=1294	Prescottella equi	26	1294	Target
+k141_918 flag=1 multi=264.0000 len=480	Paracidovorax citrulli	14	480	Target
+k141_1895 flag=1 multi=608.0000 len=4381	Rhodococcus qingshengii	25	4381	Annotated
+k141_1916 flag=1 multi=165.0000 len=317	Novosphingobium sp.	2	317	Annotated
+k141_2139 flag=1 multi=682.0000 len=30188	Rhodococcus erythropolis	29	30188	Annotated
+k141_1913 flag=1 multi=653.0000 len=9210	Rhodococcus qingshengii	25	9210	Annotated
+k141_1583 flag=1 multi=723.0000 len=3057	Rhodococcus qingshengii	25	3057	Annotated
+k141_1734 flag=1 multi=137.0000 len=444	Rhodococcus qingshengii	25	444	Annotated
+k141_200 flag=1 multi=31.0000 len=370	NA	NA	370	Unannotated
+k141_1277 flag=1 multi=125.0000 len=343	Rhodococcus qingshengii	25	343	Annotated
+k141_678 flag=1 multi=1040.0000 len=440	Rhodococcus qingshengii	26	440	Annotated
+k141_1740 flag=1 multi=210.0000 len=611	Rhodococcus qingshengii	25	611	Annotated
+k141_2209 flag=1 multi=722.0000 len=32037	Rhodococcus qingshengii	25	32037	Annotated
+k141_999 flag=1 multi=309.0000 len=15899	Rhodococcus qingshengii	18	15899	Annotated
+k141_1704 flag=1 multi=1086.0000 len=4833	Rhodococcus qingshengii	40	4833	Annotated
+k141_1668 flag=1 multi=24.0000 len=315	NA	NA	315	Unannotated
+k141_1977 flag=1 multi=706.0000 len=3623	Rhodococcus qingshengii	25	3623	Annotated
+k141_877 flag=1 multi=255.0000 len=418	Rhodococcus qingshengii	25	418	Annotated
+k141_1768 flag=1 multi=500.0000 len=12936	Rhodococcus qingshengii	26	12936	Annotated
+k141_1368 flag=1 multi=438.0000 len=5293	Rhodococcus qingshengii	25	5293	Annotated
+k141_1984 flag=1 multi=724.0000 len=10461	Rhodococcus qingshengii	25	10461	Annotated
+k141_1777 flag=1 multi=715.0000 len=2205	Prescottella equi	26	2205	Target
+k141_1882 flag=1 multi=29.0000 len=315	Sphingobium yanoikuyae	2	315	Target
+k141_1323 flag=1 multi=765.0000 len=2717	Rhodococcus qingshengii	25	2717	Annotated
+k141_974 flag=1 multi=419.0000 len=354	Rhodococcus qingshengii	25	354	Annotated
+k141_431 flag=1 multi=682.0000 len=17126	Rhodococcus qingshengii	26	17126	Annotated
+k141_1885 flag=1 multi=667.0000 len=3888	Rhodococcus qingshengii	25	3888	Annotated
+k141_1389 flag=1 multi=645.0000 len=4284	Rhodococcus qingshengii	24	4284	Annotated
+k141_2143 flag=1 multi=26.0000 len=341	NA	NA	341	Unannotated
+k141_1400 flag=1 multi=263.0000 len=944	Rhodococcus qingshengii	25	944	Annotated
+k141_446 flag=1 multi=244.0000 len=398	NA	NA	398	Unannotated
+k141_632 flag=1 multi=1064.0000 len=326	Rhodococcus erythropolis	1	326	Annotated
+k141_1291 flag=1 multi=19176.0000 len=1009	Influenza A virus	21	1009	Target
+k141_1609 flag=1 multi=682.0000 len=54523	Rhodococcus qingshengii	25	54523	Annotated
+k141_1283 flag=1 multi=386.0000 len=6389	Rhodococcus qingshengii	25	6389	Annotated
+k141_207 flag=1 multi=63.0000 len=341	Escherichia coli	96	341	Target
+k141_538 flag=1 multi=672.0000 len=10381	Rhodococcus qingshengii	25	10381	Annotated
+k141_1294 flag=1 multi=72.0000 len=332	Sphingomonadaceae bacterium	3	332	Target
+k141_549 flag=1 multi=595.0000 len=335	Rhodococcus qingshengii	31	335	Annotated
+k141_552 flag=1 multi=387.0000 len=324	Rhodococcus qingshengii	25	324	Annotated
+k141_853 flag=1 multi=673.0000 len=12549	Prescottella equi	26	12549	Target
+k141_2343 flag=1 multi=648.0000 len=6335	Rhodococcus qingshengii	25	6335	Annotated
+k141_219 flag=1 multi=271.0000 len=783	Rhodococcus qingshengii	25	783	Annotated
+k141_2350 flag=1 multi=139.0000 len=509	Rhodococcus qingshengii	26	509	Annotated
+k141_249 flag=1 multi=674.0000 len=2470	Rhodococcus qingshengii	25	2470	Annotated
+k141_654 flag=1 multi=701.0000 len=12963	Rhodococcus qingshengii	25	12963	Annotated
+k141_924 flag=1 multi=618.0000 len=1104	Rhodococcus qingshengii	25	1104	Annotated
+k141_1175 flag=1 multi=128.0000 len=633	Rhodococcus qingshengii	25	633	Annotated
+k141_793 flag=1 multi=131.0000 len=314	Rhodococcus qingshengii	25	314	Annotated
+k141_2320 flag=1 multi=252.0000 len=433	Rhodococcus qingshengii	25	433	Annotated
+k141_798 flag=1 multi=28.0000 len=347	NA	NA	347	Unannotated
+k141_1843 flag=1 multi=391.0000 len=332	Lithohypha guttulata	1	332	Target
+k141_1851 flag=1 multi=214.0000 len=408	NA	NA	408	Unannotated
+k141_1235 flag=1 multi=619.0000 len=5014	Rhodococcus qingshengii	25	5014	Annotated
+k141_2232 flag=1 multi=623.0000 len=1139	Rhodococcus qingshengii	25	1139	Annotated
+k141_454 flag=1 multi=113.9593 len=362	Stenotrophomonas sp. SBJS02	1	362	Target
+k141_557 flag=1 multi=4362.0000 len=321	NA	NA	321	Unannotated
+k141_1143 flag=1 multi=319.0000 len=4422	Rhodococcus qingshengii	16	4422	Annotated
+k141_1997 flag=1 multi=670.0000 len=1583	Rhodococcus qingshengii	25	1583	Annotated
+k141_1407 flag=1 multi=68.0000 len=704	NA	NA	704	Unannotated
+k141_1591 flag=1 multi=710.0000 len=6309	Rhodococcus qingshengii	25	6309	Annotated
+k141_1924 flag=1 multi=77.0000 len=328	Rhodococcus qingshengii	25	328	Annotated
+k141_1468 flag=1 multi=11255.0000 len=781	Influenza A virus	17	781	Target
+k141_2219 flag=1 multi=587.0000 len=721	Rhodococcus qingshengii	25	721	Annotated
+k141_2221 flag=1 multi=632.0000 len=1466	Rhodococcus qingshengii	25	1466	Annotated
+k141_2217 flag=1 multi=832.0000 len=13002	Rhodococcus qingshengii	6	13002	Annotated
+k141_697 flag=1 multi=565.0000 len=1135	Rhodococcus qingshengii	25	1135	Annotated
+k141_1953 flag=1 multi=686.0000 len=11658	Rhodococcus qingshengii	25	11658	Annotated
+k141_260 flag=1 multi=652.0000 len=9422	Rhodococcus erythropolis	15	9422	Annotated
+k141_335 flag=1 multi=109.0000 len=342	Sphingobium yanoikuyae	1	342	Target
+k141_702 flag=1 multi=625.0000 len=10746	Rhodococcus erythropolis	10	10746	Annotated
+k141_664 flag=1 multi=739.0000 len=21739	Rhodococcus qingshengii	24	21739	Annotated
+k141_509 flag=1 multi=704.0000 len=6567	Rhodococcus qingshengii	25	6567	Annotated
+k141_883 flag=1 multi=124.0000 len=356	Rhodococcus qingshengii	24	356	Annotated
+k141_879 flag=1 multi=694.0000 len=11018	Rhodococcus qingshengii	25	11018	Annotated
+k141_1472 flag=1 multi=657.0000 len=13432	Rhodococcus qingshengii	25	13432	Annotated
+k141_1241 flag=1 multi=254.0000 len=475	Rhodococcus qingshengii	25	475	Annotated
+k141_1628 flag=1 multi=629.0000 len=5304	Rhodococcus qingshengii	25	5304	Annotated
+k141_885 flag=1 multi=580.0000 len=2413	Rhodococcus qingshengii	25	2413	Annotated
+k141_1786 flag=1 multi=577.0000 len=464	Rhodococcus qingshengii	25	464	Annotated
+k141_1781 flag=1 multi=563.0000 len=1306	Rhodococcus qingshengii	25	1306	Annotated
+k141_512 flag=1 multi=713.0000 len=4737	Rhodococcus qingshengii	25	4737	Annotated
+k141_2066 flag=1 multi=623.0000 len=897	Rhodococcus qingshengii	25	897	Annotated
+k141_1445 flag=1 multi=695.0000 len=25888	Rhodococcus qingshengii	25	25888	Annotated
+k141_2282 flag=1 multi=678.0000 len=5731	Rhodococcus qingshengii	25	5731	Annotated
+k141_770 flag=1 multi=677.0000 len=14890	Rhodococcus qingshengii	25	14890	Annotated
+k141_2259 flag=1 multi=329.0000 len=516	Rhodococcus qingshengii	25	516	Annotated
+k141_1247 flag=1 multi=598.0000 len=330	Rhodococcus qingshengii	26	330	Annotated
+k141_2355 flag=1 multi=707.0000 len=29155	Rhodococcus qingshengii	25	29155	Annotated
+k141_812 flag=1 multi=1606.0000 len=981	Dietzia kunjamensis	3	981	Target
+k141_1482 flag=1 multi=18.2762 len=351	NA	NA	351	Unannotated
+k141_775 flag=1 multi=706.0000 len=636	Rhodococcus qingshengii	25	636	Annotated
+k141_2293 flag=1 multi=390.0000 len=445	Rhodococcus qingshengii	25	445	Annotated
+k141_2366 flag=3 multi=144.0214 len=281	Pseudomonas simiae	12	281	Target
+k141_778 flag=1 multi=724.0000 len=19380	Rhodococcus qingshengii	25	19380	Annotated
+k141_2333 flag=1 multi=718.0000 len=2416	Rhodococcus qingshengii	25	2416	Annotated
+k141_2107 flag=1 multi=168.0000 len=542	Rhodococcus qingshengii	25	542	Annotated
+k141_1790 flag=1 multi=480.0000 len=1583	Rhodococcus qingshengii	25	1583	Annotated
+k141_155 flag=1 multi=347.0000 len=444	White clover mosaic virus	17	444	Target
+k141_1793 flag=1 multi=247.0000 len=320	Rhodococcus qingshengii	25	320	Annotated
+k141_2113 flag=1 multi=654.0000 len=4444	Rhodococcus qingshengii	24	4444	Annotated
+k141_177 flag=1 multi=693.0000 len=1125	Escherichia coli	93	1125	Target
+k141_715 flag=1 multi=672.0000 len=575	Rhodococcus qingshengii	25	575	Annotated
+k141_1202 flag=1 multi=122.0000 len=314	NA	NA	314	Unannotated
+k141_1488 flag=1 multi=432.0000 len=3243	Rhodococcus erythropolis	7	3243	Annotated
+k141_2120 flag=1 multi=674.0000 len=1610	Rhodococcus qingshengii	25	1610	Annotated
+k141_42 flag=1 multi=163.0000 len=335	Escherichia coli	95	335	Target
+k141_48 flag=1 multi=671.0000 len=5014	Rhodococcus qingshengii	25	5014	Annotated
+k141_88 flag=1 multi=737.0000 len=1690	Rhodococcus qingshengii	25	1690	Annotated
+k141_95 flag=1 multi=134.0000 len=348	Rhodococcus qingshengii	25	348	Annotated
+k141_1502 flag=1 multi=729.0000 len=1639	Rhodococcus qingshengii	25	1639	Annotated
+k141_2120 flag=1 multi=674.0000 len=1610	Rhodococcus qingshengii	25	1610	Annotated
+k141_42 flag=1 multi=163.0000 len=335	Escherichia coli	95	335	Target
+k141_48 flag=1 multi=671.0000 len=5014	Rhodococcus qingshengii	25	5014	Annotated
+k141_88 flag=1 multi=737.0000 len=1690	Rhodococcus qingshengii	25	1690	Annotated
+k141_95 flag=1 multi=134.0000 len=348	Rhodococcus qingshengii	25	348	Annotated
+k141_1502 flag=1 multi=729.0000 len=1639	Rhodococcus qingshengii	25	1639	Annotated
+k141_421 flag=1 multi=624.0000 len=2162	Rhodococcus qingshengii	20	2162	Annotated
+k141_902 flag=1 multi=335.0000 len=547	Rhodococcus qingshengii	25	547	Annotated
+k141_2191 flag=1 multi=206.0000 len=338	Rhodococcus qingshengii	25	338	Annotated
+k141_893 flag=1 multi=401.0000 len=541	Rhodococcus qingshengii	25	541	Annotated
+k141_1539 flag=1 multi=687.0000 len=553	Rhodococcus qingshengii	25	553	Annotated
+k141_1607 flag=1 multi=153.0000 len=383	Rhodococcus qingshengii	25	383	Annotated
+k141_1077 flag=1 multi=553.0000 len=2707	Rhodococcus qingshengii	25	2707	Annotated
+k141_1602 flag=1 multi=122.0000 len=309	Rhodococcus qingshengii	25	309	Annotated
+k141_1801 flag=1 multi=716.0000 len=14913	Rhodococcus qingshengii	25	14913	Annotated
+k141_1006 flag=1 multi=1000.0000 len=1260	Rhodococcus qingshengii	20	1260	Annotated
+k141_937 flag=1 multi=292.0000 len=3386	Rhodococcus qingshengii	19	3386	Annotated
+k141_934 flag=1 multi=180.0000 len=399	Pseudomonas aeruginosa	25	399	Target
+k141_1117 flag=1 multi=140.0000 len=409	Triticum aestivum	27	409	Target
+k141_979 flag=1 multi=245.0000 len=309	Rhodococcus qingshengii	25	309	Annotated
+k141_838 flag=1 multi=1299.0000 len=464	Arthrobacter antioxidans	1	464	Target
+k141_1675 flag=1 multi=564.0000 len=4165	Rhodococcus qingshengii	25	4165	Annotated
+k141_2122 flag=1 multi=88.0000 len=310	Microvirga sp. VF16	2	310	Target
+k141_783 flag=1 multi=33529.0000 len=602	Influenza A virus	20	602	Target
+k141_107 flag=1 multi=204.0000 len=396	Rhodococcus qingshengii	25	396	Annotated
+k141_1341 flag=1 multi=238.0000 len=330	Rhodococcus qingshengii	25	330	Annotated
+k141_1208 flag=1 multi=149.0000 len=311	Rhodococcus qingshengii	24	311	Annotated
+k141_787 flag=1 multi=706.0000 len=4046	Rhodococcus qingshengii	25	4046	Annotated
+k141_1305 flag=1 multi=159.0000 len=322	Limnobacter thiooxidans	1	322	Target
+k141_1345 flag=1 multi=186.0000 len=494	Rhodococcus qingshengii	32	494	Annotated
+k141_2151 flag=1 multi=638.0000 len=3381	Rhodococcus qingshengii	25	3381	Annotated
+k141_722 flag=1 multi=721.0000 len=4105	Rhodococcus qingshengii	24	4105	Annotated
+k141_781 flag=1 multi=672.0000 len=4561	Rhodococcus qingshengii	24	4561	Annotated
+k141_1673 flag=1 multi=2412.0000 len=629	Rhodococcus qingshengii	13	629	Annotated
+k141_1930 flag=1 multi=357.0000 len=2305	Rhodococcus qingshengii	21	2305	Annotated
+k141_133 flag=1 multi=39.0000 len=323	NA	NA	323	Unannotated
+k141_1862 flag=1 multi=652.0000 len=3303	Rhodococcus qingshengii	25	3303	Annotated
+k141_603 flag=1 multi=589.0000 len=869	Rhodococcus qingshengii	10	869	Annotated
+k141_263 flag=1 multi=385.0000 len=1306	Rhodococcus qingshengii	18	1306	Annotated
+k141_122 flag=1 multi=493.0000 len=12931	Rhodococcus qingshengii	25	12931	Annotated
+k141_2081 flag=1 multi=554.0000 len=524	Rhodococcus qingshengii	20	524	Annotated
+k141_1518 flag=1 multi=741.0000 len=897	Rhodococcus qingshengii	23	897	Annotated
+k141_1085 flag=1 multi=471.0000 len=15221	Rhodococcus qingshengii	25	15221	Annotated
+k141_1725 flag=1 multi=283.0000 len=542	Rhodococcus qingshengii	25	542	Annotated
+k141_2237 flag=1 multi=695.0000 len=13795	Rhodococcus qingshengii	25	13795	Annotated
+k141_1422 flag=1 multi=324.0000 len=397	Rhodococcus qingshengii	25	397	Annotated
+k141_1083 flag=1 multi=712.0000 len=15415	Rhodococcus qingshengii	25	15415	Annotated
+k141_304 flag=1 multi=670.0000 len=3808	Rhodococcus qingshengii	25	3808	Annotated
+k141_309 flag=1 multi=116.0000 len=354	Rhodococcus qingshengii	25	354	Annotated
+k141_1867 flag=1 multi=594.0000 len=1405	Rhodococcus qingshengii	9	1405	Annotated
+k141_352 flag=1 multi=362.0000 len=734	Rhodococcus qingshengii	25	734	Annotated
+k141_349 flag=1 multi=678.0000 len=13817	Rhodococcus qingshengii	26	13817	Annotated
+k141_1570 flag=1 multi=637.0000 len=5900	Rhodococcus qingshengii	25	5900	Annotated
+k141_605 flag=1 multi=688.0000 len=1967	Rhodococcus qingshengii	25	1967	Annotated
+k141_612 flag=1 multi=483.0000 len=402	Rhodococcus erythropolis	9	402	Annotated
+k141_1063 flag=1 multi=631.0000 len=7526	Rhodococcus qingshengii	25	7526	Annotated
+k141_1060 flag=1 multi=5725.0000 len=457	Influenza A virus	26	457	Target
+k141_1682 flag=1 multi=620.0000 len=2299	Rhodococcus qingshengii	25	2299	Annotated
+k141_286 flag=1 multi=298.0000 len=408	NA	NA	408	Unannotated
+k141_1681 flag=1 multi=782.0000 len=3029	Rhodococcus qingshengii	25	3029	Annotated
+k141_2007 flag=1 multi=408.0000 len=334	Rhodococcus qingshengii	25	334	Annotated
+k141_111 flag=1 multi=356.0000 len=13519	Rhodococcus qingshengii	37	13519	Annotated
+k141_1021 flag=1 multi=243.0000 len=491	Rhodococcus qingshengii	25	491	Annotated
+k141_731 flag=1 multi=156.0000 len=302	Rhodococcus qingshengii	6	302	Annotated
+k141_460 flag=1 multi=698.0000 len=3521	Rhodococcus qingshengii	25	3521	Annotated
+k141_559 flag=1 multi=712.0000 len=16513	Rhodococcus qingshengii	25	16513	Annotated
+k141_1632 flag=1 multi=706.0000 len=5182	Rhodococcus qingshengii	25	5182	Annotated
+k141_491 flag=1 multi=637.0000 len=392	Macroventuria anomochaeta	1	392	Target
+k141_146 flag=1 multi=819.8909 len=526	NA	NA	526	Unannotated
+k141_736 flag=1 multi=792.0000 len=552	Rhodococcus qingshengii	25	552	Annotated
+k141_2165 flag=1 multi=584.0000 len=2349	Rhodococcus qingshengii	25	2349	Annotated
+k141_1970 flag=1 multi=405.0000 len=5094	Rhodococcus qingshengii	10	5094	Annotated
+k141_529 flag=1 multi=551.0000 len=373	Knufia obscura	1	373	Target
+k141_908 flag=1 multi=132.0000 len=725	Rhodococcus qingshengii	25	725	Annotated
+k141_4 flag=1 multi=84.0000 len=332	Rhodococcus qingshengii	25	332	Annotated
+k141_2168 flag=1 multi=661.0000 len=10099	Prescottella equi	25	10099	Target
+k141_1065 flag=1 multi=364.0000 len=1613	Rhodococcus qingshengii	21	1613	Annotated
+k141_24 flag=1 multi=46.0000 len=923	Limnobacter sp.	1	923	Target
+k141_29 flag=1 multi=168.0000 len=423	Stutzerimonas stutzeri	26	423	Target
+k141_1067 flag=1 multi=962.0000 len=1391	Rhodococcus erythropolis	5	1391	Annotated
+k141_911 flag=1 multi=953.0000 len=2217	Rhodococcus qingshengii	17	2217	Annotated
+k141_360 flag=1 multi=308.0000 len=356	Exophiala aquamarina CBS 119918	1	356	Target
+k141_1038 flag=1 multi=625.0000 len=1741	Rhodococcus qingshengii	24	1741	Annotated
+k141_2138 flag=1 multi=703.0000 len=754	Rhodococcus qingshengii	24	754	Annotated
+k141_1355 flag=1 multi=190.0000 len=352	NA	NA	352	Unannotated
+k141_841 flag=1 multi=654.0000 len=23797	Rhodococcus qingshengii	25	23797	Annotated
+k141_1645 flag=1 multi=443.0000 len=413	Westerdykella ornata	1	413	Target
+k141_865 flag=1 multi=1232.0000 len=7141	Propionibacterium freudenreichii	29	7141	Target
+k141_2205 flag=1 multi=99.0000 len=461	Escherichia coli	77	461	Target
+k141_2265 flag=1 multi=666.0000 len=3675	Rhodococcus qingshengii	25	3675	Annotated
+k141_579 flag=1 multi=602.0000 len=594	Rhodococcus qingshengii	12	594	Annotated
+k141_870 flag=1 multi=702.0000 len=2249	Rhodococcus qingshengii	25	2249	Annotated
+k141_644 flag=1 multi=656.0000 len=1969	Rhodococcus qingshengii	26	1969	Annotated
+k141_649 flag=1 multi=195.0000 len=325	Rhodococcus qingshengii	19	325	Annotated
+k141_393 flag=1 multi=295.0000 len=2775	Rhodococcus qingshengii	25	2775	Annotated
+k141_2241 flag=1 multi=689.0000 len=2990	Rhodococcus qingshengii	24	2990	Annotated
+k141_1700 flag=1 multi=418.0000 len=842	Rhodococcus qingshengii	20	842	Annotated
+k141_583 flag=1 multi=1005.0000 len=910	Rhodococcus qingshengii	32	910	Annotated
+k141_2082 flag=1 multi=719.0000 len=20826	Rhodococcus qingshengii	25	20826	Annotated
+k141_2083 flag=1 multi=633.0000 len=2258	Rhodococcus qingshengii	24	2258	Annotated
+k141_1729 flag=1 multi=690.0000 len=11940	Prescottella equi	26	11940	Target
+k141_2310 flag=1 multi=646.0000 len=5439	Rhodococcus qingshengii	25	5439	Annotated
+k141_2086 flag=1 multi=412.0000 len=467	Rhodococcus qingshengii	25	467	Annotated
+k141_378 flag=1 multi=316.0000 len=314	NA	NA	314	Unannotated
+k141_1047 flag=1 multi=599.0000 len=2172	Rhodococcus qingshengii	25	2172	Annotated
+k141_1051 flag=1 multi=653.0000 len=3902	Rhodococcus qingshengii	25	3902	Annotated
+k141_1447 flag=1 multi=322.0000 len=532	Rhodococcus qingshengii	25	532	Annotated
+k141_495 flag=1 multi=559.0000 len=405	Tolypocladium guangdongense	2	405	Target
+k141_849 flag=1 multi=675.0000 len=8711	Rhodococcus qingshengii	25	8711	Annotated
+k141_2046 flag=1 multi=891.0000 len=935	Rhodococcus qingshengii	28	935	Annotated
+k141_1381 flag=1 multi=697.0000 len=8180	Rhodococcus qingshengii	26	8180	Annotated
+k141_1104 flag=1 multi=260.0000 len=635	Rhodococcus qingshengii	25	635	Annotated
+k141_293 flag=1 multi=294.0000 len=302	White clover mosaic virus	19	302	Target
+k141_1903 flag=1 multi=461.0000 len=331	Rhodococcus qingshengii	14	331	Annotated
+k141_2174 flag=1 multi=635.0000 len=302	Rhodococcus qingshengii	15	302	Annotated
+k141_2179 flag=1 multi=218.0000 len=361	NA	NA	361	Unannotated
+k141_1457 flag=1 multi=689.0000 len=8640	Rhodococcus qingshengii	25	8640	Annotated
+k141_1896 flag=1 multi=119.0000 len=324	Rhodococcus qingshengii	25	324	Annotated
+k141_1917 flag=1 multi=1226.0000 len=548	Rhodococcus qingshengii	21	548	Annotated
+k141_477 flag=1 multi=675.0000 len=682	Chitinophagaceae bacterium	1	682	Target
+k141_1584 flag=1 multi=218.0000 len=468	Rhodococcus qingshengii	25	468	Annotated
+k141_324 flag=1 multi=370.0000 len=10714	Rhodococcus qingshengii	25	10714	Annotated
+k141_201 flag=1 multi=145.0000 len=547	Rhodococcus qingshengii	25	547	Annotated
+k141_1278 flag=1 multi=463.0000 len=491	Rhodococcus qingshengii	3	491	Annotated
+k141_679 flag=1 multi=324.0000 len=515	Rhodococcus qingshengii	25	515	Annotated
+k141_1975 flag=1 multi=28.0000 len=301	NA	NA	301	Unannotated
+k141_1438 flag=1 multi=679.0000 len=460	Rhodococcus qingshengii	25	460	Annotated
+k141_1705 flag=1 multi=1.0000 len=366	NA	NA	366	Unannotated
+k141_1983 flag=1 multi=1115.0000 len=5146	Rhodococcus qingshengii	17	5146	Annotated
+k141_1978 flag=1 multi=148.0000 len=308	Roseomonas cutis	1	308	Target
+k141_483 flag=1 multi=677.0000 len=10139	Prescottella equi	26	10139	Target
+k141_1769 flag=1 multi=547.0000 len=759	Rhodococcus qingshengii	25	759	Annotated
+k141_1318 flag=1 multi=189.0000 len=456	Knufia fluminis	1	456	Target
+k141_1985 flag=1 multi=77.0000 len=305	NA	NA	305	Unannotated
+k141_1113 flag=1 multi=193.0000 len=351	Rhodococcus qingshengii	25	351	Annotated
+k141_2245 flag=1 multi=730.0000 len=13536	Rhodococcus qingshengii	25	13536	Annotated
+k141_1776 flag=1 multi=219.0000 len=332	Rhodococcus qingshengii	25	332	Annotated
+k141_448 flag=1 multi=778.0000 len=368	NA	NA	368	Unannotated
+k141_432 flag=1 multi=560.0000 len=372	Epilithonimonas vandammei	2	372	Target
+k141_440 flag=1 multi=114.0000 len=574	Bartonella apihabitans	1	574	Target
+k141_1458 flag=1 multi=696.0000 len=22843	Rhodococcus qingshengii	25	22843	Annotated
+k141_2144 flag=1 multi=52.0000 len=335	Dermacoccus nishinomiyaensis	3	335	Target
+k141_1401 flag=1 multi=212.0000 len=364	Rhodococcus qingshengii	23	364	Annotated
+k141_447 flag=1 multi=365.0000 len=308	NA	NA	308	Unannotated
+k141_2271 flag=1 multi=729.0000 len=10958	Rhodococcus qingshengii	25	10958	Annotated
+k141_1586 flag=1 multi=893.0000 len=15617	Rhodococcus qingshengii	3	15617	Annotated
+k141_627 flag=1 multi=483.0000 len=1467	Rhodococcus qingshengii	26	1467	Annotated
+k141_208 flag=1 multi=638.0000 len=463	Rhodococcus qingshengii	25	463	Annotated
+k141_759 flag=1 multi=787.0000 len=5461	Rhodococcus qingshengii	25	5461	Annotated
+k141_244 flag=1 multi=659.0000 len=5859	Rhodococcus qingshengii	26	5859	Annotated
+k141_247 flag=1 multi=140.0000 len=478	Rhodococcus qingshengii	25	478	Annotated
+k141_854 flag=1 multi=168.0000 len=385	Rhodococcus qingshengii	25	385	Annotated
+k141_1833 flag=1 multi=631.0000 len=7570	Prescottella equi	26	7570	Target
+k141_2345 flag=1 multi=360.0000 len=494	Rhodococcus qingshengii	25	494	Annotated
+k141_224 flag=1 multi=196.0000 len=385	Rhodococcus qingshengii	25	385	Annotated
+k141_1832 flag=1 multi=256.0000 len=322	Staphylococcus epidermidis	100	322	Target
+k141_655 flag=1 multi=55.0000 len=351	Paracidovorax avenae	16	351	Target
+k141_691 flag=1 multi=686.0000 len=9041	Rhodococcus qingshengii	25	9041	Annotated
+k141_2246 flag=1 multi=810.0000 len=11824	Rhodococcus qingshengii	25	11824	Annotated
+k141_794 flag=1 multi=331.0000 len=314	Rhodococcus qingshengii	25	314	Annotated
+k141_2249 flag=1 multi=608.0000 len=2378	Rhodococcus qingshengii	25	2378	Annotated
+k141_507 flag=1 multi=323.0000 len=479	Rhodococcus qingshengii	20	479	Annotated
+k141_2216 flag=1 multi=693.0000 len=7160	Rhodococcus qingshengii	26	7160	Annotated
+k141_1852 flag=1 multi=110.0000 len=368	Rhodococcus qingshengii	22	368	Annotated
+k141_1465 flag=1 multi=400.0000 len=7449	Escherichia coli	85	7449	Target
+k141_1152 flag=1 multi=703.0000 len=7149	Rhodococcus qingshengii	25	7149	Annotated
+k141_2226 flag=1 multi=725.0000 len=12817	Rhodococcus qingshengii	25	12817	Annotated
+k141_558 flag=1 multi=717.0000 len=341	NA	NA	341	Unannotated
+k141_1144 flag=1 multi=247.0000 len=308	NA	NA	308	Unannotated
+k141_1998 flag=1 multi=608.0000 len=818	Rhodococcus qingshengii	25	818	Annotated
+k141_1613 flag=1 multi=738.0000 len=4780	Rhodococcus qingshengii	25	4780	Annotated
+k141_1592 flag=1 multi=1295.0000 len=333	Rhodococcus qingshengii	33	333	Annotated
+k141_1618 flag=1 multi=653.0000 len=1442	Rhodococcus qingshengii	25	1442	Annotated
+k141_1921 flag=1 multi=723.0000 len=1756	Prescottella equi	26	1756	Target
+k141_2054 flag=1 multi=425.0000 len=1674	Rhodococcus qingshengii	33	1674	Annotated
+k141_1149 flag=1 multi=339.0000 len=373	Rhodococcus qingshengii	25	373	Annotated
+k141_255 flag=1 multi=705.0000 len=11776	Rhodococcus qingshengii	25	11776	Annotated
+k141_2253 flag=1 multi=1125.0000 len=378	Variovorax sp. NFACC27	1	378	Target
+k141_1954 flag=1 multi=624.0000 len=457	Rhodococcus qingshengii	25	457	Annotated
+k141_2185 flag=1 multi=653.0000 len=3513	Rhodococcus qingshengii	25	3513	Annotated
+k141_336 flag=1 multi=114.0000 len=325	Streptomyces malaysiensis subsp. malaysiensis	7	325	Target
+k141_703 flag=1 multi=149.0000 len=366	Rhodococcus qingshengii	25	366	Annotated
+k141_2027 flag=1 multi=282.0000 len=306	Rhodococcus qingshengii	25	306	Annotated
+k141_2276 flag=1 multi=461.0000 len=51056	Rhodococcus qingshengii	25	51056	Annotated
+k141_1927 flag=1 multi=724.0000 len=3176	Rhodococcus qingshengii	25	3176	Annotated
+k141_2035 flag=1 multi=279.0000 len=1086	Rhodococcus pyridinivorans	15	1086	Target
+k141_1624 flag=1 multi=236.0000 len=413	Rhodococcus qingshengii	25	413	Annotated
+k141_1629 flag=1 multi=135.0000 len=305	Rhodococcus qingshengii	25	305	Annotated
+k141_886 flag=1 multi=683.0000 len=1564	Rhodococcus qingshengii	25	1564	Annotated
+k141_1197 flag=1 multi=42.0000 len=347	Qipengyuania sp.	3	347	Target
+k141_1782 flag=1 multi=274.0000 len=6112	Rhodococcus pyridinivorans	8	6112	Target
+k141_1242 flag=1 multi=675.0000 len=20382	Rhodococcus erythropolis	28	20382	Annotated
+k141_1446 flag=1 multi=216.0000 len=535	Rhodococcus qingshengii	25	535	Annotated
+k141_1964 flag=1 multi=684.0000 len=11506	Rhodococcus qingshengii	26	11506	Annotated
+k141_2260 flag=1 multi=150.0000 len=462	Ralstonia mannitolilytica	4	462	Target
+k141_1248 flag=1 multi=629.0000 len=1511	Rhodococcus qingshengii	25	1511	Annotated
+k141_2356 flag=1 multi=292.0000 len=1739	Rhodococcus qingshengii	25	1739	Annotated
+k141_813 flag=1 multi=406.0000 len=837	Rhodococcus qingshengii	25	837	Annotated
+k141_1483 flag=1 multi=385.0000 len=4199	Rhodococcus qingshengii	13	4199	Annotated
+k141_776 flag=1 multi=277.0000 len=330	Rhodococcus qingshengii	25	330	Annotated
+k141_2294 flag=1 multi=291.0000 len=640	Rhodococcus qingshengii	25	640	Annotated
+k141_2367 flag=3 multi=171.1486 len=289	NA	NA	289	Unannotated
+k141_779 flag=1 multi=338.0000 len=1715	Rhodococcus qingshengii	30	1715	Annotated
+k141_2334 flag=1 multi=86.0000 len=309	Botrytis deweyae	1	309	Target
+k141_2108 flag=1 multi=619.0000 len=4105	Rhodococcus qingshengii	25	4105	Annotated
+k141_1671 flag=1 multi=718.0000 len=9863	Prescottella equi	26	9863	Target
+k141_156 flag=1 multi=306.0000 len=329	NA	NA	329	Unannotated
+k141_163 flag=1 multi=560.0000 len=403	Escherichia coli	98	403	Target
+k141_1498 flag=1 multi=1115.0000 len=309	NA	NA	309	Unannotated
+k141_834 flag=1 multi=436.0000 len=8195	Rhodococcus qingshengii	4	8195	Annotated
+k141_1493 flag=1 multi=698.0000 len=9589	Rhodococcus qingshengii	25	9589	Annotated
+k141_1669 flag=1 multi=228.0000 len=304	Rhodococcus qingshengii	25	304	Annotated
+k141_1418 flag=1 multi=693.0000 len=1493	Rhodococcus qingshengii	29	1493	Annotated
+k141_76 flag=1 multi=184.0000 len=378	Pseudomonas aeruginosa	58	378	Target
+k141_1509 flag=1 multi=448.0000 len=1271	Rhodococcus qingshengii	25	1271	Annotated
+k141_1227 flag=1 multi=654.0000 len=2572	Rhodococcus qingshengii	25	2572	Annotated
+k141_89 flag=1 multi=308.0000 len=438	Rhodococcus qingshengii	25	438	Annotated
+k141_412 flag=1 multi=745.0000 len=511	Rhodococcus erythropolis	2	511	Annotated
+k141_1503 flag=1 multi=290.0000 len=303	Rhodococcus qingshengii	22	303	Annotated
+k141_76 flag=1 multi=184.0000 len=378	Pseudomonas aeruginosa	58	378	Target
+k141_1509 flag=1 multi=448.0000 len=1271	Rhodococcus qingshengii	25	1271	Annotated
+k141_1227 flag=1 multi=654.0000 len=2572	Rhodococcus qingshengii	25	2572	Annotated
+k141_89 flag=1 multi=308.0000 len=438	Rhodococcus qingshengii	25	438	Annotated
+k141_412 flag=1 multi=745.0000 len=511	Rhodococcus erythropolis	2	511	Annotated
+k141_1503 flag=1 multi=290.0000 len=303	Rhodococcus qingshengii	22	303	Annotated
+k141_422 flag=1 multi=347.2000 len=446	Rhodotorula mucilaginosa	4	446	Target
+k141_903 flag=1 multi=18085.0000 len=1641	Influenza A virus	18	1641	Target
+k141_1374 flag=1 multi=703.0000 len=9763	Rhodococcus qingshengii	25	9763	Annotated
+k141_894 flag=1 multi=176.0000 len=541	Rhodococcus qingshengii	25	541	Annotated
+k141_1540 flag=1 multi=262.0000 len=820	Rhodococcus qingshengii	23	820	Annotated
+k141_1608 flag=1 multi=408.0000 len=383	Rhodococcus qingshengii	25	383	Annotated
+k141_1078 flag=1 multi=168.0000 len=434	Rhodococcus qingshengii	25	434	Annotated
+k141_2195 flag=1 multi=267.0000 len=456	Rhodococcus qingshengii	25	456	Annotated
+k141_930 flag=1 multi=628.0000 len=4945	Rhodococcus qingshengii	25	4945	Annotated
+k141_1007 flag=1 multi=652.0000 len=698	Rhodococcus qingshengii	25	698	Annotated
+k141_670 flag=1 multi=207.0000 len=402	Rhodococcus qingshengii	25	402	Annotated
+k141_339 flag=1 multi=642.0000 len=1962	Rhodococcus qingshengii	25	1962	Annotated
+k141_1118 flag=1 multi=475.0000 len=1952	Rhodococcus qingshengii	25	1952	Annotated
+k141_1818 flag=1 multi=619.0000 len=4460	Rhodococcus qingshengii	25	4460	Annotated
+k141_346 flag=1 multi=294.0000 len=399	Knufia obscura	1	399	Target
+k141_2263 flag=1 multi=655.0000 len=15482	Rhodococcus opacus	12	15482	Target
+k141_862 flag=1 multi=340.0000 len=330	Rhodococcus qingshengii	25	330	Annotated
+k141_784 flag=1 multi=177.0000 len=331	Oncorhynchus keta	44	331	Target
+k141_108 flag=1 multi=194.0000 len=340	Rhodococcus qingshengii	25	340	Annotated
+k141_1300 flag=1 multi=788.0000 len=347	Rhodococcus qingshengii	25	347	Annotated
+k141_1209 flag=1 multi=233.0000 len=377	Triticum aestivum	22	377	Target
+k141_99 flag=1 multi=336.0000 len=8968	Rhodococcus qingshengii	25	8968	Annotated
+k141_1306 flag=1 multi=519.0000 len=948	Rhodococcus qingshengii	26	948	Annotated
+k141_1939 flag=1 multi=131.0000 len=402	Rhodococcus qingshengii	25	402	Annotated
+k141_61 flag=1 multi=645.0000 len=628	Rhodococcus qingshengii	25	628	Annotated
+k141_2157 flag=1 multi=317.0000 len=3010	Rhodococcus qingshengii	26	3010	Annotated
+k141_2150 flag=1 multi=887.0000 len=10229	Rhodococcus qingshengii	17	10229	Annotated
+k141_1858 flag=1 multi=702.0000 len=1581	Rhodococcus qingshengii	20	1581	Annotated
+k141_1933 flag=1 multi=515.0000 len=890	Rhodococcus qingshengii	25	890	Annotated
+k141_1863 flag=1 multi=757.0000 len=1013	Rhodococcus qingshengii	16	1013	Annotated
+k141_226 flag=1 multi=277.0000 len=455	Prescottella equi	25	455	Target
+k141_264 flag=1 multi=35.0000 len=330	Escherichia coli	38	330	Target
+k141_123 flag=1 multi=718.0000 len=1123	Rhodococcus qingshengii	25	1123	Annotated
+k141_1351 flag=1 multi=732.0000 len=5910	Rhodococcus qingshengii	25	5910	Annotated
+k141_1519 flag=1 multi=443.0000 len=734	Rhodococcus qingshengii	25	734	Annotated
+k141_1086 flag=1 multi=81.0000 len=332	Rhodococcus qingshengii	25	332	Annotated
+k141_1431 flag=1 multi=54.0000 len=343	Haematobacter massiliensis	1	343	Target
+k141_455 flag=1 multi=590.0000 len=1268	Rhodococcus qingshengii	25	1268	Annotated
+k141_988 flag=1 multi=687.0000 len=4313	Prescottella equi	26	4313	Target
+k141_569 flag=1 multi=636.0000 len=4254	Rhodococcus opacus	14	4254	Target
+k141_305 flag=1 multi=166.0000 len=325	Rhodococcus qingshengii	25	325	Annotated
+k141_310 flag=1 multi=228.0000 len=392	Escherichia coli	97	392	Target
+k141_1563 flag=1 multi=240.0000 len=1571	Rhodococcus qingshengii	25	1571	Annotated
+k141_1452 flag=1 multi=287.0000 len=323	Rhodococcus qingshengii	25	323	Annotated
+k141_350 flag=1 multi=265.0000 len=338	Rhodococcus qingshengii	25	338	Annotated
+k141_316 flag=1 multi=102.0000 len=418	NA	NA	418	Unannotated
+k141_1379 flag=1 multi=764.0000 len=16653	Rhodococcus qingshengii	25	16653	Annotated
+k141_613 flag=1 multi=292.0000 len=741	Rhodococcus qingshengii	20	741	Annotated
+k141_1677 flag=1 multi=324.0000 len=664	Rhodococcus erythropolis	14	664	Annotated
+k141_1061 flag=1 multi=9251.0000 len=336	Influenza A virus	31	336	Target
+k141_1018 flag=1 multi=702.0000 len=18996	Rhodococcus erythropolis	32	18996	Annotated
+k141_1803 flag=1 multi=130.0000 len=395	Rhodococcus qingshengii	15	395	Annotated
+k141_273 flag=1 multi=609.0000 len=909	Rhodococcus qingshengii	25	909	Annotated
+k141_2008 flag=1 multi=1.0000 len=304	NA	NA	304	Unannotated
+k141_112 flag=1 multi=200.0000 len=302	NA	NA	302	Unannotated
+k141_1022 flag=1 multi=116.0000 len=417	Azospirillum argentinense	2	417	Target
+k141_465 flag=1 multi=480.0000 len=1757	Rhodococcus qingshengii	25	1757	Annotated
+k141_2340 flag=1 multi=154.0000 len=896	Rhodococcus qingshengii	25	896	Annotated
+k141_560 flag=1 multi=81.0000 len=325	Alternaria alternata	28	325	Target
+k141_1633 flag=1 multi=175.0000 len=577	Rhodococcus qingshengii	25	577	Annotated
+k141_492 flag=1 multi=191.0000 len=356	Rhodococcus qingshengii	25	356	Annotated
+k141_829 flag=1 multi=62.0000 len=351	Granulibacter bethesdensis	4	351	Target
+k141_1220 flag=1 multi=667.0000 len=3969	Rhodococcus qingshengii	24	3969	Annotated
+k141_2308 flag=1 multi=631.0000 len=8868	Prescottella equi	26	8868	Target
+k141_1754 flag=1 multi=496.0000 len=18309	Rhodococcus qingshengii	25	18309	Annotated
+k141_468 flag=1 multi=683.0000 len=508	Knufia petricola	1	508	Target
+k141_1089 flag=1 multi=735.0000 len=9100	Rhodococcus qingshengii	25	9100	Annotated
+k141_5 flag=1 multi=514.0000 len=680	Equine infectious anemia virus	30	680	Target
+k141_2169 flag=1 multi=177.0000 len=331	NA	NA	331	Unannotated
+k141_1820 flag=1 multi=697.0000 len=21117	Rhodococcus qingshengii	25	21117	Annotated
+k141_499 flag=1 multi=609.0000 len=1233	Rhodococcus qingshengii	25	1233	Annotated
+k141_30 flag=1 multi=324.0000 len=327	NA	NA	327	Unannotated
+k141_1823 flag=1 multi=672.0000 len=9662	Rhodococcus qingshengii	25	9662	Annotated
+k141_912 flag=1 multi=319.0000 len=335	Escherichia coli	93	335	Target
+k141_361 flag=1 multi=188.0000 len=302	NA	NA	302	Unannotated
+k141_1039 flag=1 multi=146.0000 len=347	NA	NA	347	Unannotated
+k141_36 flag=1 multi=673.0000 len=7122	Rhodococcus qingshengii	25	7122	Annotated
+k141_1356 flag=1 multi=74.0000 len=310	Sphingomonas paucimobilis	2	310	Target
+k141_1758 flag=1 multi=106.0000 len=312	Stutzerimonas stutzeri	27	312	Target
+k141_1574 flag=1 multi=606.0000 len=1728	Rhodococcus qingshengii	25	1728	Annotated
+k141_430 flag=1 multi=331.0000 len=422	Purpureocillium lilacinum	6	422	Target
+k141_1762 flag=1 multi=273.0000 len=2430	Rhodococcus qingshengii	22	2430	Annotated
+k141_193 flag=1 multi=1242.0000 len=1401	Rhodococcus qingshengii	25	1401	Annotated
+k141_868 flag=1 multi=695.0000 len=16220	Rhodococcus qingshengii	25	16220	Annotated
+k141_997 flag=1 multi=729.0000 len=15193	Rhodococcus qingshengii	25	15193	Annotated
+k141_1310 flag=1 multi=389.0000 len=3923	Rhodococcus opacus	15	3923	Target
+k141_1686 flag=1 multi=734.0000 len=8089	Rhodococcus qingshengii	26	8089	Annotated
+k141_587 flag=1 multi=150.0000 len=323	Rhodococcus qingshengii	25	323	Annotated
+k141_1360 flag=1 multi=224.0000 len=444	Rhodococcus qingshengii	25	444	Annotated
+k141_1871 flag=1 multi=660.0000 len=6207	Rhodococcus qingshengii	25	6207	Annotated
+k141_399 flag=1 multi=125.0000 len=312	Rhodococcus qingshengii	25	312	Annotated
+k141_2084 flag=1 multi=523.0000 len=568	Rhodococcus qingshengii	27	568	Annotated
+k141_1730 flag=1 multi=138.0000 len=362	Rhodococcus qingshengii	25	362	Annotated
+k141_2092 flag=1 multi=1080.0000 len=3140	Rhodococcus qingshengii	9	3140	Annotated
+k141_241 flag=1 multi=866.0000 len=1056	Rhodococcus qingshengii	20	1056	Annotated
+k141_379 flag=1 multi=385.0000 len=314	NA	NA	314	Unannotated
+k141_1048 flag=1 multi=350.0000 len=1333	Rhodococcus qingshengii	25	1333	Annotated
+k141_389 flag=1 multi=621.0000 len=437	Rhodococcus qingshengii	25	437	Annotated
+k141_496 flag=1 multi=291.0000 len=344	NA	NA	344	Unannotated
+k141_2039 flag=1 multi=701.0000 len=51808	Rhodococcus qingshengii	28	51808	Annotated
+k141_299 flag=1 multi=697.0000 len=1666	Rhodococcus qingshengii	25	1666	Annotated
+k141_1382 flag=1 multi=13.0000 len=349	NA	NA	349	Unannotated
+k141_474 flag=1 multi=711.0000 len=9612	Rhodococcus qingshengii	25	9612	Annotated
+k141_294 flag=1 multi=1723.8667 len=381	NA	NA	381	Unannotated
+k141_1904 flag=1 multi=856.0000 len=347	Rhodococcus qingshengii	25	347	Annotated
+k141_1908 flag=1 multi=121.0000 len=392	Salvelinus alpinus	47	392	Target
+k141_2180 flag=1 multi=52.0000 len=303	Rathayibacter toxicus	18	303	Target
+k141_1897 flag=1 multi=16.0000 len=374	Roseomonas fluvialis	1	374	Target
+k141_1807 flag=1 multi=741.0000 len=9333	Rhodococcus qingshengii	25	9333	Annotated
+k141_2019 flag=1 multi=670.0000 len=21317	Rhodococcus qingshengii	25	21317	Annotated
+k141_2140 flag=1 multi=649.0000 len=6347	Rhodococcus qingshengii	25	6347	Annotated
+k141_684 flag=1 multi=609.0000 len=1527	Rhodococcus qingshengii	25	1527	Annotated
+k141_651 flag=1 multi=745.0000 len=15033	Rhodococcus qingshengii	25	15033	Annotated
+k141_680 flag=1 multi=217.0000 len=553	Rhodococcus qingshengii	25	553	Annotated
+k141_1656 flag=1 multi=271.0000 len=421	Rhodococcus qingshengii	25	421	Annotated
+k141_1973 flag=1 multi=687.0000 len=2081	Rhodococcus qingshengii	24	2081	Annotated
+k141_1663 flag=1 multi=700.0000 len=12638	Rhodococcus qingshengii	25	12638	Annotated
+k141_2094 flag=1 multi=738.0000 len=15651	Prescottella equi	26	15651	Target
+k141_1703 flag=1 multi=686.0000 len=8564	Rhodococcus qingshengii	25	8564	Annotated
+k141_484 flag=1 multi=229.0000 len=684	Rhodococcus qingshengii	17	684	Annotated
+k141_1313 flag=1 multi=349.0000 len=4631	Rhodococcus qingshengii	25	4631	Annotated
+k141_1369 flag=1 multi=525.0000 len=406	Rhodococcus qingshengii	25	406	Annotated
+k141_1134 flag=1 multi=262.0000 len=1316	Rhodococcus qingshengii	25	1316	Annotated
+k141_1229 flag=1 multi=478.0000 len=5649	Mycobacteroides abscessus subsp. abscessus	25	5649	Target
+k141_1883 flag=1 multi=294.0000 len=317	Mycolicibacterium aurum	1	317	Target
+k141_1324 flag=1 multi=208.1916 len=308	NA	NA	308	Unannotated
+k141_449 flag=1 multi=73.0000 len=317	NA	NA	317	Unannotated
+k141_433 flag=1 multi=94.0000 len=332	NA	NA	332	Unannotated
+k141_441 flag=1 multi=61.0000 len=336	Escherichia coli	93	336	Target
+k141_2145 flag=1 multi=360.0000 len=398	Rhodococcus aetherivorans	2	398	Target
+k141_364 flag=1 multi=686.0000 len=40736	Rhodococcus qingshengii	25	40736	Annotated
+k141_1002 flag=1 multi=671.0000 len=8300	Rhodococcus qingshengii	26	8300	Annotated
+k141_1288 flag=1 multi=1457.0000 len=525	Phyllosticta yuccae	2	525	Target
+k141_1587 flag=1 multi=120.0000 len=430	Chitinophagaceae bacterium	1	430	Target
+k141_1284 flag=1 multi=174.0000 len=398	Bordetella hinzii	19	398	Target
+k141_209 flag=1 multi=344.0000 len=330	Rhodococcus qingshengii	21	330	Annotated
+k141_1463 flag=1 multi=848.0000 len=11139	Prescottella equi	15	11139	Target
+k141_593 flag=1 multi=665.0000 len=2612	Rhodococcus qingshengii	25	2612	Annotated
+k141_553 flag=1 multi=28.0000 len=312	Ensifer adhaerens	12	312	Target
+k141_544 flag=1 multi=765.0000 len=3104	Rhodococcus qingshengii	25	3104	Annotated
+k141_1834 flag=1 multi=354.0000 len=417	NA	NA	417	Unannotated
+k141_2346 flag=1 multi=187.0000 len=494	Rhodococcus qingshengii	25	494	Annotated
+k141_2351 flag=1 multi=205.0000 len=323	Rhodococcus qingshengii	25	323	Annotated
+k141_250 flag=1 multi=239.0000 len=459	Rhodococcus qingshengii	25	459	Annotated
+k141_1371 flag=1 multi=732.0000 len=18715	Rhodococcus qingshengii	25	18715	Annotated
+k141_692 flag=1 multi=187.0000 len=757	Rhodococcus qingshengii	25	757	Annotated
+k141_1176 flag=1 multi=193.0000 len=342	Escherichia coli	96	342	Target
+k141_1945 flag=1 multi=715.0000 len=29037	Rhodococcus qingshengii	25	29037	Annotated
+k141_2321 flag=1 multi=218.0000 len=891	Rhodococcus qingshengii	26	891	Annotated
+k141_2316 flag=1 multi=1544.0000 len=1179	Rhodococcus qingshengii	25	1179	Annotated
+k141_878 flag=1 multi=694.0000 len=20546	Prescottella equi	26	20546	Target
+k141_1137 flag=1 multi=653.0000 len=2272	Rhodococcus qingshengii	25	2272	Annotated
+k141_1836 flag=1 multi=208.0000 len=362	Escherichia coli	90	362	Target
+k141_1153 flag=1 multi=268.0000 len=592	Rhodococcus qingshengii	25	592	Annotated
+k141_2227 flag=1 multi=422.0000 len=362	Rhodococcus qingshengii	7	362	Annotated
+k141_407 flag=1 multi=652.0000 len=13723	Rhodococcus qingshengii	25	13723	Annotated
+k141_1145 flag=1 multi=808.0000 len=524	NA	NA	524	Unannotated
+k141_964 flag=1 multi=1066.0000 len=2957	Streptomyces europaeiscabiei	6	2957	Target
+k141_657 flag=1 multi=687.0000 len=23157	Rhodococcus qingshengii	5	23157	Annotated
+k141_1994 flag=1 multi=678.0000 len=3842	Rhodococcus qingshengii	25	3842	Annotated
+k141_2025 flag=1 multi=684.0000 len=11600	Rhodococcus qingshengii	25	11600	Annotated
+k141_1614 flag=1 multi=795.0000 len=11424	Rhodococcus qingshengii	25	11424	Annotated
+k141_1178 flag=1 multi=347.0000 len=818	Rhodococcus qingshengii	16	818	Annotated
+k141_2222 flag=1 multi=470.0000 len=438	Rhodococcus qingshengii	25	438	Annotated
+k141_2050 flag=1 multi=712.0000 len=22162	Prescottella equi	26	22162	Target
+k141_698 flag=1 multi=689.0000 len=745	Rhodococcus qingshengii	18	745	Annotated
+k141_1955 flag=1 multi=654.0000 len=5104	Prescottella equi	26	5104	Target
+k141_693 flag=1 multi=479.0000 len=465	Rhodococcus qingshengii	11	465	Annotated
+k141_659 flag=1 multi=242.0000 len=403	Rhodococcus qingshengii	24	403	Annotated
+k141_704 flag=1 multi=305.0000 len=964	Rhodococcus qingshengii	26	964	Annotated
+k141_802 flag=1 multi=551.0000 len=6734	Rhodococcus qingshengii	25	6734	Annotated
+k141_2032 flag=1 multi=674.0000 len=2158	Rhodococcus qingshengii	25	2158	Annotated
+k141_1473 flag=1 multi=139.0000 len=332	Rhodococcus qingshengii	25	332	Annotated
+k141_1625 flag=1 multi=195.0000 len=413	Rhodococcus qingshengii	25	413	Annotated
+k141_2255 flag=1 multi=642.0000 len=3616	Rhodococcus qingshengii	25	3616	Annotated
+k141_887 flag=1 multi=452.0000 len=1916	Rhodococcus qingshengii	28	1916	Annotated
+k141_1787 flag=1 multi=739.0000 len=1701	Rhodococcus qingshengii	25	1701	Annotated
+k141_1783 flag=1 multi=254.0000 len=537	Rhodococcus qingshengii	25	537	Annotated
+k141_2096 flag=1 multi=693.0000 len=43663	Rhodococcus qingshengii	25	43663	Annotated
+k141_1475 flag=1 multi=676.0000 len=3452	Rhodococcus qingshengii	25	3452	Annotated
+k141_2283 flag=1 multi=602.0000 len=1919	Rhodococcus qingshengii	26	1919	Annotated
+k141_1962 flag=1 multi=321.0000 len=11452	Burkholderia glumae	4	11452	Target
+k141_1249 flag=1 multi=27.0000 len=333	Achromobacter xylosoxidans	6	333	Target
+k141_518 flag=1 multi=721.0000 len=23655	Rhodococcus qingshengii	25	23655	Annotated
+k141_814 flag=1 multi=648.0000 len=443	Rhodococcus qingshengii	25	443	Annotated
+k141_1257 flag=1 multi=630.0000 len=28116	Rhodococcus qingshengii	25	28116	Annotated
+k141_777 flag=1 multi=884.0000 len=331	Rhodococcus erythropolis	9	331	Annotated
+k141_2295 flag=1 multi=147.0000 len=313	Rhodococcus qingshengii	26	313	Annotated
+k141_2368 flag=3 multi=33.1919 len=313	NA	NA	313	Unannotated
+k141_780 flag=1 multi=666.0000 len=982	Rhodococcus qingshengii	25	982	Annotated
+k141_2109 flag=1 multi=111.0000 len=358	NA	NA	358	Unannotated
+k141_720 flag=1 multi=687.0000 len=4117	Rhodococcus qingshengii	25	4117	Annotated
+k141_157 flag=1 multi=554.0000 len=1523	Rhodococcus qingshengii	25	1523	Annotated
+k141_1794 flag=1 multi=24.0000 len=335	NA	NA	335	Unannotated
+k141_169 flag=1 multi=664.0000 len=2542	Rhodococcus qingshengii	25	2542	Annotated
+k141_716 flag=1 multi=176.0000 len=501	Rhodococcus qingshengii	25	501	Annotated
+k141_975 flag=1 multi=683.0000 len=28626	Prescottella equi	25	28626	Target
+k141_1419 flag=1 multi=51.0000 len=623	Tistrella mobilis	10	623	Target

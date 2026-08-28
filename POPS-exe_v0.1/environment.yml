@@ -1,0 +1,17 @@
+name: pops
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.11
+  - pip=24.2
+  - megahit=1.2.9
+  - mmseqs2=15.6f452
+  - bowtie2=2.5.4
+  - samtools=1.20
+  - bedtools=2.31.1
+  - pyyaml=6.0.2
+  - pytest=8.3.2
+  - pip:
+      - -e .

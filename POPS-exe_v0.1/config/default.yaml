@@ -1,0 +1,18 @@
+# POPS manuscript-compatible defaults.
+# Scientific parameters should not be changed when reproducing manuscript analyses.
+scientific:
+  min_contig_length: 200
+  mmseqs_min_seq_id: 0.90
+  mmseqs_min_coverage: 0.90
+  mmseqs_cov_mode: 0
+  bowtie2_preset: very-sensitive
+  bowtie2_report_mode: all
+  detection_max_overlap_fraction: 0.30
+
+# Resource settings do not change the scientific definition of the workflow.
+resources:
+  threads_megahit: 16
+  threads_mmseqs: 8
+  threads_bowtie2: 4
+  mapping_jobs: 4
+  merge_batch_size: 128

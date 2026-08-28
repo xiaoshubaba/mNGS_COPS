@@ -1,0 +1,4 @@
+sample_id	library_id	read1	read2	library_type	comment
+G01	G01_DNA	/data/G01_DNA_R1.fastq.gz	/data/G01_DNA_R2.fastq.gz	DNA	paired-end DNA library
+G01	G01_RNA	/data/G01_RNA_R1.fastq.gz	/data/G01_RNA_R2.fastq.gz	RNA	paired-end RNA library from same biological sample
+G02	G02_RNA	/data/G02.fastq.gz	.	RNA	single-end example

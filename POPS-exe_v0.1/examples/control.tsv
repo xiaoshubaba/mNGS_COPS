@@ -1,0 +1,3 @@
+sample_id	library_id	read1	read2	library_type	comment
+C01	C01_DNA	/data/C01_R1.fastq.gz	/data/C01_R2.fastq.gz	DNA	paired-end control library
+C02	C02_RNA	/data/C02.fastq.gz	.	RNA	single-end control library

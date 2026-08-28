@@ -1,6 +1,3 @@
-POPS: Predicted Outbreak Pathogen Sequences
-
-
 Reference-Free Metagenomic Pathogen Detection for Outbreaks
 
 
